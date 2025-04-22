@@ -1,0 +1,34 @@
+{
+    "country_name": "Canada",
+    "abbreviation": "CA",
+    "cities": [
+        {
+            "name": "Toronto",
+            "state": "ON"
+        },
+        {
+            "name": "Montreal",
+            "state": "QC"
+        },
+        {
+            "name": "Vancouver",
+            "state": "BC"
+        },
+        {
+            "name": "Calgary",
+            "state": "AB"
+        },
+        {
+            "name": "Edmonton",
+            "state": "AB"
+        },
+        {
+            "name": "Winnipeg",
+            "state": "MB"
+        },
+        {
+            "name": "Ottawa",
+            "state": "ON"
+        }
+    ]
+}

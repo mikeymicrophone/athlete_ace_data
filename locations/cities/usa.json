@@ -1,0 +1,222 @@
+{
+    "country_name": "United States",
+    "abbreviation": "US",
+    "cities": [
+        {
+            "name": "Los Angeles",
+            "state": "CA"
+        },
+        {
+            "name": "San Francisco",
+            "state": "CA"
+        },
+        {
+            "name": "New York City",
+            "state": "NY"
+        },
+        {
+            "name": "Chicago",
+            "state": "IL"
+        },
+        {
+            "name": "Houston",
+            "state": "TX"
+        },
+        {
+            "name": "Phoenix",
+            "state": "AZ"
+        },
+        {
+            "name": "Philadelphia",
+            "state": "PA"
+        },
+        {
+            "name": "San Antonio",
+            "state": "TX"
+        },
+        {
+            "name": "San Diego",
+            "state": "CA"
+        },
+        {
+            "name": "Dallas",
+            "state": "TX"
+        },
+        {
+            "name": "San Jose",
+            "state": "CA"
+        },
+        {
+            "name": "Austin",
+            "state": "TX"
+        },
+        {
+            "name": "Indianapolis",
+            "state": "IN"
+        },
+        {
+            "name": "Jacksonville",
+            "state": "FL"
+        },
+        {
+            "name": "Charlotte",
+            "state": "NC"
+        },
+        {
+            "name": "Seattle",
+            "state": "WA"
+        },
+        {
+            "name": "Denver",
+            "state": "CO"
+        },
+        {
+            "name": "Washington",
+            "state": "DC"
+        },
+        {
+            "name": "Boston",
+            "state": "MA"
+        },
+        {
+            "name": "Nashville",
+            "state": "TN"
+        },
+        {
+            "name": "Baltimore",
+            "state": "MD"
+        },
+        {
+            "name": "Oklahoma City",
+            "state": "OK"
+        },
+        {
+            "name": "Portland",
+            "state": "OR"
+        },
+        {
+            "name": "Las Vegas",
+            "state": "NV"
+        },
+        {
+            "name": "Memphis",
+            "state": "TN"
+        },
+        {
+            "name": "Milwaukee",
+            "state": "WI"
+        },
+        {
+            "name": "Albuquerque",
+            "state": "NM"
+        },
+        {
+            "name": "Tucson",
+            "state": "AZ"
+        },
+        {
+            "name": "Sacramento",
+            "state": "CA"
+        },
+        {
+            "name": "Kansas City",
+            "state": "MO"
+        },
+        {
+            "name": "Atlanta",
+            "state": "GA"
+        },
+        {
+            "name": "Raleigh",
+            "state": "NC"
+        },
+        {
+            "name": "Miami",
+            "state": "FL"
+        },
+        {
+            "name": "Cleveland",
+            "state": "OH"
+        },
+        {
+            "name": "Tampa",
+            "state": "FL"
+        },
+        {
+            "name": "Orlando",
+            "state": "FL"
+        },
+        {
+            "name": "St. Louis",
+            "state": "MO"
+        },
+        {
+            "name": "Pittsburgh",
+            "state": "PA"
+        },
+        {
+            "name": "Cincinnati",
+            "state": "OH"
+        },
+        {
+            "name": "Brooklyn",
+            "state": "NY"
+        },
+        {
+            "name": "Arlington",
+            "state": "TX"
+        },
+        {
+            "name": "St. Paul",
+            "state": "MN"
+        },
+        {
+            "name": "Minneapolis",
+            "state": "MN"
+        },
+        {
+            "name": "Buffalo",
+            "state": "NY"
+        },
+        {
+            "name": "Detroit",
+            "state": "MI"
+        },
+        {
+            "name": "Louisville",
+            "state": "KY"
+        },
+        {
+            "name": "Salt Lake City",
+            "state": "UT"
+        },
+        {
+            "name": "Columbus",
+            "state": "OH"
+        },
+        {
+            "name": "Glendale",
+            "state": "AZ"
+        },
+        {
+            "name": "Oakland",
+            "state": "CA"
+        },
+        {
+            "name": "Anaheim",
+            "state": "CA"
+        },
+        {
+            "name": "Fort Lauderdale",
+            "state": "FL"
+        },
+        {
+            "name": "New Orleans",
+            "state": "LA"
+        },
+        {
+            "name": "Green Bay",
+            "state": "WI"
+        }
+    ]
+}
