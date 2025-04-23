@@ -1,4 +1,109 @@
 {
     "team_name": "Blue Jays",
-    "players": []
+    "players": [
+        {
+            "first_name": "Addison",
+            "last_name": "Barger"
+        },
+        {
+            "first_name": "Alan",
+            "last_name": "Roden"
+        },
+        {
+            "first_name": "Alejandro",
+            "last_name": "Kirk"
+        },
+        {
+            "first_name": "Andr\u00e9s",
+            "last_name": "Gim\u00e9nez"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Santander"
+        },
+        {
+            "first_name": "Bo",
+            "last_name": "Bichette"
+        },
+        {
+            "first_name": "Bowden",
+            "last_name": "Francis"
+        },
+        {
+            "first_name": "Brendon",
+            "last_name": "Little"
+        },
+        {
+            "first_name": "Chad",
+            "last_name": "Green"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Bassitt"
+        },
+        {
+            "first_name": "Dillon",
+            "last_name": "Tate"
+        },
+        {
+            "first_name": "Ernie",
+            "last_name": "Clement"
+        },
+        {
+            "first_name": "George",
+            "last_name": "Springer"
+        },
+        {
+            "first_name": "Jeff",
+            "last_name": "Hoffman"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Berr\u00edos"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Walker"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "Gausman"
+        },
+        {
+            "first_name": "Mason",
+            "last_name": "Fluharty"
+        },
+        {
+            "first_name": "Myles",
+            "last_name": "Straw"
+        },
+        {
+            "first_name": "Nathan",
+            "last_name": "Lukes"
+        },
+        {
+            "first_name": "Paxton",
+            "last_name": "Schultz"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Heineman"
+        },
+        {
+            "first_name": "Vladimir",
+            "last_name": "Guerrero Jr."
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Wagner"
+        },
+        {
+            "first_name": "Yariel",
+            "last_name": "Rodr\u00edguez"
+        },
+        {
+            "first_name": "Yimi",
+            "last_name": "Garc\u00eda"
+        }
+    ]
 }

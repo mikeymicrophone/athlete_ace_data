@@ -1,4 +1,109 @@
 {
     "team_name": "Marlins",
-    "players": []
+    "players": [
+        {
+            "first_name": "Agust\u00edn",
+            "last_name": "Ram\u00edrez"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Bender"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Veneziano"
+        },
+        {
+            "first_name": "Cal",
+            "last_name": "Quantrill"
+        },
+        {
+            "first_name": "Calvin",
+            "last_name": "Faucher"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Gillispie"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Norby"
+        },
+        {
+            "first_name": "Dane",
+            "last_name": "Myers"
+        },
+        {
+            "first_name": "Edward",
+            "last_name": "Cabrera"
+        },
+        {
+            "first_name": "Eric",
+            "last_name": "Wagaman"
+        },
+        {
+            "first_name": "George",
+            "last_name": "Soriano"
+        },
+        {
+            "first_name": "Graham",
+            "last_name": "Pauley"
+        },
+        {
+            "first_name": "Javier",
+            "last_name": "Sanoja"
+        },
+        {
+            "first_name": "Jes\u00fas",
+            "last_name": "S\u00e1nchez"
+        },
+        {
+            "first_name": "Jesus",
+            "last_name": "Tinoco"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Stowers"
+        },
+        {
+            "first_name": "Lake",
+            "last_name": "Bachar"
+        },
+        {
+            "first_name": "Liam",
+            "last_name": "Hicks"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Mervis"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Meyer"
+        },
+        {
+            "first_name": "Otto",
+            "last_name": "Lopez"
+        },
+        {
+            "first_name": "Ronny",
+            "last_name": "Henriquez"
+        },
+        {
+            "first_name": "Ronny",
+            "last_name": "Simon"
+        },
+        {
+            "first_name": "Sandy",
+            "last_name": "Alcantara"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Phillips"
+        },
+        {
+            "first_name": "Xavier",
+            "last_name": "Edwards"
+        }
+    ]
 }

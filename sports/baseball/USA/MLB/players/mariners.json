@@ -1,4 +1,109 @@
 {
     "team_name": "Mariners",
-    "players": []
+    "players": [
+        {
+            "first_name": "Andr\u00e9s",
+            "last_name": "Mu\u00f1oz"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "Williamson"
+        },
+        {
+            "first_name": "Bryan",
+            "last_name": "Woo"
+        },
+        {
+            "first_name": "Bryce",
+            "last_name": "Miller"
+        },
+        {
+            "first_name": "Cal",
+            "last_name": "Raleigh"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Vargas"
+        },
+        {
+            "first_name": "Casey",
+            "last_name": "Lawrence"
+        },
+        {
+            "first_name": "Casey",
+            "last_name": "Legumina"
+        },
+        {
+            "first_name": "Collin",
+            "last_name": "Snider"
+        },
+        {
+            "first_name": "Donovan",
+            "last_name": "Solano"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "Moore"
+        },
+        {
+            "first_name": "Eduard",
+            "last_name": "Bazardo"
+        },
+        {
+            "first_name": "Emerson",
+            "last_name": "Hancock"
+        },
+        {
+            "first_name": "Gabe",
+            "last_name": "Speier"
+        },
+        {
+            "first_name": "J.P.",
+            "last_name": "Crawford"
+        },
+        {
+            "first_name": "Jorge",
+            "last_name": "Polanco"
+        },
+        {
+            "first_name": "Julio",
+            "last_name": "Rodr\u00edguez"
+        },
+        {
+            "first_name": "Leo",
+            "last_name": "Rivas"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "Gilbert"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Castillo"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Raley"
+        },
+        {
+            "first_name": "Miles",
+            "last_name": "Mastrobuoni"
+        },
+        {
+            "first_name": "Mitch",
+            "last_name": "Garver"
+        },
+        {
+            "first_name": "Randy",
+            "last_name": "Arozarena"
+        },
+        {
+            "first_name": "Rowdy",
+            "last_name": "Tellez"
+        },
+        {
+            "first_name": "Trent",
+            "last_name": "Thornton"
+        }
+    ]
 }

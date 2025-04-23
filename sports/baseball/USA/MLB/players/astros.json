@@ -1,4 +1,109 @@
 {
     "team_name": "Astros",
-    "players": []
+    "players": [
+        {
+            "first_name": "Bennett",
+            "last_name": "Sousa"
+        },
+        {
+            "first_name": "Brendan",
+            "last_name": "Rodgers"
+        },
+        {
+            "first_name": "Bryan",
+            "last_name": "Abreu"
+        },
+        {
+            "first_name": "Bryan",
+            "last_name": "King"
+        },
+        {
+            "first_name": "Cam",
+            "last_name": "Smith"
+        },
+        {
+            "first_name": "Chas",
+            "last_name": "McCormick"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "Walker"
+        },
+        {
+            "first_name": "Forrest",
+            "last_name": "Whitley"
+        },
+        {
+            "first_name": "Framber",
+            "last_name": "Valdez"
+        },
+        {
+            "first_name": "Hayden",
+            "last_name": "Wesneski"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Brown"
+        },
+        {
+            "first_name": "Isaac",
+            "last_name": "Paredes"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Meyers"
+        },
+        {
+            "first_name": "Jeremy",
+            "last_name": "Pe\u00f1a"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "Altuve"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Hader"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "VanWey"
+        },
+        {
+            "first_name": "Mauricio",
+            "last_name": "Dub\u00f3n"
+        },
+        {
+            "first_name": "Ronel",
+            "last_name": "Blanco"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Gusto"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "Okert"
+        },
+        {
+            "first_name": "Tayler",
+            "last_name": "Scott"
+        },
+        {
+            "first_name": "Victor",
+            "last_name": "Caratini"
+        },
+        {
+            "first_name": "Yainer",
+            "last_name": "Diaz"
+        },
+        {
+            "first_name": "Yordan",
+            "last_name": "Alvarez"
+        },
+        {
+            "first_name": "Zach",
+            "last_name": "Dezenzo"
+        }
+    ]
 }

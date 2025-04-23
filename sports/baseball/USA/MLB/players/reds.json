@@ -1,4 +1,109 @@
 {
     "team_name": "Reds",
-    "players": []
+    "players": [
+        {
+            "first_name": "Alexis",
+            "last_name": "D\u00edaz"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Abbott"
+        },
+        {
+            "first_name": "Austin",
+            "last_name": "Hays"
+        },
+        {
+            "first_name": "Austin",
+            "last_name": "Wynns"
+        },
+        {
+            "first_name": "Blake",
+            "last_name": "Dunn"
+        },
+        {
+            "first_name": "Brady",
+            "last_name": "Singer"
+        },
+        {
+            "first_name": "Brent",
+            "last_name": "Suter"
+        },
+        {
+            "first_name": "Elly",
+            "last_name": "De La Cruz"
+        },
+        {
+            "first_name": "Emilio",
+            "last_name": "Pag\u00e1n"
+        },
+        {
+            "first_name": "Gavin",
+            "last_name": "Lux"
+        },
+        {
+            "first_name": "Graham",
+            "last_name": "Ashcraft"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Greene"
+        },
+        {
+            "first_name": "Ian",
+            "last_name": "Gibaut"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Fraley"
+        },
+        {
+            "first_name": "Jeimer",
+            "last_name": "Candelario"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "Trevino"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "McLain"
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "Lodolo"
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "Martinez"
+        },
+        {
+            "first_name": "Noelvi",
+            "last_name": "Marte"
+        },
+        {
+            "first_name": "Santiago",
+            "last_name": "Espinal"
+        },
+        {
+            "first_name": "Scott",
+            "last_name": "Barlow"
+        },
+        {
+            "first_name": "Spencer",
+            "last_name": "Steer"
+        },
+        {
+            "first_name": "TJ",
+            "last_name": "Friedl"
+        },
+        {
+            "first_name": "Taylor",
+            "last_name": "Rogers"
+        },
+        {
+            "first_name": "Tony",
+            "last_name": "Santillan"
+        }
+    ]
 }

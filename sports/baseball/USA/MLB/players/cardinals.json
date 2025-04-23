@@ -1,4 +1,109 @@
 {
     "team_name": "Cardinals",
-    "players": []
+    "players": [
+        {
+            "first_name": "Alec",
+            "last_name": "Burleson"
+        },
+        {
+            "first_name": "Andre",
+            "last_name": "Pallante"
+        },
+        {
+            "first_name": "Brendan",
+            "last_name": "Donovan"
+        },
+        {
+            "first_name": "Erick",
+            "last_name": "Fedde"
+        },
+        {
+            "first_name": "JoJo",
+            "last_name": "Romero"
+        },
+        {
+            "first_name": "John",
+            "last_name": "King"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "Walker"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Leahy"
+        },
+        {
+            "first_name": "Lars",
+            "last_name": "Nootbaar"
+        },
+        {
+            "first_name": "Luken",
+            "last_name": "Baker"
+        },
+        {
+            "first_name": "Masyn",
+            "last_name": "Winn"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Svanson"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Liberatore"
+        },
+        {
+            "first_name": "Miles",
+            "last_name": "Mikolas"
+        },
+        {
+            "first_name": "Nolan",
+            "last_name": "Arenado"
+        },
+        {
+            "first_name": "Nolan",
+            "last_name": "Gorman"
+        },
+        {
+            "first_name": "Pedro",
+            "last_name": "Pag\u00e9s"
+        },
+        {
+            "first_name": "Phil",
+            "last_name": "Maton"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Fernandez"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Helsley"
+        },
+        {
+            "first_name": "Sonny",
+            "last_name": "Gray"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "Matz"
+        },
+        {
+            "first_name": "Thomas",
+            "last_name": "Saggese"
+        },
+        {
+            "first_name": "Victor",
+            "last_name": "Scott II"
+        },
+        {
+            "first_name": "Willson",
+            "last_name": "Contreras"
+        },
+        {
+            "first_name": "Yohel",
+            "last_name": "Pozo"
+        }
+    ]
 }

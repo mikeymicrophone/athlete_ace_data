@@ -1,4 +1,109 @@
 {
     "team_name": "Dodgers",
-    "players": []
+    "players": [
+        {
+            "first_name": "Alex",
+            "last_name": "Vesia"
+        },
+        {
+            "first_name": "Andy",
+            "last_name": "Pages"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Banda"
+        },
+        {
+            "first_name": "Austin",
+            "last_name": "Barnes"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "Casparius"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Taylor"
+        },
+        {
+            "first_name": "Dustin",
+            "last_name": "May"
+        },
+        {
+            "first_name": "Enrique",
+            "last_name": "Hern\u00e1ndez"
+        },
+        {
+            "first_name": "Evan",
+            "last_name": "Phillips"
+        },
+        {
+            "first_name": "Freddie",
+            "last_name": "Freeman"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Dreyer"
+        },
+        {
+            "first_name": "Kirby",
+            "last_name": "Yates"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Garc\u00eda"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Muncy"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Conforto"
+        },
+        {
+            "first_name": "Miguel",
+            "last_name": "Rojas"
+        },
+        {
+            "first_name": "Mookie",
+            "last_name": "Betts"
+        },
+        {
+            "first_name": "Noah",
+            "last_name": "Davis"
+        },
+        {
+            "first_name": "Roki",
+            "last_name": "Sasaki"
+        },
+        {
+            "first_name": "Shohei",
+            "last_name": "Ohtani"
+        },
+        {
+            "first_name": "Tanner",
+            "last_name": "Scott"
+        },
+        {
+            "first_name": "Teoscar",
+            "last_name": "Hern\u00e1ndez"
+        },
+        {
+            "first_name": "Tommy",
+            "last_name": "Edman"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Glasnow"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Smith"
+        },
+        {
+            "first_name": "Yoshinobu",
+            "last_name": "Yamamoto"
+        }
+    ]
 }

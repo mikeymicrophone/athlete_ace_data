@@ -1,4 +1,109 @@
 {
     "team_name": "Pirates",
-    "players": []
+    "players": [
+        {
+            "first_name": "Adam",
+            "last_name": "Frazier"
+        },
+        {
+            "first_name": "Alexander",
+            "last_name": "Canario"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Heaney"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "McCutchen"
+        },
+        {
+            "first_name": "Bailey",
+            "last_name": "Falter"
+        },
+        {
+            "first_name": "Bryan",
+            "last_name": "Reynolds"
+        },
+        {
+            "first_name": "Caleb",
+            "last_name": "Ferguson"
+        },
+        {
+            "first_name": "Carmen",
+            "last_name": "Mlodzinski"
+        },
+        {
+            "first_name": "Chase",
+            "last_name": "Shugart"
+        },
+        {
+            "first_name": "David",
+            "last_name": "Bednar"
+        },
+        {
+            "first_name": "Dennis",
+            "last_name": "Santana"
+        },
+        {
+            "first_name": "Enmanuel",
+            "last_name": "Valdez"
+        },
+        {
+            "first_name": "Henry",
+            "last_name": "Davis"
+        },
+        {
+            "first_name": "Isiah",
+            "last_name": "Kiner-Falefa"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Suwinski"
+        },
+        {
+            "first_name": "Jared",
+            "last_name": "Triolo"
+        },
+        {
+            "first_name": "Joey",
+            "last_name": "Bart"
+        },
+        {
+            "first_name": "Joey",
+            "last_name": "Wentz"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Lawrence"
+        },
+        {
+            "first_name": "Ke'Bryan",
+            "last_name": "Hayes"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Nicolas"
+        },
+        {
+            "first_name": "Mitch",
+            "last_name": "Keller"
+        },
+        {
+            "first_name": "Oneil",
+            "last_name": "Cruz"
+        },
+        {
+            "first_name": "Paul",
+            "last_name": "Skenes"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Borucki"
+        },
+        {
+            "first_name": "Tommy",
+            "last_name": "Pham"
+        }
+    ]
 }

@@ -1,4 +1,109 @@
 {
     "team_name": "Brewers",
-    "players": []
+    "players": [
+        {
+            "first_name": "Abner",
+            "last_name": "Uribe"
+        },
+        {
+            "first_name": "Brice",
+            "last_name": "Turang"
+        },
+        {
+            "first_name": "Bryan",
+            "last_name": "Hudson"
+        },
+        {
+            "first_name": "Caleb",
+            "last_name": "Durbin"
+        },
+        {
+            "first_name": "Chad",
+            "last_name": "Patrick"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "Yelich"
+        },
+        {
+            "first_name": "Craig",
+            "last_name": "Yoho"
+        },
+        {
+            "first_name": "Eric",
+            "last_name": "Haase"
+        },
+        {
+            "first_name": "Freddy",
+            "last_name": "Peralta"
+        },
+        {
+            "first_name": "Garrett",
+            "last_name": "Mitchell"
+        },
+        {
+            "first_name": "Grant",
+            "last_name": "Anderson"
+        },
+        {
+            "first_name": "Isaac",
+            "last_name": "Collins"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Chourio"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Bauers"
+        },
+        {
+            "first_name": "Jared",
+            "last_name": "Koenig"
+        },
+        {
+            "first_name": "Joel",
+            "last_name": "Payamps"
+        },
+        {
+            "first_name": "Joey",
+            "last_name": "Ortiz"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "Quintana"
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "Mears"
+        },
+        {
+            "first_name": "Quinn",
+            "last_name": "Priester"
+        },
+        {
+            "first_name": "Rhys",
+            "last_name": "Hoskins"
+        },
+        {
+            "first_name": "Sal",
+            "last_name": "Frelick"
+        },
+        {
+            "first_name": "Trevor",
+            "last_name": "Megill"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Alexander"
+        },
+        {
+            "first_name": "Vinny",
+            "last_name": "Capra"
+        },
+        {
+            "first_name": "William",
+            "last_name": "Contreras"
+        }
+    ]
 }

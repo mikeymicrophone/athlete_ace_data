@@ -1,4 +1,109 @@
 {
     "team_name": "White Sox",
-    "players": []
+    "players": [
+        {
+            "first_name": "Andrew",
+            "last_name": "Benintendi"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Vaughn"
+        },
+        {
+            "first_name": "Bobby",
+            "last_name": "Dalbec"
+        },
+        {
+            "first_name": "Brandon",
+            "last_name": "Eisert"
+        },
+        {
+            "first_name": "Brooks",
+            "last_name": "Baldwin"
+        },
+        {
+            "first_name": "Bryse",
+            "last_name": "Wilson"
+        },
+        {
+            "first_name": "Cam",
+            "last_name": "Booser"
+        },
+        {
+            "first_name": "Davis",
+            "last_name": "Martin"
+        },
+        {
+            "first_name": "Edgar",
+            "last_name": "Quero"
+        },
+        {
+            "first_name": "Jacob",
+            "last_name": "Amaya"
+        },
+        {
+            "first_name": "Jared",
+            "last_name": "Shuster"
+        },
+        {
+            "first_name": "Jonathan",
+            "last_name": "Cannon"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "Leasure"
+        },
+        {
+            "first_name": "Joshua",
+            "last_name": "Palacios"
+        },
+        {
+            "first_name": "Lenyn",
+            "last_name": "Sosa"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Robert Jr."
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Thaiss"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "A. Taylor"
+        },
+        {
+            "first_name": "Miguel",
+            "last_name": "Vargas"
+        },
+        {
+            "first_name": "Mike",
+            "last_name": "Vasil"
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "Maton"
+        },
+        {
+            "first_name": "Penn",
+            "last_name": "Murfee"
+        },
+        {
+            "first_name": "Sean",
+            "last_name": "Burke"
+        },
+        {
+            "first_name": "Shane",
+            "last_name": "Smith"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "Wilson"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Gilbert"
+        }
+    ]
 }

@@ -1,4 +1,109 @@
 {
     "team_name": "Padres",
-    "players": []
+    "players": [
+        {
+            "first_name": "Adrian",
+            "last_name": "Morejon"
+        },
+        {
+            "first_name": "Alek",
+            "last_name": "Jacob"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Joe"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "Cease"
+        },
+        {
+            "first_name": "Elias",
+            "last_name": "D\u00edaz"
+        },
+        {
+            "first_name": "Fernando",
+            "last_name": "Tatis Jr."
+        },
+        {
+            "first_name": "Gavin",
+            "last_name": "Sheets"
+        },
+        {
+            "first_name": "Jason",
+            "last_name": "Adam"
+        },
+        {
+            "first_name": "Jeremiah",
+            "last_name": "Estrada"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "Iglesias"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Hart"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "Gillaspie"
+        },
+        {
+            "first_name": "Manny",
+            "last_name": "Machado"
+        },
+        {
+            "first_name": "Mart\u00edn",
+            "last_name": "Maldonado"
+        },
+        {
+            "first_name": "Mason",
+            "last_name": "McCoy"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "King"
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "Pivetta"
+        },
+        {
+            "first_name": "Oscar",
+            "last_name": "Gonzalez"
+        },
+        {
+            "first_name": "Randy",
+            "last_name": "V\u00e1squez"
+        },
+        {
+            "first_name": "Robert",
+            "last_name": "Suarez"
+        },
+        {
+            "first_name": "Tirso",
+            "last_name": "Ornelas"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Wade"
+        },
+        {
+            "first_name": "Wandy",
+            "last_name": "Peralta"
+        },
+        {
+            "first_name": "Xander",
+            "last_name": "Bogaerts"
+        },
+        {
+            "first_name": "Yuki",
+            "last_name": "Matsui"
+        },
+        {
+            "first_name": "Yuli",
+            "last_name": "Gurriel"
+        }
+    ]
 }

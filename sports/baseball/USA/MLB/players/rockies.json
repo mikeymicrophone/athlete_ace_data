@@ -1,4 +1,109 @@
 {
     "team_name": "Rockies",
-    "players": []
+    "players": [
+        {
+            "first_name": "Aaron",
+            "last_name": "Schunk"
+        },
+        {
+            "first_name": "Adael",
+            "last_name": "Amador"
+        },
+        {
+            "first_name": "Angel",
+            "last_name": "Chivilli"
+        },
+        {
+            "first_name": "Antonio",
+            "last_name": "Senzatela"
+        },
+        {
+            "first_name": "Braxton",
+            "last_name": "Fulford"
+        },
+        {
+            "first_name": "Brenton",
+            "last_name": "Doyle"
+        },
+        {
+            "first_name": "Chase",
+            "last_name": "Dollander"
+        },
+        {
+            "first_name": "Germ\u00e1n",
+            "last_name": "M\u00e1rquez"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Goodman"
+        },
+        {
+            "first_name": "Jacob",
+            "last_name": "Stallings"
+        },
+        {
+            "first_name": "Jaden",
+            "last_name": "Hill"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Bird"
+        },
+        {
+            "first_name": "Jimmy",
+            "last_name": "Herget"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "Beck"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Farmer"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Freeland"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Toglia"
+        },
+        {
+            "first_name": "Mickey",
+            "last_name": "Moniak"
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "Martini"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Feltner"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "McMahon"
+        },
+        {
+            "first_name": "Scott",
+            "last_name": "Alexander"
+        },
+        {
+            "first_name": "Sean",
+            "last_name": "Bouchard"
+        },
+        {
+            "first_name": "Seth",
+            "last_name": "Halvorsen"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Kinley"
+        },
+        {
+            "first_name": "Zach",
+            "last_name": "Agnos"
+        }
+    ]
 }

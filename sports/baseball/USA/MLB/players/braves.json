@@ -1,4 +1,109 @@
 {
     "team_name": "Braves",
-    "players": []
+    "players": [
+        {
+            "first_name": "Aaron",
+            "last_name": "Bummer"
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Verdugo"
+        },
+        {
+            "first_name": "Austin",
+            "last_name": "Riley"
+        },
+        {
+            "first_name": "Bryce",
+            "last_name": "Elder"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Sale"
+        },
+        {
+            "first_name": "Daysbel",
+            "last_name": "Hern\u00e1ndez"
+        },
+        {
+            "first_name": "Drake",
+            "last_name": "Baldwin"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "Lee"
+        },
+        {
+            "first_name": "Eli",
+            "last_name": "White"
+        },
+        {
+            "first_name": "Enyel",
+            "last_name": "De Los Santos"
+        },
+        {
+            "first_name": "Grant",
+            "last_name": "Holmes"
+        },
+        {
+            "first_name": "Jarred",
+            "last_name": "Kelenic"
+        },
+        {
+            "first_name": "Jesse",
+            "last_name": "Chavez"
+        },
+        {
+            "first_name": "Marcell",
+            "last_name": "Ozuna"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Olson"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Harris II"
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "Allen"
+        },
+        {
+            "first_name": "Orlando",
+            "last_name": "Arcia"
+        },
+        {
+            "first_name": "Ozzie",
+            "last_name": "Albies"
+        },
+        {
+            "first_name": "Pierce",
+            "last_name": "Johnson"
+        },
+        {
+            "first_name": "Rafael",
+            "last_name": "Montero"
+        },
+        {
+            "first_name": "Raisel",
+            "last_name": "Iglesias"
+        },
+        {
+            "first_name": "Scott",
+            "last_name": "Blewett"
+        },
+        {
+            "first_name": "Sean",
+            "last_name": "Murphy"
+        },
+        {
+            "first_name": "Spencer",
+            "last_name": "Schwellenbach"
+        },
+        {
+            "first_name": "Stuart",
+            "last_name": "Fairchild"
+        }
+    ]
 }

@@ -1,4 +1,109 @@
 {
     "team_name": "Cubs",
-    "players": []
+    "players": [
+        {
+            "first_name": "Ben",
+            "last_name": "Brown"
+        },
+        {
+            "first_name": "Brad",
+            "last_name": "Keller"
+        },
+        {
+            "first_name": "Caleb",
+            "last_name": "Thielbar"
+        },
+        {
+            "first_name": "Carson",
+            "last_name": "Kelly"
+        },
+        {
+            "first_name": "Colin",
+            "last_name": "Rea"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Palencia"
+        },
+        {
+            "first_name": "Dansby",
+            "last_name": "Swanson"
+        },
+        {
+            "first_name": "Drew",
+            "last_name": "Pomeranz"
+        },
+        {
+            "first_name": "Ethan",
+            "last_name": "Roberts"
+        },
+        {
+            "first_name": "Ian",
+            "last_name": "Happ"
+        },
+        {
+            "first_name": "Jameson",
+            "last_name": "Taillon"
+        },
+        {
+            "first_name": "Jon",
+            "last_name": "Berti"
+        },
+        {
+            "first_name": "Julian",
+            "last_name": "Merryweather"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Turner"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Tucker"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Boyd"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Busch"
+        },
+        {
+            "first_name": "Miguel",
+            "last_name": "Amaya"
+        },
+        {
+            "first_name": "Nicky",
+            "last_name": "Lopez"
+        },
+        {
+            "first_name": "Nico",
+            "last_name": "Hoerner"
+        },
+        {
+            "first_name": "Pete",
+            "last_name": "Crow-Armstrong"
+        },
+        {
+            "first_name": "Porter",
+            "last_name": "Hodge"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Pressly"
+        },
+        {
+            "first_name": "Seiya",
+            "last_name": "Suzuki"
+        },
+        {
+            "first_name": "Shota",
+            "last_name": "Imanaga"
+        },
+        {
+            "first_name": "Vidal",
+            "last_name": "Bruj\u00e1n"
+        }
+    ]
 }

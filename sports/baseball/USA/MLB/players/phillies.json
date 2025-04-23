@@ -1,4 +1,109 @@
 {
     "team_name": "Phillies",
-    "players": []
+    "players": [
+        {
+            "first_name": "Aaron",
+            "last_name": "Nola"
+        },
+        {
+            "first_name": "Alec",
+            "last_name": "Bohm"
+        },
+        {
+            "first_name": "Bryce",
+            "last_name": "Harper"
+        },
+        {
+            "first_name": "Bryson",
+            "last_name": "Stott"
+        },
+        {
+            "first_name": "Cal",
+            "last_name": "Stevenson"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Hern\u00e1ndez"
+        },
+        {
+            "first_name": "Cristopher",
+            "last_name": "S\u00e1nchez"
+        },
+        {
+            "first_name": "Edmundo",
+            "last_name": "Sosa"
+        },
+        {
+            "first_name": "J.T.",
+            "last_name": "Realmuto"
+        },
+        {
+            "first_name": "Jes\u00fas",
+            "last_name": "Luzardo"
+        },
+        {
+            "first_name": "Joe",
+            "last_name": "Ross"
+        },
+        {
+            "first_name": "Johan",
+            "last_name": "Rojas"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "Romano"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Alvarado"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Ruiz"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Schwarber"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Strahm"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Kepler"
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "Castellanos"
+        },
+        {
+            "first_name": "Orion",
+            "last_name": "Kerkering"
+        },
+        {
+            "first_name": "Rafael",
+            "last_name": "March\u00e1n"
+        },
+        {
+            "first_name": "Taijuan",
+            "last_name": "Walker"
+        },
+        {
+            "first_name": "Tanner",
+            "last_name": "Banks"
+        },
+        {
+            "first_name": "Trea",
+            "last_name": "Turner"
+        },
+        {
+            "first_name": "Weston",
+            "last_name": "Wilson"
+        },
+        {
+            "first_name": "Zack",
+            "last_name": "Wheeler"
+        }
+    ]
 }

@@ -1,4 +1,109 @@
 {
     "team_name": "Red Sox",
-    "players": []
+    "players": [
+        {
+            "first_name": "Alex",
+            "last_name": "Bregman"
+        },
+        {
+            "first_name": "Aroldis",
+            "last_name": "Chapman"
+        },
+        {
+            "first_name": "Blake",
+            "last_name": "Sabol"
+        },
+        {
+            "first_name": "Brayan",
+            "last_name": "Bello"
+        },
+        {
+            "first_name": "Brennan",
+            "last_name": "Bernardino"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Narv\u00e1ez"
+        },
+        {
+            "first_name": "Ceddanne",
+            "last_name": "Rafaela"
+        },
+        {
+            "first_name": "David",
+            "last_name": "Hamilton"
+        },
+        {
+            "first_name": "Garrett",
+            "last_name": "Crochet"
+        },
+        {
+            "first_name": "Garrett",
+            "last_name": "Whitlock"
+        },
+        {
+            "first_name": "Greg",
+            "last_name": "Weissert"
+        },
+        {
+            "first_name": "Jarren",
+            "last_name": "Duran"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Winckowski"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Slaten"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Wilson"
+        },
+        {
+            "first_name": "Kristian",
+            "last_name": "Campbell"
+        },
+        {
+            "first_name": "Liam",
+            "last_name": "Hendriks"
+        },
+        {
+            "first_name": "Rafael",
+            "last_name": "Devers"
+        },
+        {
+            "first_name": "Rob",
+            "last_name": "Refsnyder"
+        },
+        {
+            "first_name": "Romy",
+            "last_name": "Gonzalez"
+        },
+        {
+            "first_name": "Sean",
+            "last_name": "Newcomb"
+        },
+        {
+            "first_name": "Tanner",
+            "last_name": "Houck"
+        },
+        {
+            "first_name": "Trevor",
+            "last_name": "Story"
+        },
+        {
+            "first_name": "Triston",
+            "last_name": "Casas"
+        },
+        {
+            "first_name": "Walker",
+            "last_name": "Buehler"
+        },
+        {
+            "first_name": "Wilyer",
+            "last_name": "Abreu"
+        }
+    ]
 }

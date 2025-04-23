@@ -1,4 +1,109 @@
 {
     "team_name": "Rays",
-    "players": []
+    "players": [
+        {
+            "first_name": "Ben",
+            "last_name": "Rortvedt"
+        },
+        {
+            "first_name": "Brandon",
+            "last_name": "Lowe"
+        },
+        {
+            "first_name": "Chandler",
+            "last_name": "Simpson"
+        },
+        {
+            "first_name": "Christopher",
+            "last_name": "Morel"
+        },
+        {
+            "first_name": "Curtis",
+            "last_name": "Mead"
+        },
+        {
+            "first_name": "Danny",
+            "last_name": "Jansen"
+        },
+        {
+            "first_name": "Drew",
+            "last_name": "Rasmussen"
+        },
+        {
+            "first_name": "Edwin",
+            "last_name": "Uceta"
+        },
+        {
+            "first_name": "Eric",
+            "last_name": "Orze"
+        },
+        {
+            "first_name": "Garrett",
+            "last_name": "Cleavinger"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Bigge"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Mangum"
+        },
+        {
+            "first_name": "Jonathan",
+            "last_name": "Aranda"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Caballero"
+        },
+        {
+            "first_name": "Junior",
+            "last_name": "Caminero"
+        },
+        {
+            "first_name": "Kameron",
+            "last_name": "Misner"
+        },
+        {
+            "first_name": "Manuel",
+            "last_name": "Rodr\u00edguez"
+        },
+        {
+            "first_name": "Mason",
+            "last_name": "Englert"
+        },
+        {
+            "first_name": "Mason",
+            "last_name": "Montgomery"
+        },
+        {
+            "first_name": "Pete",
+            "last_name": "Fairbanks"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Pepiot"
+        },
+        {
+            "first_name": "Shane",
+            "last_name": "Baz"
+        },
+        {
+            "first_name": "Taj",
+            "last_name": "Bradley"
+        },
+        {
+            "first_name": "Taylor",
+            "last_name": "Walls"
+        },
+        {
+            "first_name": "Yandy",
+            "last_name": "D\u00edaz"
+        },
+        {
+            "first_name": "Zack",
+            "last_name": "Littell"
+        }
+    ]
 }

@@ -1,4 +1,109 @@
 {
     "team_name": "Athletics",
-    "players": []
+    "players": [
+        {
+            "first_name": "Brent",
+            "last_name": "Rooker"
+        },
+        {
+            "first_name": "Gio",
+            "last_name": "Urshela"
+        },
+        {
+            "first_name": "J.T.",
+            "last_name": "Ginn"
+        },
+        {
+            "first_name": "JJ",
+            "last_name": "Bleday"
+        },
+        {
+            "first_name": "JP",
+            "last_name": "Sears"
+        },
+        {
+            "first_name": "Jacob",
+            "last_name": "Lopez"
+        },
+        {
+            "first_name": "Jacob",
+            "last_name": "Wilson"
+        },
+        {
+            "first_name": "Jeffrey",
+            "last_name": "Springs"
+        },
+        {
+            "first_name": "Jhonny",
+            "last_name": "Pereda"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Leclerc"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Sterner"
+        },
+        {
+            "first_name": "Lawrence",
+            "last_name": "Butler"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Severino"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Ur\u00edas"
+        },
+        {
+            "first_name": "Mason",
+            "last_name": "Miller"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Muncy"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Schuemann"
+        },
+        {
+            "first_name": "Miguel",
+            "last_name": "Andujar"
+        },
+        {
+            "first_name": "Mitch",
+            "last_name": "Spence"
+        },
+        {
+            "first_name": "Noah",
+            "last_name": "Murdock"
+        },
+        {
+            "first_name": "Osvaldo",
+            "last_name": "Bido"
+        },
+        {
+            "first_name": "Seth",
+            "last_name": "Brown"
+        },
+        {
+            "first_name": "Shea",
+            "last_name": "Langeliers"
+        },
+        {
+            "first_name": "T.J.",
+            "last_name": "McFarland"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Ferguson"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Soderstrom"
+        }
+    ]
 }

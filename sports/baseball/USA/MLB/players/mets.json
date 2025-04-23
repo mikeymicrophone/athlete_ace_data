@@ -1,4 +1,109 @@
 {
     "team_name": "Mets",
-    "players": []
+    "players": [
+        {
+            "first_name": "A.J.",
+            "last_name": "Minter"
+        },
+        {
+            "first_name": "Brandon",
+            "last_name": "Nimmo"
+        },
+        {
+            "first_name": "Brett",
+            "last_name": "Baty"
+        },
+        {
+            "first_name": "Clay",
+            "last_name": "Holmes"
+        },
+        {
+            "first_name": "Danny",
+            "last_name": "Young"
+        },
+        {
+            "first_name": "David",
+            "last_name": "Peterson"
+        },
+        {
+            "first_name": "Edwin",
+            "last_name": "D\u00edaz"
+        },
+        {
+            "first_name": "Francisco",
+            "last_name": "Lindor"
+        },
+        {
+            "first_name": "Griffin",
+            "last_name": "Canning"
+        },
+        {
+            "first_name": "Hayden",
+            "last_name": "Senger"
+        },
+        {
+            "first_name": "Huascar",
+            "last_name": "Brazob\u00e1n"
+        },
+        {
+            "first_name": "Jesse",
+            "last_name": "Winker"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Azocar"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Butt\u00f3"
+        },
+        {
+            "first_name": "Juan",
+            "last_name": "Soto"
+        },
+        {
+            "first_name": "Kodai",
+            "last_name": "Senga"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Torrens"
+        },
+        {
+            "first_name": "Luisangel",
+            "last_name": "Acu\u00f1a"
+        },
+        {
+            "first_name": "Mark",
+            "last_name": "Vientos"
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Kranick"
+        },
+        {
+            "first_name": "Pete",
+            "last_name": "Alonso"
+        },
+        {
+            "first_name": "Reed",
+            "last_name": "Garrett"
+        },
+        {
+            "first_name": "Ryne",
+            "last_name": "Stanek"
+        },
+        {
+            "first_name": "Starling",
+            "last_name": "Marte"
+        },
+        {
+            "first_name": "Tylor",
+            "last_name": "Megill"
+        },
+        {
+            "first_name": "Tyrone",
+            "last_name": "Taylor"
+        }
+    ]
 }

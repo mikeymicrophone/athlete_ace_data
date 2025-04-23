@@ -1,4 +1,109 @@
 {
     "team_name": "Diamondbacks",
-    "players": []
+    "players": [
+        {
+            "first_name": "Alek",
+            "last_name": "Thomas"
+        },
+        {
+            "first_name": "Brandon",
+            "last_name": "Pfaadt"
+        },
+        {
+            "first_name": "Corbin",
+            "last_name": "Burnes"
+        },
+        {
+            "first_name": "Corbin",
+            "last_name": "Carroll"
+        },
+        {
+            "first_name": "Drey",
+            "last_name": "Jameson"
+        },
+        {
+            "first_name": "Eduardo",
+            "last_name": "Rodriguez"
+        },
+        {
+            "first_name": "Eugenio",
+            "last_name": "Su\u00e1rez"
+        },
+        {
+            "first_name": "Gabriel",
+            "last_name": "Moreno"
+        },
+        {
+            "first_name": "Garrett",
+            "last_name": "Hampson"
+        },
+        {
+            "first_name": "Geraldo",
+            "last_name": "Perdomo"
+        },
+        {
+            "first_name": "J.P.",
+            "last_name": "Feyereisen"
+        },
+        {
+            "first_name": "Jalen",
+            "last_name": "Beeks"
+        },
+        {
+            "first_name": "Jorge",
+            "last_name": "Barrosa"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "Herrera"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Naylor"
+        },
+        {
+            "first_name": "Juan",
+            "last_name": "Morillo"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Martinez"
+        },
+        {
+            "first_name": "Lourdes",
+            "last_name": "Gurriel Jr."
+        },
+        {
+            "first_name": "Merrill",
+            "last_name": "Kelly"
+        },
+        {
+            "first_name": "Pavin",
+            "last_name": "Smith"
+        },
+        {
+            "first_name": "Randal",
+            "last_name": "Grichuk"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Thompson"
+        },
+        {
+            "first_name": "Ryne",
+            "last_name": "Nelson"
+        },
+        {
+            "first_name": "Shelby",
+            "last_name": "Miller"
+        },
+        {
+            "first_name": "Tim",
+            "last_name": "Tawa"
+        },
+        {
+            "first_name": "Zac",
+            "last_name": "Gallen"
+        }
+    ]
 }

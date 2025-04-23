@@ -1,4 +1,109 @@
 {
     "team_name": "Guardians",
-    "players": []
+    "players": [
+        {
+            "first_name": "Angel",
+            "last_name": "Mart\u00ednez"
+        },
+        {
+            "first_name": "Austin",
+            "last_name": "Hedges"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "Lively"
+        },
+        {
+            "first_name": "Bo",
+            "last_name": "Naylor"
+        },
+        {
+            "first_name": "Brayan",
+            "last_name": "Rocchio"
+        },
+        {
+            "first_name": "Cade",
+            "last_name": "Smith"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Santana"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Schneemann"
+        },
+        {
+            "first_name": "Emmanuel",
+            "last_name": "Clase"
+        },
+        {
+            "first_name": "Gabriel",
+            "last_name": "Arias"
+        },
+        {
+            "first_name": "Gavin",
+            "last_name": "Williams"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Gaddis"
+        },
+        {
+            "first_name": "Jakob",
+            "last_name": "Junis"
+        },
+        {
+            "first_name": "Jhonkensy",
+            "last_name": "Noel"
+        },
+        {
+            "first_name": "Joey",
+            "last_name": "Cantillo"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Ram\u00edrez"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Manzardo"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "Allen"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "L. Ortiz"
+        },
+        {
+            "first_name": "Nolan",
+            "last_name": "Jones"
+        },
+        {
+            "first_name": "Paul",
+            "last_name": "Sewald"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "Kwan"
+        },
+        {
+            "first_name": "Tanner",
+            "last_name": "Bibee"
+        },
+        {
+            "first_name": "Tim",
+            "last_name": "Herrin"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Wilson"
+        },
+        {
+            "first_name": "Zak",
+            "last_name": "Kent"
+        }
+    ]
 }

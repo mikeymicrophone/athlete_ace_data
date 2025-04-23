@@ -1,5 +1,109 @@
 {
     "team_name": "Yankees",
     "players": [
+        {
+            "first_name": "Aaron",
+            "last_name": "Judge"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Volpe"
+        },
+        {
+            "first_name": "Austin",
+            "last_name": "Wells"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "Rice"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Carrasco"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Rod\u00f3n"
+        },
+        {
+            "first_name": "Clarke",
+            "last_name": "Schmidt"
+        },
+        {
+            "first_name": "Cody",
+            "last_name": "Bellinger"
+        },
+        {
+            "first_name": "Devin",
+            "last_name": "Williams"
+        },
+        {
+            "first_name": "Fernando",
+            "last_name": "Cruz"
+        },
+        {
+            "first_name": "Ian",
+            "last_name": "Hamilton"
+        },
+        {
+            "first_name": "J.C.",
+            "last_name": "Escarra"
+        },
+        {
+            "first_name": "Jasson",
+            "last_name": "Dom\u00ednguez"
+        },
+        {
+            "first_name": "Jazz",
+            "last_name": "Chisholm Jr."
+        },
+        {
+            "first_name": "Jorbit",
+            "last_name": "Vivas"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Weaver"
+        },
+        {
+            "first_name": "Mark",
+            "last_name": "Leiter Jr."
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Fried"
+        },
+        {
+            "first_name": "Oswald",
+            "last_name": "Peraza"
+        },
+        {
+            "first_name": "Oswaldo",
+            "last_name": "Cabrera"
+        },
+        {
+            "first_name": "Pablo",
+            "last_name": "Reyes"
+        },
+        {
+            "first_name": "Paul",
+            "last_name": "Goldschmidt"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Yarbrough"
+        },
+        {
+            "first_name": "Tim",
+            "last_name": "Hill"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Matzek"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Warren"
+        }
     ]
 }

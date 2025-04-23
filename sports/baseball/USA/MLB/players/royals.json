@@ -1,4 +1,109 @@
 {
     "team_name": "Royals",
-    "players": []
+    "players": [
+        {
+            "first_name": "Angel",
+            "last_name": "Zerpa"
+        },
+        {
+            "first_name": "Bobby",
+            "last_name": "Witt Jr."
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Est\u00e9vez"
+        },
+        {
+            "first_name": "Cavan",
+            "last_name": "Biggio"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Stratton"
+        },
+        {
+            "first_name": "Cole",
+            "last_name": "Ragans"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Lynch IV"
+        },
+        {
+            "first_name": "Drew",
+            "last_name": "Waters"
+        },
+        {
+            "first_name": "Evan",
+            "last_name": "Sisk"
+        },
+        {
+            "first_name": "Freddy",
+            "last_name": "Fermin"
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Renfroe"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Schreiber"
+        },
+        {
+            "first_name": "Jonathan",
+            "last_name": "India"
+        },
+        {
+            "first_name": "Kris",
+            "last_name": "Bubic"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Isbel"
+        },
+        {
+            "first_name": "Lucas",
+            "last_name": "Erceg"
+        },
+        {
+            "first_name": "Maikel",
+            "last_name": "Garcia"
+        },
+        {
+            "first_name": "Mark",
+            "last_name": "Canha"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Lorenzen"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Massey"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Wacha"
+        },
+        {
+            "first_name": "Salvador",
+            "last_name": "Perez"
+        },
+        {
+            "first_name": "Seth",
+            "last_name": "Lugo"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "Cruz"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Tolbert"
+        },
+        {
+            "first_name": "Vinnie",
+            "last_name": "Pasquantino"
+        }
+    ]
 }

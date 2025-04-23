@@ -1,4 +1,109 @@
 {
     "team_name": "Tigers",
-    "players": []
+    "players": [
+        {
+            "first_name": "Andy",
+            "last_name": "Ib\u00e1\u00f1ez"
+        },
+        {
+            "first_name": "Bailey",
+            "last_name": "Horn"
+        },
+        {
+            "first_name": "Brant",
+            "last_name": "Hurter"
+        },
+        {
+            "first_name": "Brenan",
+            "last_name": "Hanifee"
+        },
+        {
+            "first_name": "Casey",
+            "last_name": "Mize"
+        },
+        {
+            "first_name": "Chase",
+            "last_name": "Lee"
+        },
+        {
+            "first_name": "Colt",
+            "last_name": "Keith"
+        },
+        {
+            "first_name": "Dillon",
+            "last_name": "Dingler"
+        },
+        {
+            "first_name": "Gleyber",
+            "last_name": "Torres"
+        },
+        {
+            "first_name": "Jace",
+            "last_name": "Jung"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Flaherty"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Jobe"
+        },
+        {
+            "first_name": "Javier",
+            "last_name": "B\u00e1ez"
+        },
+        {
+            "first_name": "Justyn-Henry",
+            "last_name": "Malloy"
+        },
+        {
+            "first_name": "Kenta",
+            "last_name": "Maeda"
+        },
+        {
+            "first_name": "Kerry",
+            "last_name": "Carpenter"
+        },
+        {
+            "first_name": "Reese",
+            "last_name": "Olson"
+        },
+        {
+            "first_name": "Riley",
+            "last_name": "Greene"
+        },
+        {
+            "first_name": "Spencer",
+            "last_name": "Torkelson"
+        },
+        {
+            "first_name": "Tarik",
+            "last_name": "Skubal"
+        },
+        {
+            "first_name": "Tom\u00e1s",
+            "last_name": "Nido"
+        },
+        {
+            "first_name": "Tommy",
+            "last_name": "Kahnle"
+        },
+        {
+            "first_name": "Trey",
+            "last_name": "Sweeney"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Holton"
+        },
+        {
+            "first_name": "Will",
+            "last_name": "Vest"
+        },
+        {
+            "first_name": "Zach",
+            "last_name": "McKinstry"
+        }
+    ]
 }

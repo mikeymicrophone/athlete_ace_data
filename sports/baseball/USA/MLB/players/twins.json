@@ -1,4 +1,109 @@
 {
     "team_name": "Twins",
-    "players": []
+    "players": [
+        {
+            "first_name": "Bailey",
+            "last_name": "Ober"
+        },
+        {
+            "first_name": "Brock",
+            "last_name": "Stewart"
+        },
+        {
+            "first_name": "Brooks",
+            "last_name": "Lee"
+        },
+        {
+            "first_name": "Byron",
+            "last_name": "Buxton"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Correa"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Paddack"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "V\u00e1zquez"
+        },
+        {
+            "first_name": "Cole",
+            "last_name": "Sands"
+        },
+        {
+            "first_name": "DaShawn",
+            "last_name": "Keirsey Jr."
+        },
+        {
+            "first_name": "Danny",
+            "last_name": "Coulombe"
+        },
+        {
+            "first_name": "David",
+            "last_name": "Festa"
+        },
+        {
+            "first_name": "Edouard",
+            "last_name": "Julien"
+        },
+        {
+            "first_name": "Griffin",
+            "last_name": "Jax"
+        },
+        {
+            "first_name": "Harrison",
+            "last_name": "Bader"
+        },
+        {
+            "first_name": "Jhoan",
+            "last_name": "Duran"
+        },
+        {
+            "first_name": "Joe",
+            "last_name": "Ryan"
+        },
+        {
+            "first_name": "Jonah",
+            "last_name": "Bride"
+        },
+        {
+            "first_name": "Jorge",
+            "last_name": "Alcala"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Topa"
+        },
+        {
+            "first_name": "Louis",
+            "last_name": "Varland"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "Keaschall"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Jeffers"
+        },
+        {
+            "first_name": "Simeon",
+            "last_name": "Woods Richardson"
+        },
+        {
+            "first_name": "Trevor",
+            "last_name": "Larnach"
+        },
+        {
+            "first_name": "Ty",
+            "last_name": "France"
+        },
+        {
+            "first_name": "Willi",
+            "last_name": "Castro"
+        }
+    ]
 }

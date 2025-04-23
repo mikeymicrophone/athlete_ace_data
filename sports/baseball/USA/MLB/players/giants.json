@@ -1,4 +1,109 @@
 {
     "team_name": "Giants",
-    "players": []
+    "players": [
+        {
+            "first_name": "Camilo",
+            "last_name": "Doval"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "Koss"
+        },
+        {
+            "first_name": "David",
+            "last_name": "Villar"
+        },
+        {
+            "first_name": "Erik",
+            "last_name": "Miller"
+        },
+        {
+            "first_name": "Hayden",
+            "last_name": "Birdsong"
+        },
+        {
+            "first_name": "Heliot",
+            "last_name": "Ramos"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "Hicks"
+        },
+        {
+            "first_name": "Jung",
+            "last_name": "Hoo Lee"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Verlander"
+        },
+        {
+            "first_name": "LaMonte",
+            "last_name": "Wade Jr."
+        },
+        {
+            "first_name": "Landen",
+            "last_name": "Roupp"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "Webb"
+        },
+        {
+            "first_name": "Lou",
+            "last_name": "Trivino"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Matos"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Chapman"
+        },
+        {
+            "first_name": "Mike",
+            "last_name": "Yastrzemski"
+        },
+        {
+            "first_name": "Patrick",
+            "last_name": "Bailey"
+        },
+        {
+            "first_name": "Randy",
+            "last_name": "Rodr\u00edguez"
+        },
+        {
+            "first_name": "Robbie",
+            "last_name": "Ray"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Walker"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "Huff"
+        },
+        {
+            "first_name": "Spencer",
+            "last_name": "Bivens"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Fitzgerald"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Rogers"
+        },
+        {
+            "first_name": "Willy",
+            "last_name": "Adames"
+        },
+        {
+            "first_name": "Wilmer",
+            "last_name": "Flores"
+        }
+    ]
 }

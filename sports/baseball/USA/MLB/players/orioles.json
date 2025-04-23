@@ -1,4 +1,109 @@
 {
     "team_name": "Orioles",
-    "players": []
+    "players": [
+        {
+            "first_name": "Adley",
+            "last_name": "Rutschman"
+        },
+        {
+            "first_name": "Brandon",
+            "last_name": "Young"
+        },
+        {
+            "first_name": "Bryan",
+            "last_name": "Baker"
+        },
+        {
+            "first_name": "Cade",
+            "last_name": "Povich"
+        },
+        {
+            "first_name": "Cedric",
+            "last_name": "Mullins"
+        },
+        {
+            "first_name": "Charlie",
+            "last_name": "Morton"
+        },
+        {
+            "first_name": "Cionel",
+            "last_name": "P\u00e9rez"
+        },
+        {
+            "first_name": "Dean",
+            "last_name": "Kremer"
+        },
+        {
+            "first_name": "F\u00e9lix",
+            "last_name": "Bautista"
+        },
+        {
+            "first_name": "Gary",
+            "last_name": "S\u00e1nchez"
+        },
+        {
+            "first_name": "Gregory",
+            "last_name": "Soto"
+        },
+        {
+            "first_name": "Gunnar",
+            "last_name": "Henderson"
+        },
+        {
+            "first_name": "Heston",
+            "last_name": "Kjerstad"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Holliday"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "Westburg"
+        },
+        {
+            "first_name": "Jorge",
+            "last_name": "Mateo"
+        },
+        {
+            "first_name": "Keegan",
+            "last_name": "Akin"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Bowman"
+        },
+        {
+            "first_name": "Ram\u00f3n",
+            "last_name": "Laureano"
+        },
+        {
+            "first_name": "Ram\u00f3n",
+            "last_name": "Ur\u00edas"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Mountcastle"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "O'Hearn"
+        },
+        {
+            "first_name": "Seranthony",
+            "last_name": "Dom\u00ednguez"
+        },
+        {
+            "first_name": "Tomoyuki",
+            "last_name": "Sugano"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "O'Neill"
+        },
+        {
+            "first_name": "Yennier",
+            "last_name": "Cano"
+        }
+    ]
 }

@@ -1,4 +1,109 @@
 {
     "team_name": "Angels",
-    "players": []
+    "players": [
+        {
+            "first_name": "Brock",
+            "last_name": "Burke"
+        },
+        {
+            "first_name": "Garrett",
+            "last_name": "McDaniels"
+        },
+        {
+            "first_name": "Ian",
+            "last_name": "Anderson"
+        },
+        {
+            "first_name": "J.D.",
+            "last_name": "Davis"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Kochanowicz"
+        },
+        {
+            "first_name": "Jo",
+            "last_name": "Adell"
+        },
+        {
+            "first_name": "Jorge",
+            "last_name": "Soler"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Soriano"
+        },
+        {
+            "first_name": "Kenley",
+            "last_name": "Jansen"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "Newman"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Hendricks"
+        },
+        {
+            "first_name": "Kyren",
+            "last_name": "Paris"
+        },
+        {
+            "first_name": "Logan",
+            "last_name": "O'Hoppe"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Rengifo"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Darrell-Hicks"
+        },
+        {
+            "first_name": "Mike",
+            "last_name": "Trout"
+        },
+        {
+            "first_name": "Nolan",
+            "last_name": "Schanuel"
+        },
+        {
+            "first_name": "Reid",
+            "last_name": "Detmers"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Johnson"
+        },
+        {
+            "first_name": "Ryan",
+            "last_name": "Zeferjahn"
+        },
+        {
+            "first_name": "Taylor",
+            "last_name": "Ward"
+        },
+        {
+            "first_name": "Tim",
+            "last_name": "Anderson"
+        },
+        {
+            "first_name": "Travis",
+            "last_name": "d'Arnaud"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "Anderson"
+        },
+        {
+            "first_name": "Yusei",
+            "last_name": "Kikuchi"
+        },
+        {
+            "first_name": "Zach",
+            "last_name": "Neto"
+        }
+    ]
 }

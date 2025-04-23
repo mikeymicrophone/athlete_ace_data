@@ -1,4 +1,109 @@
 {
     "team_name": "Nationals",
-    "players": []
+    "players": [
+        {
+            "first_name": "Alex",
+            "last_name": "Call"
+        },
+        {
+            "first_name": "Amed",
+            "last_name": "Rosario"
+        },
+        {
+            "first_name": "Brad",
+            "last_name": "Lord"
+        },
+        {
+            "first_name": "Cole",
+            "last_name": "Henry"
+        },
+        {
+            "first_name": "Colin",
+            "last_name": "Poche"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "Crews"
+        },
+        {
+            "first_name": "Eduardo",
+            "last_name": "Salazar"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "Rutledge"
+        },
+        {
+            "first_name": "Jacob",
+            "last_name": "Young"
+        },
+        {
+            "first_name": "Jake",
+            "last_name": "Irvin"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Wood"
+        },
+        {
+            "first_name": "Jorge",
+            "last_name": "L\u00f3pez"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "A. Ferrer"
+        },
+        {
+            "first_name": "Jos\u00e9",
+            "last_name": "Tena"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Bell"
+        },
+        {
+            "first_name": "Keibert",
+            "last_name": "Ruiz"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Finnegan"
+        },
+        {
+            "first_name": "Lucas",
+            "last_name": "Sims"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Garc\u00eda Jr."
+        },
+        {
+            "first_name": "MacKenzie",
+            "last_name": "Gore"
+        },
+        {
+            "first_name": "Mitchell",
+            "last_name": "Parker"
+        },
+        {
+            "first_name": "Nasim",
+            "last_name": "Nu\u00f1ez"
+        },
+        {
+            "first_name": "Nathaniel",
+            "last_name": "Lowe"
+        },
+        {
+            "first_name": "Riley",
+            "last_name": "Adams"
+        },
+        {
+            "first_name": "Trevor",
+            "last_name": "Williams"
+        },
+        {
+            "first_name": "Trey",
+            "last_name": "Lipscomb"
+        }
+    ]
 }
