@@ -45,7 +45,7 @@
         { "name": "Amalie Arena", "city_name": "Tampa", "state_name": "Florida", "capacity": 19092, "opened_year": 1996, "address": "401 Channelside Dr, Tampa, FL 33602" },
         { "name": "T-Mobile Arena", "city_name": "Las Vegas", "state_name": "Nevada", "capacity": 17500, "opened_year": 2016, "address": "3780 Las Vegas Blvd S, Las Vegas, NV 89158" },
         { "name": "Xcel Energy Center", "city_name": "St. Paul", "state_name": "Minnesota", "capacity": 17954, "opened_year": 2000, "address": "199 West Kellog Boulevard, St. Paul, MN 55102" },
-        { "name": "Amerant Bank Arena", "city_name": "Sunrise", "state_name": "Florida", "capacity": 19250, "opened_year": 1998, "address": "1 Panther Parkway, Sunrise, FL 33323"}
+        { "name": "Amerant Bank Arena", "city_name": "Sunrise", "state_name": "Florida", "capacity": 19250, "opened_year": 1998, "address": "1 Panther Parkway, Sunrise, FL 33323"},
 
         { "name": "Chase Field", "city_name": "Phoenix", "state_name": "Arizona", "capacity": 48686, "opened_year": 1998, "address": "401 E Jefferson St, Phoenix, AZ 85004" },
         { "name": "Truist Park", "city_name": "Atlanta", "state_name": "Georgia", "capacity": 41084, "opened_year": 2017, "address": "755 Battery Ave SE, Atlanta, GA 30339" },
