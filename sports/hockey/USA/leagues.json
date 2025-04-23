@@ -1,0 +1,15 @@
+{
+    "country_name": "United States",
+    "sport_name": "Hockey",
+    "leagues": [
+    {
+      "name": "National Hockey League",
+      "abbreviation": "NHL",
+      "url": "https://www.nhl.com/",
+      "ios_app_url": "https://apps.apple.com/us/app/nhl/id465092669",
+      "year_of_origin": 1917,
+      "official_rules_url": "https://www.nhl.com/info/rules",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg"
+    }
+  ]
+}

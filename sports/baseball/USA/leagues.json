@@ -1,0 +1,15 @@
+{
+    "country_name": "United States",
+    "sport_name": "Baseball",
+    "leagues": [
+    {
+      "name": "Major League Baseball",
+      "abbreviation": "MLB",
+      "url": "https://www.mlb.com/",
+      "ios_app_url": "https://apps.apple.com/us/app/mlb/id493619333",
+      "year_of_origin": 1869,
+      "official_rules_url": "https://www.mlb.com/official-information/official-rules",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Major_League_Baseball_logo.svg"
+    }
+  ]
+}

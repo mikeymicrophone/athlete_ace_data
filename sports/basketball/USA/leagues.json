@@ -1,0 +1,15 @@
+{
+    "country_name": "United States",
+    "sport_name": "Basketball",
+    "leagues": [
+    {
+      "name": "National Basketball Association",
+      "abbreviation": "NBA",
+      "url": "https://www.nba.com/",
+      "ios_app_url": "https://apps.apple.com/us/app/nba-live-games-scores/id335744614",
+      "year_of_origin": 1946,
+      "official_rules_url": "https://official.nba.com/rulebook/",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg"
+    }
+  ]
+}

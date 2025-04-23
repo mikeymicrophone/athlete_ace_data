@@ -1,0 +1,15 @@
+{
+    "country_name": "United States",
+    "sport_name": "Football",
+    "leagues": [
+    {
+      "name": "National Football League",
+      "abbreviation": "NFL",
+      "url": "https://www.nfl.com/",
+      "ios_app_url": "https://apps.apple.com/us/app/nfl/id389781154",
+      "year_of_origin": 1920,
+      "official_rules_url": "https://operations.nfl.com/the-rules/2023-nfl-rulebook/",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/National_Football_League_logo.svg"
+    }
+  ]
+}
