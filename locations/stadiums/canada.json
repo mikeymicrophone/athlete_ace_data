@@ -7,6 +7,7 @@
         { "name": "Rogers Arena", "city_name": "Vancouver", "state_name": "British Columbia", "capacity": 18810, "opened_year": 1995, "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada" },
         { "name": "Rogers Place", "city_name": "Edmonton", "state_name": "Alberta", "capacity": 18347, "opened_year": 2016, "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6, Canada" },
         { "name": "Bell Centre", "city_name": "Montreal", "state_name": "Quebec", "capacity": 21273, "opened_year": 1996, "address": "1909 Avenue des Canadiens-de-Montréal, Montreal, QC H3B 5E8, Canada" },
-        { "name": "Rogers Centre", "city_name": "Toronto", "state_name": "Ontario", "capacity": 49116, "opened_year": 1989, "address": "1 Blue Jays Way, Toronto, ON M5V 1J1, Canada" }
+        { "name": "Rogers Centre", "city_name": "Toronto", "state_name": "Ontario", "capacity": 49116, "opened_year": 1989, "address": "1 Blue Jays Way, Toronto, ON M5V 1J1, Canada" },
+        { "name": "Canadian Tire Centre", "city_name": "Ottawa", "state_name": "Ontario", "capacity": 18572, "opened_year": 1996, "address": "1000 Palladium Dr, Ottawa, ON K2V 1A5, Canada" }
     ]
 }

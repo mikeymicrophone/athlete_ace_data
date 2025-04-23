@@ -11,7 +11,7 @@
             "state": "CA"
         },
         {
-            "name": "New York City",
+            "name": "New York",
             "state": "NY"
         },
         {
@@ -217,6 +217,22 @@
         {
             "name": "Green Bay",
             "state": "WI"
+        },
+        {
+            "name": "Tempe",
+            "state": "AZ"
+        },
+        {
+            "name": "Newark",
+            "state": "NJ"
+        },
+        {
+            "name": "Elmont",
+            "state": "NY"
+        },
+        {
+            "name": "St. Petersburg",
+            "state": "FL"
         }
     ]
 }

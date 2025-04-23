@@ -1,7 +1,6 @@
 {
     "country_name": "United States",
     "stadiums": [
-        // basketball
         { "name": "State Farm Arena", "city_name": "Atlanta", "state_name": "Georgia", "capacity": 16600, "opened_year": 1999, "address": "1 State Farm Dr, Atlanta, GA 30303" },
         { "name": "TD Garden", "city_name": "Boston", "state_name": "Massachusetts", "capacity": 18624, "opened_year": 1995, "address": "100 Legends Way, Boston, MA 02114" },
         { "name": "Barclays Center", "city_name": "Brooklyn", "state_name": "New York", "capacity": 17732, "opened_year": 2012, "address": "620 Atlantic Ave, Brooklyn, NY 11217" },
@@ -30,7 +29,7 @@
         { "name": "Frost Bank Center", "city_name": "San Antonio", "state_name": "Texas", "capacity": 18418, "opened_year": 2002, "address": "1 AT&T Center Pkwy, San Antonio, TX 78219" },
         { "name": "Delta Center", "city_name": "Salt Lake City", "state_name": "Utah", "capacity": 18306, "opened_year": 1991, "address": "301 S Temple, Salt Lake City, UT 84101" },
         { "name": "Capital One Arena", "city_name": "Washington", "state_name": "District of Columbia", "capacity": 20356, "opened_year": 1997, "address": "601 F St NW, Washington, DC 20004" },
-        // hockey
+
         { "name": "Honda Center", "city_name": "Anaheim", "state_name": "California", "capacity": 17574, "opened_year": 1993, "address": "2695 E Katella Ave, Anaheim, CA 92806" },
         { "name": "Mullett Arena", "city_name": "Tempe", "state_name": "Arizona", "capacity": 5000, "opened_year": 2022, "address": "411 S Packard Dr, Tempe, AZ 85281" },
         { "name": "KeyBank Center", "city_name": "Buffalo", "state_name": "New York", "capacity": 19070, "opened_year": 1996, "address": "1 Seymour H Knox III Plaza, Buffalo, NY 14203" },
@@ -39,14 +38,13 @@
         { "name": "Bridgestone Arena", "city_name": "Nashville", "state_name": "Tennessee", "capacity": 17159, "opened_year": 1996, "address": "501 Broadway, Nashville, TN 37203" },
         { "name": "Prudential Center", "city_name": "Newark", "state_name": "New Jersey", "capacity": 16514, "opened_year": 2007, "address": "25 Lafayette St, Newark, NJ 07102" },
         { "name": "UBS Arena", "city_name": "Elmont", "state_name": "New York", "capacity": 17113, "opened_year": 2021, "address": "2400 Hempstead Turnpike, Elmont, NY 11003" },
-        { "name": "Canadian Tire Centre", "city_name": "Ottawa", "state_name": "Ontario", "capacity": 18572, "opened_year": 1996, "address": "1000 Palladium Dr, Ottawa, ON K2V 1A5, Canada" },
         { "name": "PPG Paints Arena", "city_name": "Pittsburgh", "state_name": "Pennsylvania", "capacity": 18387, "opened_year": 2010, "address": "1001 Fifth Ave, Pittsburgh, PA 15219" },
         { "name": "SAP Center", "city_name": "San Jose", "state_name": "California", "capacity": 17496, "opened_year": 1993, "address": "525 W Santa Clara St, San Jose, CA 95113" },
         { "name": "Climate Pledge Arena", "city_name": "Seattle", "state_name": "Washington", "capacity": 17151, "opened_year": 2021, "address": "334 1st Ave N, Seattle, WA 98109" },
         { "name": "Enterprise Center", "city_name": "St. Louis", "state_name": "Missouri", "capacity": 19022, "opened_year": 1994, "address": "1401 Clark Ave, St. Louis, MO 63103" },
         { "name": "Amalie Arena", "city_name": "Tampa", "state_name": "Florida", "capacity": 19092, "opened_year": 1996, "address": "401 Channelside Dr, Tampa, FL 33602" },
         { "name": "T-Mobile Arena", "city_name": "Las Vegas", "state_name": "Nevada", "capacity": 17500, "opened_year": 2016, "address": "3780 Las Vegas Blvd S, Las Vegas, NV 89158" },
-        // baseball
+
         { "name": "Chase Field", "city_name": "Phoenix", "state_name": "Arizona", "capacity": 48686, "opened_year": 1998, "address": "401 E Jefferson St, Phoenix, AZ 85004" },
         { "name": "Truist Park", "city_name": "Atlanta", "state_name": "Georgia", "capacity": 41084, "opened_year": 2017, "address": "755 Battery Ave SE, Atlanta, GA 30339" },
         { "name": "Oriole Park at Camden Yards", "city_name": "Baltimore", "state_name": "Maryland", "capacity": 45671, "opened_year": 1992, "address": "333 W Camden St, Baltimore, MD 21201" },
