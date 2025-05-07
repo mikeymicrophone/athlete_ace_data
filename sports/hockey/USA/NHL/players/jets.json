@@ -1,4 +1,77 @@
 {
     "team_name": "Jets",
-    "players": []
+    "players": [
+        {
+            "first_name": "Mark",
+            "last_name": "Scheifele",
+            "current_position": "Center",
+            "birthdate": "1993-03-15",
+            "debut_year": 2011,
+            "draft_year": 2011,
+            "active": true,
+            "nicknames": ["Scheif"],
+            "bio": "Mark Scheifele is a Canadian professional ice hockey center and alternate captain for the Winnipeg Jets. Scheifele was selected by the Jets in the first round, seventh overall, of the 2011 NHL Entry Draft. He was the first draft pick made by the Jets after the franchise relocated from Atlanta. Scheifele has developed into one of the Jets' top offensive players and a core piece of their roster.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476460.jpg"]
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "Connor",
+            "current_position": "Left Wing",
+            "birthdate": "1996-12-09",
+            "debut_year": 2016,
+            "draft_year": 2015,
+            "active": true,
+            "nicknames": ["KFC"],
+            "bio": "Kyle Connor is an American professional ice hockey left winger for the Winnipeg Jets. Connor was selected by the Jets in the first round, 17th overall, of the 2015 NHL Entry Draft. After playing college hockey at the University of Michigan, Connor has emerged as one of the NHL's most consistent goal scorers and a key offensive weapon for the Jets.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8478398.jpg"]
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "Morrissey",
+            "current_position": "Defenseman",
+            "birthdate": "1995-03-28",
+            "debut_year": 2015,
+            "draft_year": 2013,
+            "active": true,
+            "nicknames": [],
+            "bio": "Josh Morrissey is a Canadian professional ice hockey defenseman and alternate captain for the Winnipeg Jets. Morrissey was selected by the Jets in the first round, 13th overall, of the 2013 NHL Entry Draft. He has developed into the Jets' top defenseman, known for his strong two-way play and leadership on the blue line.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477504.jpg"]
+        },
+        {
+            "first_name": "Nikolaj",
+            "last_name": "Ehlers",
+            "current_position": "Left Wing",
+            "birthdate": "1996-02-14",
+            "debut_year": 2015,
+            "draft_year": 2014,
+            "active": true,
+            "nicknames": ["Fly"],
+            "bio": "Nikolaj Ehlers is a Danish professional ice hockey left winger for the Winnipeg Jets. Ehlers was selected by the Jets in the first round, ninth overall, of the 2014 NHL Entry Draft. Known for his exceptional speed and skill, Ehlers has been a dynamic offensive force for the Jets since joining the team.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477940.jpg"]
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Hellebuyck",
+            "current_position": "Goaltender",
+            "birthdate": "1993-05-19",
+            "debut_year": 2015,
+            "draft_year": 2012,
+            "active": true,
+            "nicknames": ["Helly"],
+            "bio": "Connor Hellebuyck is an American professional ice hockey goaltender for the Winnipeg Jets. Hellebuyck was selected by the Jets in the fifth round, 130th overall, of the 2012 NHL Entry Draft. He has developed into one of the NHL's elite goaltenders, winning the Vezina Trophy as the league's best goaltender in 2020 and consistently ranking among the NHL's top netminders.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476945.jpg"]
+        },
+        {
+            "first_name": "Adam",
+            "last_name": "Lowry",
+            "current_position": "Center",
+            "birthdate": "1993-03-29",
+            "debut_year": 2014,
+            "draft_year": 2011,
+            "active": true,
+            "nicknames": [],
+            "bio": "Adam Lowry is a Canadian professional ice hockey center and captain of the Winnipeg Jets. Lowry was selected by the Jets in the third round, 67th overall, of the 2011 NHL Entry Draft. Known for his physical play, defensive responsibility, and leadership, Lowry has been a valuable member of the Jets' forward group throughout his career.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476392.jpg"]
+        }
+    ]
 }

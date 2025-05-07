@@ -1,4 +1,77 @@
 {
     "team_name": "Capitals",
-    "players": []
+    "players": [
+        {
+            "first_name": "Alexander",
+            "last_name": "Ovechkin",
+            "current_position": "Left Wing",
+            "birthdate": "1985-09-17",
+            "debut_year": 2005,
+            "draft_year": 2004,
+            "active": true,
+            "nicknames": ["Ovi", "The Great Eight"],
+            "bio": "Alexander Ovechkin is a Russian professional ice hockey left winger and captain of the Washington Capitals. He was selected first overall in the 2004 NHL Entry Draft by the Capitals. Widely regarded as one of the greatest goal-scorers in NHL history, Ovechkin is pursuing Wayne Gretzky's all-time goal record. He led the Capitals to their first Stanley Cup championship in 2018.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8471214.jpg"]
+        },
+        {
+            "first_name": "John",
+            "last_name": "Carlson",
+            "current_position": "Defenseman",
+            "birthdate": "1990-01-10",
+            "debut_year": 2009,
+            "draft_year": 2008,
+            "active": true,
+            "nicknames": ["Carly"],
+            "bio": "John Carlson is an American professional ice hockey defenseman and alternate captain for the Washington Capitals. Carlson was selected by the Capitals in the first round, 27th overall, of the 2008 NHL Entry Draft. He has developed into one of the NHL's top offensive defensemen and was a key contributor to the Capitals' 2018 Stanley Cup championship.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8474590.jpg"]
+        },
+        {
+            "first_name": "Tom",
+            "last_name": "Wilson",
+            "current_position": "Right Wing",
+            "birthdate": "1994-03-29",
+            "debut_year": 2013,
+            "draft_year": 2012,
+            "active": true,
+            "nicknames": ["Willy"],
+            "bio": "Tom Wilson is a Canadian professional ice hockey right winger and alternate captain for the Washington Capitals. Wilson was selected by the Capitals in the first round, 16th overall, of the 2012 NHL Entry Draft. Known for his physical play and increasing offensive contributions, Wilson has evolved into a power forward and was part of the Capitals' 2018 Stanley Cup championship team.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476880.jpg"]
+        },
+        {
+            "first_name": "Nicklas",
+            "last_name": "Backstrom",
+            "current_position": "Center",
+            "birthdate": "1987-11-23",
+            "debut_year": 2007,
+            "draft_year": 2006,
+            "active": true,
+            "nicknames": ["Backy"],
+            "bio": "Nicklas Backstrom is a Swedish professional ice hockey center for the Washington Capitals. Backstrom was selected fourth overall by the Capitals in the 2006 NHL Entry Draft. One of the premier playmakers in the NHL, Backstrom has been Alexander Ovechkin's primary setup man for much of their careers together and was instrumental in the Capitals' 2018 Stanley Cup victory.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8473563.jpg"]
+        },
+        {
+            "first_name": "Charlie",
+            "last_name": "Lindgren",
+            "current_position": "Goaltender",
+            "birthdate": "1993-12-18",
+            "debut_year": 2015,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Charlie Lindgren is an American professional ice hockey goaltender for the Washington Capitals. Undrafted, Lindgren signed as a free agent with the Montreal Canadiens in 2016 after playing college hockey at St. Cloud State University. After stints with the Canadiens and St. Louis Blues organizations, he joined the Capitals where he has provided solid goaltending.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8479292.jpg"]
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "Strome",
+            "current_position": "Center",
+            "birthdate": "1997-03-07",
+            "debut_year": 2016,
+            "draft_year": 2015,
+            "active": true,
+            "nicknames": [],
+            "bio": "Dylan Strome is a Canadian professional ice hockey center for the Washington Capitals. Strome was selected third overall by the Arizona Coyotes in the 2015 NHL Entry Draft. After playing for the Coyotes and Chicago Blackhawks, Strome joined the Capitals where he has developed into a reliable offensive contributor.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8478440.jpg"]
+        }
+    ]
 }

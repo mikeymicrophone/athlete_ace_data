@@ -1,4 +1,77 @@
 {
     "team_name": "Maple Leafs",
-    "players": []
+    "players": [
+        {
+            "first_name": "Auston",
+            "last_name": "Matthews",
+            "current_position": "Center",
+            "birthdate": "1997-09-17",
+            "debut_year": 2016,
+            "draft_year": 2016,
+            "active": true,
+            "nicknames": ["Papi"],
+            "bio": "Auston Matthews is an American professional ice hockey center and captain of the Toronto Maple Leafs. He was selected first overall by the Maple Leafs in the 2016 NHL Entry Draft. Matthews became the first player in modern NHL history to score four goals in his NHL debut. He has won the Maurice 'Rocket' Richard Trophy as the NHL's leading goal-scorer multiple times.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8479318.jpg"]
+        },
+        {
+            "first_name": "Mitch",
+            "last_name": "Marner",
+            "current_position": "Right Wing",
+            "birthdate": "1997-05-05",
+            "debut_year": 2016,
+            "draft_year": 2015,
+            "active": true,
+            "nicknames": ["Marns", "Magic Mitch"],
+            "bio": "Mitchell Marner is a Canadian professional ice hockey right winger and alternate captain for the Toronto Maple Leafs. Marner was selected fourth overall by the Maple Leafs in the 2015 NHL Entry Draft. Known for his playmaking abilities and vision on the ice, he has been one of the Leafs' top scorers since joining the team.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8478483.jpg"]
+        },
+        {
+            "first_name": "William",
+            "last_name": "Nylander",
+            "current_position": "Right Wing",
+            "birthdate": "1996-05-01",
+            "debut_year": 2015,
+            "draft_year": 2014,
+            "active": true,
+            "nicknames": ["Willy"],
+            "bio": "William Nylander is a Swedish professional ice hockey player for the Toronto Maple Leafs. Nylander was selected by the Maple Leafs in the first round, eighth overall, of the 2014 NHL Entry Draft. Known for his smooth skating and skilled puck handling, Nylander has been a consistent offensive threat for the Maple Leafs.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477939.jpg"]
+        },
+        {
+            "first_name": "John",
+            "last_name": "Tavares",
+            "current_position": "Center",
+            "birthdate": "1990-09-20",
+            "debut_year": 2009,
+            "draft_year": 2009,
+            "active": true,
+            "nicknames": ["JT"],
+            "bio": "John Tavares is a Canadian professional ice hockey center and captain of the Toronto Maple Leafs. He was selected first overall by the New York Islanders in the 2009 NHL Entry Draft and served as their captain for five seasons before signing with his hometown Maple Leafs in 2018. Tavares is known for his leadership, scoring ability, and strong two-way play.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475166.jpg"]
+        },
+        {
+            "first_name": "Morgan",
+            "last_name": "Rielly",
+            "current_position": "Defenseman",
+            "birthdate": "1994-03-09",
+            "debut_year": 2013,
+            "draft_year": 2012,
+            "active": true,
+            "nicknames": ["Mo"],
+            "bio": "Morgan Rielly is a Canadian professional ice hockey defenceman and alternate captain for the Toronto Maple Leafs. Rielly was selected by the Maple Leafs in the first round, fifth overall, of the 2012 NHL Entry Draft. He is known for his offensive abilities from the blue line and has been a cornerstone of the Maple Leafs' defense for many years.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476853.jpg"]
+        },
+        {
+            "first_name": "Joseph",
+            "last_name": "Woll",
+            "current_position": "Goaltender",
+            "birthdate": "1998-07-12",
+            "debut_year": 2021,
+            "draft_year": 2016,
+            "active": true,
+            "nicknames": [],
+            "bio": "Joseph Woll is an American professional ice hockey goaltender for the Toronto Maple Leafs. Woll was selected by the Maple Leafs in the third round, 62nd overall, of the 2016 NHL Entry Draft. After playing college hockey at Boston College, Woll has been developing as one of the Maple Leafs' promising goaltending prospects.",
+            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8479361.jpg"]
+        }
+    ]
 }
