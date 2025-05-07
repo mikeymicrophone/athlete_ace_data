@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Goalkeeper",
+    "abbreviation": "GK",
+    "description": "The player who defends the team's goal, the only player allowed to use hands within their penalty area."
+  },
+  {
+    "name": "Center Back",
+    "abbreviation": "CB",
+    "description": "Central defender whose primary responsibility is to prevent the opposition from scoring."
+  },
+  {
+    "name": "Left Back",
+    "abbreviation": "LB",
+    "description": "Defender who plays on the left side of the defense."
+  },
+  {
+    "name": "Right Back",
+    "abbreviation": "RB",
+    "description": "Defender who plays on the right side of the defense."
+  },
+  {
+    "name": "Defensive Midfielder",
+    "abbreviation": "DM",
+    "description": "Midfielder who plays in front of the defense, focusing on breaking up opposition attacks."
+  },
+  {
+    "name": "Central Midfielder",
+    "abbreviation": "CM",
+    "description": "Midfielder who plays centrally, balancing defensive and offensive responsibilities."
+  },
+  {
+    "name": "Attacking Midfielder",
+    "abbreviation": "AM",
+    "description": "Midfielder who focuses primarily on creating scoring opportunities for forwards."
+  },
+  {
+    "name": "Left Midfielder",
+    "abbreviation": "LM",
+    "description": "Midfielder who plays on the left side, providing width to the team's attack."
+  },
+  {
+    "name": "Right Midfielder",
+    "abbreviation": "RM",
+    "description": "Midfielder who plays on the right side, providing width to the team's attack."
+  },
+  {
+    "name": "Striker",
+    "abbreviation": "ST",
+    "description": "Forward whose main responsibility is scoring goals."
+  },
+  {
+    "name": "Left Winger",
+    "abbreviation": "LW",
+    "description": "Attacking player who plays on the left wing, providing width to the attack."
+  },
+  {
+    "name": "Right Winger",
+    "abbreviation": "RW",
+    "description": "Attacking player who plays on the right wing, providing width to the attack."
+  }
+]

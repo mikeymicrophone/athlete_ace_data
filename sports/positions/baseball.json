@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Pitcher",
+    "abbreviation": "P",
+    "description": "The player who throws the ball to the batter from the pitcher's mound."
+  },
+  {
+    "name": "Catcher",
+    "abbreviation": "C",
+    "description": "Positioned behind home plate, receives pitches and calls the game."
+  },
+  {
+    "name": "First Baseman",
+    "abbreviation": "1B",
+    "description": "Defends first base and receives throws from infielders."
+  },
+  {
+    "name": "Second Baseman",
+    "abbreviation": "2B",
+    "description": "Defends second base and turns double plays."
+  },
+  {
+    "name": "Third Baseman",
+    "abbreviation": "3B",
+    "description": "Defends third base, requires quick reflexes and a strong arm."
+  },
+  {
+    "name": "Shortstop",
+    "abbreviation": "SS",
+    "description": "Positioned between second and third base, usually the most athletic infielder."
+  },
+  {
+    "name": "Left Fielder",
+    "abbreviation": "LF",
+    "description": "Defends the left portion of the outfield."
+  },
+  {
+    "name": "Center Fielder",
+    "abbreviation": "CF",
+    "description": "Covers the middle portion of the outfield, usually the fastest outfielder."
+  },
+  {
+    "name": "Right Fielder",
+    "abbreviation": "RF",
+    "description": "Defends the right portion of the outfield, typically with the strongest arm."
+  },
+  {
+    "name": "Designated Hitter",
+    "abbreviation": "DH",
+    "description": "In American League games, bats in place of the pitcher."
+  }
+]

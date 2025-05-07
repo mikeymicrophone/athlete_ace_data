@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Center",
+    "abbreviation": "C",
+    "description": "The forward who plays in the middle of the ice, responsible for faceoffs and playmaking."
+  },
+  {
+    "name": "Left Wing",
+    "abbreviation": "LW",
+    "description": "The forward who plays on the left side of the ice."
+  },
+  {
+    "name": "Right Wing",
+    "abbreviation": "RW",
+    "description": "The forward who plays on the right side of the ice."
+  },
+  {
+    "name": "Defenseman",
+    "abbreviation": "D",
+    "description": "Players who primarily focus on preventing the opposing team from scoring."
+  },
+  {
+    "name": "Goaltender",
+    "abbreviation": "G",
+    "description": "The player responsible for directly preventing the opposing team from scoring."
+  }
+]

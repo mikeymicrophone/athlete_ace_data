@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Point Guard",
+    "abbreviation": "PG",
+    "description": "The point guard is typically the team's best ball handler and passer, responsible for organizing the team's offense and setting up scoring opportunities for teammates."
+  },
+  {
+    "name": "Shooting Guard",
+    "abbreviation": "SG",
+    "description": "The shooting guard is usually a good perimeter shooter and scorer, often serving as a secondary ball handler and perimeter defender."
+  },
+  {
+    "name": "Small Forward",
+    "abbreviation": "SF",
+    "description": "The small forward is typically a versatile player who can score from inside and outside, rebound, and defend multiple positions."
+  },
+  {
+    "name": "Power Forward",
+    "abbreviation": "PF",
+    "description": "The power forward typically plays near the basket, providing rebounding, interior defense, and scoring in the post, though modern power forwards often have perimeter skills as well."
+  },
+  {
+    "name": "Center",
+    "abbreviation": "C",
+    "description": "The center is usually the tallest player on the team, providing rebounding, shot blocking, and interior scoring."
+  },
+  {
+    "name": "Guard-Forward",
+    "abbreviation": "G-F",
+    "description": "A versatile player who can play both guard and forward positions, typically with good perimeter skills and size."
+  },
+  {
+    "name": "Forward-Center",
+    "abbreviation": "F-C",
+    "description": "A player who can play both forward and center positions, typically with good size and a mix of perimeter and post skills."
+  },
+  {
+    "name": "Forward",
+    "abbreviation": "F",
+    "description": "A general position for players who can play either small forward or power forward roles."
+  },
+  {
+    "name": "Guard",
+    "abbreviation": "G",
+    "description": "A general position for players who can play either point guard or shooting guard roles."
+  }
+]

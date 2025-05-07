@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Quarterback",
+    "abbreviation": "QB",
+    "description": "The leader of the offense who receives the snap and either passes, hands off, or runs with the ball."
+  },
+  {
+    "name": "Running Back",
+    "abbreviation": "RB",
+    "description": "Carries the ball on running plays and sometimes catches passes."
+  },
+  {
+    "name": "Wide Receiver",
+    "abbreviation": "WR",
+    "description": "Lines up on the outside and runs routes to catch passes."
+  },
+  {
+    "name": "Tight End",
+    "abbreviation": "TE",
+    "description": "A hybrid position that combines elements of an offensive lineman and a receiver."
+  },
+  {
+    "name": "Offensive Tackle",
+    "abbreviation": "OT",
+    "description": "Offensive linemen positioned on the ends of the line who protect the quarterback."
+  },
+  {
+    "name": "Offensive Guard",
+    "abbreviation": "OG",
+    "description": "Offensive linemen positioned between the center and tackles."
+  },
+  {
+    "name": "Center",
+    "abbreviation": "C",
+    "description": "The offensive lineman who snaps the ball to the quarterback."
+  },
+  {
+    "name": "Defensive End",
+    "abbreviation": "DE",
+    "description": "Defensive linemen positioned at the ends of the line who rush the passer."
+  },
+  {
+    "name": "Defensive Tackle",
+    "abbreviation": "DT",
+    "description": "Interior defensive linemen who stop running plays and pressure the quarterback."
+  },
+  {
+    "name": "Linebacker",
+    "abbreviation": "LB",
+    "description": "Second-level defenders who stop running plays, rush the passer, and cover receivers."
+  },
+  {
+    "name": "Cornerback",
+    "abbreviation": "CB",
+    "description": "Defensive backs who primarily cover wide receivers."
+  },
+  {
+    "name": "Safety",
+    "abbreviation": "S",
+    "description": "Defensive backs who line up deep in the secondary."
+  },
+  {
+    "name": "Kicker",
+    "abbreviation": "K",
+    "description": "Specialist who handles kickoffs and field goal attempts."
+  },
+  {
+    "name": "Punter",
+    "abbreviation": "P",
+    "description": "Specialist who punts the ball on fourth down."
+  }
+]
