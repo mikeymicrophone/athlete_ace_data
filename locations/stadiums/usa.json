@@ -8,7 +8,7 @@
       "capacity": 16600,
       "opened_year": 1999,
       "address": "1 State Farm Dr, Atlanta, GA 30303",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a4/State_Farm_Arena_logo.svg"
     },
     {
       "name": "TD Garden",
@@ -17,7 +17,7 @@
       "capacity": 18624,
       "opened_year": 1995,
       "address": "100 Legends Way, Boston, MA 02114",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/8c/TD_Garden_logo.svg"
     },
     {
       "name": "Barclays Center",
@@ -26,7 +26,7 @@
       "capacity": 17732,
       "opened_year": 2012,
       "address": "620 Atlantic Ave, Brooklyn, NY 11217",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Barclays_Center_logo.svg"
     },
     {
       "name": "Spectrum Center",
@@ -44,7 +44,7 @@
       "capacity": 20917,
       "opened_year": 1994,
       "address": "1901 W Madison St, Chicago, IL 60612",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/United_Center_logo.svg"
     },
     {
       "name": "Rocket Mortgage FieldHouse",
@@ -89,7 +89,7 @@
       "capacity": 18064,
       "opened_year": 2019,
       "address": "1 Warriors Way, San Francisco, CA 94158",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Chase_Center_logo.svg"
     },
     {
       "name": "Toyota Center",
@@ -116,7 +116,7 @@
       "capacity": 19068,
       "opened_year": 1999,
       "address": "1111 S Figueroa St, Los Angeles, CA 90015",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/3d/Crypto.com_Arena_logo.svg"
     },
     {
       "name": "FedExForum",
@@ -170,7 +170,7 @@
       "capacity": 19812,
       "opened_year": 1968,
       "address": "4 Pennsylvania Plaza, New York, NY 10001",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MSG_LOGO.svg"
     },
     {
       "name": "Paycom Center",
@@ -431,16 +431,16 @@
       "capacity": 37755,
       "opened_year": 1912,
       "address": "4 Jersey St, Boston, MA 02215",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/6d/Fenway_Park_logo.svg"
     },
     {
       "name": "Wrigley Field",
       "city_name": "Chicago",
       "state_name": "Illinois",
-      "capacity": 41268,
+      "capacity": 41649,
       "opened_year": 1914,
       "address": "1060 W Addison St, Chicago, IL 60613",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wrigley_Field_logo.svg"
     },
     {
       "name": "Guaranteed Rate Field",
@@ -467,7 +467,16 @@
       "capacity": 35041,
       "opened_year": 1994,
       "address": "2401 Ontario St, Cleveland, OH 44115",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Progressive_Field_logo.svg"
+    },
+    {
+      "name": "Lambeau Field",
+      "city_name": "Green Bay",
+      "state_name": "Wisconsin",
+      "capacity": 81441,
+      "opened_year": 1957,
+      "address": "1265 Lombardi Ave, Green Bay, WI 54304",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lambeau_Field_logo.svg"
     },
     {
       "name": "Coors Field",
@@ -521,7 +530,7 @@
       "capacity": 56000,
       "opened_year": 1962,
       "address": "1000 Vin Scully Ave, Los Angeles, CA 90012",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dodger_Stadium_logo.svg"
     },
     {
       "name": "loanDepot park",
@@ -566,7 +575,7 @@
       "capacity": 47309,
       "opened_year": 2009,
       "address": "1 E 161 St, Bronx, NY 10451",
-      "logo_url": ""
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Yankee_Stadium_logo.svg"
     },
     {
       "name": "Oakland Coliseum",

@@ -2,11 +2,11 @@
     {
         "name": "United States",
         "abbreviation": "US",
-        "flag_url": ""
+        "flag_url": "https://flagcdn.com/w320/us.png"
     },
     {
         "name": "Canada",
         "abbreviation": "CA",
-        "flag_url": ""
+        "flag_url": "https://flagcdn.com/w320/ca.png"
     }
 ]

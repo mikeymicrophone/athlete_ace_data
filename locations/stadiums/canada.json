@@ -1,13 +1,13 @@
 {
     "country_name": "Canada",
     "stadiums": [
-        { "name": "Scotiabank Arena", "city_name": "Toronto", "state_name": "Ontario", "capacity": 19800, "opened_year": 1999, "address": "40 Bay St, Toronto, ON M5J 2X2, Canada", "logo_url": "" },
-        { "name": "Canada Life Centre", "city_name": "Winnipeg", "state_name": "Manitoba", "capacity": 15321, "opened_year": 2004, "address": "300 Portage Ave, Winnipeg, MB R3C 5S4, Canada", "logo_url": "" },
-        { "name": "Scotiabank Saddledome", "city_name": "Calgary", "state_name": "Alberta", "capacity": 19289, "opened_year": 1983, "address": "555 Saddledome Rise SE, Calgary, AB T2G 2W1, Canada", "logo_url": "" },
-        { "name": "Rogers Arena", "city_name": "Vancouver", "state_name": "British Columbia", "capacity": 18810, "opened_year": 1995, "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada", "logo_url": "" },
-        { "name": "Rogers Place", "city_name": "Edmonton", "state_name": "Alberta", "capacity": 18347, "opened_year": 2016, "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6, Canada", "logo_url": "" },
-        { "name": "Bell Centre", "city_name": "Montreal", "state_name": "Quebec", "capacity": 21273, "opened_year": 1996, "address": "1909 Avenue des Canadiens-de-Montréal, Montreal, QC H3B 5E8, Canada", "logo_url": "" },
-        { "name": "Rogers Centre", "city_name": "Toronto", "state_name": "Ontario", "capacity": 49116, "opened_year": 1989, "address": "1 Blue Jays Way, Toronto, ON M5V 1J1, Canada", "logo_url": "" },
-        { "name": "Canadian Tire Centre", "city_name": "Ottawa", "state_name": "Ontario", "capacity": 18572, "opened_year": 1996, "address": "1000 Palladium Dr, Ottawa, ON K2V 1A5, Canada", "logo_url": "" }
+        { "name": "Scotiabank Arena", "city_name": "Toronto", "state_name": "Ontario", "capacity": 19800, "opened_year": 1999, "address": "40 Bay St, Toronto, ON M5J 2X2, Canada", "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/Scotiabank_Arena_logo.svg" },
+        { "name": "Canada Life Centre", "city_name": "Winnipeg", "state_name": "Manitoba", "capacity": 15321, "opened_year": 2004, "address": "300 Portage Ave, Winnipeg, MB R3C 5S4, Canada", "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Canada_Life_Centre_logo.svg" },
+        { "name": "Scotiabank Saddledome", "city_name": "Calgary", "state_name": "Alberta", "capacity": 19289, "opened_year": 1983, "address": "555 Saddledome Rise SE, Calgary, AB T2G 2W1, Canada", "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/89/Scotiabank_Saddledome_logo.svg" },
+        { "name": "Rogers Arena", "city_name": "Vancouver", "state_name": "British Columbia", "capacity": 18810, "opened_year": 1995, "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada", "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Rogers_Arena_logo.svg" },
+        { "name": "Rogers Place", "city_name": "Edmonton", "state_name": "Alberta", "capacity": 18347, "opened_year": 2016, "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6, Canada", "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Rogers_Place_logo.svg" },
+        { "name": "Bell Centre", "city_name": "Montreal", "state_name": "Quebec", "capacity": 21273, "opened_year": 1996, "address": "1909 Avenue des Canadiens-de-Montréal, Montreal, QC H3B 5E8, Canada", "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Bell_Centre_logo.svg" },
+        { "name": "Rogers Centre", "city_name": "Toronto", "state_name": "Ontario", "capacity": 49116, "opened_year": 1989, "address": "1 Blue Jays Way, Toronto, ON M5V 1J1, Canada", "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Rogers_Centre_logo.svg" },
+        { "name": "Canadian Tire Centre", "city_name": "Ottawa", "state_name": "Ontario", "capacity": 18572, "opened_year": 1996, "address": "1000 Palladium Dr, Ottawa, ON K2V 1A5, Canada", "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/42/Canadian_Tire_Centre_logo.svg" }
     ]
 }

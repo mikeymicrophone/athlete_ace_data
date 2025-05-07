@@ -1,10 +1,10 @@
 [
-  {"name": "Baseball", "icon_url": ""},
-  {"name": "Basketball", "icon_url": ""},
-  {"name": "Football", "icon_url": ""},
-  {"name": "Soccer", "icon_url": ""},
-  {"name": "Hockey", "icon_url": ""},
-  {"name": "Lacrosse", "icon_url": ""},
-  {"name": "Rugby", "icon_url": ""},
-  {"name": "Cricket", "icon_url": ""}
+  {"name": "Baseball", "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Baseball.svg"},
+  {"name": "Basketball", "icon_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png"},
+  {"name": "Football", "icon_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/American_Football.svg"},
+  {"name": "Soccer", "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Soccer_ball.svg"},
+  {"name": "Hockey", "icon_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ice_hockey_puck.svg"},
+  {"name": "Lacrosse", "icon_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lacrosse_Stick_and_Ball.png"},
+  {"name": "Rugby", "icon_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rugby_ball.svg"},
+  {"name": "Cricket", "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cricket_ball.svg"}
 ]
