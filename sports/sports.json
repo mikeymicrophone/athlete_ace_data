@@ -1,1 +1,10 @@
-["Baseball", "Basketball", "Football", "Soccer", "Hockey", "Lacrosse", "Rugby", "Cricket"]
+[
+  {"name": "Baseball", "icon_url": ""},
+  {"name": "Basketball", "icon_url": ""},
+  {"name": "Football", "icon_url": ""},
+  {"name": "Soccer", "icon_url": ""},
+  {"name": "Hockey", "icon_url": ""},
+  {"name": "Lacrosse", "icon_url": ""},
+  {"name": "Rugby", "icon_url": ""},
+  {"name": "Cricket", "icon_url": ""}
+]

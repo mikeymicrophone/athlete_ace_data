@@ -1,58 +1,71 @@
 {
-    "country_name": "Canada",
-    "abbreviation": "CA",
-    "states": [
-        {
-            "name": "Alberta",
-            "abbreviation": "AB"
-        },
-        {
-            "name": "British Columbia",
-            "abbreviation": "BC"
-        },
-        {
-            "name": "Manitoba",
-            "abbreviation": "MB"
-        },
-        {
-            "name": "New Brunswick",
-            "abbreviation": "NB"
-        },
-        {
-            "name": "Newfoundland and Labrador",
-            "abbreviation": "NL"
-        },
-        {
-            "name": "Northwest Territories",
-            "abbreviation": "NT"
-        },
-        {
-            "name": " Nunavut",
-            "abbreviation": "NU"
-        },
-        {
-            "name": "Nova Scotia",
-            "abbreviation": "NS"
-        },
-        {
-            "name": "Ontario",
-            "abbreviation": "ON"
-        },
-        {
-            "name": "Prince Edward Island",
-            "abbreviation": "PE"
-        },
-        {
-            "name": "Quebec",
-            "abbreviation": "QC"
-        },
-        {
-            "name": "Saskatchewan",
-            "abbreviation": "SK"
-        },
-        {
-            "name": "Yukon",
-            "abbreviation": "YT"
-        }
-    ]
+  "country_name": "Canada",
+  "abbreviation": "CA",
+  "states": [
+    {
+      "name": "Alberta",
+      "abbreviation": "AB",
+      "flag_url": ""
+    },
+    {
+      "name": "British Columbia",
+      "abbreviation": "BC",
+      "flag_url": ""
+    },
+    {
+      "name": "Manitoba",
+      "abbreviation": "MB",
+      "flag_url": ""
+    },
+    {
+      "name": "New Brunswick",
+      "abbreviation": "NB",
+      "flag_url": ""
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "abbreviation": "NL",
+      "flag_url": ""
+    },
+    {
+      "name": "Northwest Territories",
+      "abbreviation": "NT",
+      "flag_url": ""
+    },
+    {
+      "name": " Nunavut",
+      "abbreviation": "NU",
+      "flag_url": ""
+    },
+    {
+      "name": "Nova Scotia",
+      "abbreviation": "NS",
+      "flag_url": ""
+    },
+    {
+      "name": "Ontario",
+      "abbreviation": "ON",
+      "flag_url": ""
+    },
+    {
+      "name": "Prince Edward Island",
+      "abbreviation": "PE",
+      "flag_url": ""
+    },
+    {
+      "name": "Quebec",
+      "abbreviation": "QC",
+      "flag_url": ""
+    },
+    {
+      "name": "Saskatchewan",
+      "abbreviation": "SK",
+      "flag_url": ""
+    },
+    {
+      "name": "Yukon",
+      "abbreviation": "YT",
+      "flag_url": ""
+    }
+  ]
 }
