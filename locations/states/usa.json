@@ -5,257 +5,257 @@
     {
       "name": "Alabama",
       "abbreviation": "AL",
-      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Alabama.svg"
+      "flag_url": "https://www.alabama.gov/sites/default/files/2023-06/flag-4.svg"
     },
     {
       "name": "Alaska",
       "abbreviation": "AK",
-      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg"
+      "flag_url": "https://alaska.gov/wp-content/themes/alaska-theme/assets/images/alaska-flag.svg"
     },
     {
       "name": "Arizona",
       "abbreviation": "AZ",
-      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg"
+      "flag_url": "https://az.gov/themes/custom/az_gov/images/flag.svg"
     },
     {
       "name": "Arkansas",
       "abbreviation": "AR",
-      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg"
+      "flag_url": "https://portal.arkansas.gov/wp-content/uploads/2021/05/arflag.svg"
     },
     {
       "name": "California",
       "abbreviation": "CA",
-      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg"
+      "flag_url": "https://www.california.gov/wp-content/themes/CAWeb/images/favicon/apple-touch-icon.png"
     },
     {
       "name": "Colorado",
       "abbreviation": "CO",
-      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg"
+      "flag_url": "https://www.colorado.gov/dpa/doit/images/flags/flag-co.png"
     },
     {
       "name": "Connecticut",
       "abbreviation": "CT",
-      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg"
+      "flag_url": "https://portal.ct.gov/-/media/CID/1_Images/CTFlagIcon.png"
     },
     {
       "name": "Delaware",
       "abbreviation": "DE",
-      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg"
+      "flag_url": "https://delaware.gov/wp-content/themes/de_theme/assets/images/flagwave.svg"
     },
     {
       "name": "District of Columbia",
       "abbreviation": "DC",
-      "flag_url": ""
+      "flag_url": "https://dc.gov/sites/default/files/dc/sites/coronavirus/page_content/attachments/DC_flag.svg"
     },
     {
       "name": "Florida",
       "abbreviation": "FL",
-      "flag_url": ""
+      "flag_url": "https://www.myflorida.com/images/icons/favicons/fl-flag.svg"
     },
     {
       "name": "Georgia",
       "abbreviation": "GA",
-      "flag_url": ""
+      "flag_url": "https://georgia.gov/sites/default/files/2020-05/state_flag.png"
     },
     {
       "name": "Hawaii",
       "abbreviation": "HI",
-      "flag_url": ""
+      "flag_url": "https://portal.ehawaii.gov/assets/img/flags/hi.png"
     },
     {
       "name": "Idaho",
       "abbreviation": "ID",
-      "flag_url": ""
+      "flag_url": "https://legislature.idaho.gov/wp-content/uploads/about/capitol/idaho-state-flag.jpg"
     },
     {
       "name": "Illinois",
       "abbreviation": "IL",
-      "flag_url": ""
+      "flag_url": "https://www2.illinois.gov/Style%20Library/images/il-flag-sm.png"
     },
     {
       "name": "Indiana",
       "abbreviation": "IN",
-      "flag_url": ""
+      "flag_url": "https://www.in.gov/core/images/ico-flag.png"
     },
     {
       "name": "Iowa",
       "abbreviation": "IA",
-      "flag_url": ""
+      "flag_url": "https://www.iowa.gov/themes/StateTheme/images/flag.png"
     },
     {
       "name": "Kansas",
       "abbreviation": "KS",
-      "flag_url": ""
+      "flag_url": "https://governor.kansas.gov/wp-content/uploads/2018/07/kansas-state-flag.png"
     },
     {
       "name": "Kentucky",
       "abbreviation": "KY",
-      "flag_url": ""
+      "flag_url": "https://kentucky.gov/Style%20Library/KY/images/kentucky-flag.png"
     },
     {
       "name": "Louisiana",
       "abbreviation": "LA",
-      "flag_url": ""
+      "flag_url": "https://gov.louisiana.gov/assets/img/flag/la-flag.png"
     },
     {
       "name": "Maine",
       "abbreviation": "ME",
-      "flag_url": ""
+      "flag_url": "https://www.maine.gov/portal/government/state-flag.html/flag-of-maine.png"
     },
     {
       "name": "Maryland",
       "abbreviation": "MD",
-      "flag_url": ""
+      "flag_url": "https://msa.maryland.gov/msa/mdmanual/01glance/images/flag.gif"
     },
     {
       "name": "Massachusetts",
       "abbreviation": "MA",
-      "flag_url": ""
+      "flag_url": "https://www.mass.gov/files/mass-flag-img.png"
     },
     {
       "name": "Michigan",
       "abbreviation": "MI",
-      "flag_url": ""
+      "flag_url": "https://www.michigan.gov/themes/custom/michigan/images/elements/mi-flag.jpg"
     },
     {
       "name": "Minnesota",
       "abbreviation": "MN",
-      "flag_url": ""
+      "flag_url": "https://mn.gov/portal/assets/MN_state_flag_2024_tcm1077-594853.png"
     },
     {
       "name": "Mississippi",
       "abbreviation": "MS",
-      "flag_url": ""
+      "flag_url": "https://www.ms.gov/sites/default/files/2021-01/Mississippi-flag.png"
     },
     {
       "name": "Missouri",
       "abbreviation": "MO",
-      "flag_url": ""
+      "flag_url": "https://www.mo.gov/wp-content/uploads/2021/08/mo-state-flag.png"
     },
     {
       "name": "Montana",
       "abbreviation": "MT",
-      "flag_url": ""
+      "flag_url": "https://mt.gov/wp-content/uploads/2021/07/MT-State-Flag.png"
     },
     {
       "name": "Nebraska",
       "abbreviation": "NE",
-      "flag_url": ""
+      "flag_url": "https://governor.nebraska.gov/sites/governor.nebraska.gov/files/doc/NE-Flag.png"
     },
     {
       "name": "Nevada",
       "abbreviation": "NV",
-      "flag_url": ""
+      "flag_url": "https://nv.gov/images/features/nevada-flag.png"
     },
     {
       "name": "New Hampshire",
       "abbreviation": "NH",
-      "flag_url": ""
+      "flag_url": "https://www.nh.gov/images/flags/nh-state-flag.png"
     },
     {
       "name": "New Jersey",
       "abbreviation": "NJ",
-      "flag_url": ""
+      "flag_url": "https://www.nj.gov/nj/images/stateFlag.jpg"
     },
     {
       "name": "New Mexico",
       "abbreviation": "NM",
-      "flag_url": ""
+      "flag_url": "https://www.newmexico.gov/wp-content/uploads/2021/01/nm-state-flag.png"
     },
     {
       "name": "New York",
       "abbreviation": "NY",
-      "flag_url": ""
+      "flag_url": "https://www.ny.gov/sites/default/files/2021-01/NYSFlag.png"
     },
     {
       "name": "North Carolina",
       "abbreviation": "NC",
-      "flag_url": ""
+      "flag_url": "https://www.nc.gov/themes/nc-theme/images/ncgov-flag.png"
     },
     {
       "name": "North Dakota",
       "abbreviation": "ND",
-      "flag_url": ""
+      "flag_url": "https://www.nd.gov/content/dam/www/images/state-flag.png"
     },
     {
       "name": "Ohio",
       "abbreviation": "OH",
-      "flag_url": ""
+      "flag_url": "https://ohio.gov/static/images/flag.png"
     },
     {
       "name": "Oklahoma",
       "abbreviation": "OK",
-      "flag_url": ""
+      "flag_url": "https://oklahoma.gov/content/dam/ok/en/governor/images/state-flag.png"
     },
     {
       "name": "Oregon",
       "abbreviation": "OR",
-      "flag_url": ""
+      "flag_url": "https://www.oregon.gov/images/Seal-Flag/state-flag.png"
     },
     {
       "name": "Pennsylvania",
       "abbreviation": "PA",
-      "flag_url": ""
+      "flag_url": "https://www.pa.gov/wp-content/uploads/2021/01/PA-state-flag.png"
     },
     {
       "name": "Rhode Island",
       "abbreviation": "RI",
-      "flag_url": ""
+      "flag_url": "https://www.ri.gov/img/flag.png"
     },
     {
       "name": "South Carolina",
       "abbreviation": "SC",
-      "flag_url": ""
+      "flag_url": "https://sc.gov/sites/default/files/2019-04/SC-State-Flag.jpg"
     },
     {
       "name": "South Dakota",
       "abbreviation": "SD",
-      "flag_url": ""
+      "flag_url": "https://sd.gov/images/stateFlag.png"
     },
     {
       "name": "Tennessee",
       "abbreviation": "TN",
-      "flag_url": ""
+      "flag_url": "https://www.tn.gov/content/dam/tn/generalservices/images/tennessee-state-flag.png"
     },
     {
       "name": "Texas",
       "abbreviation": "TX",
-      "flag_url": ""
+      "flag_url": "https://www.tsl.texas.gov/sites/default/files/public/tslac/ref/abouttx/images/texas-flag.png"
     },
     {
       "name": "Utah",
       "abbreviation": "UT",
-      "flag_url": ""
+      "flag_url": "https://utah.gov/images/icons/utah-state-flag.jpg"
     },
     {
       "name": "Vermont",
       "abbreviation": "VT",
-      "flag_url": ""
+      "flag_url": "https://governor.vermont.gov/sites/governor/files/VT%20Flag.png"
     },
     {
       "name": "Virginia",
       "abbreviation": "VA",
-      "flag_url": ""
+      "flag_url": "https://www.virginia.gov/media/images/va-flag.png"
     },
     {
       "name": "Washington",
       "abbreviation": "WA",
-      "flag_url": ""
+      "flag_url": "https://www.sos.wa.gov/_assets/office/wa-state-flag.png"
     },
     {
       "name": "West Virginia",
       "abbreviation": "WV",
-      "flag_url": ""
+      "flag_url": "https://wv.gov/Images/WV-State-Flag.jpg"
     },
     {
       "name": "Wisconsin",
       "abbreviation": "WI",
-      "flag_url": ""
+      "flag_url": "https://www.wisconsin.gov/images/flags/wi-flag.png"
     },
     {
       "name": "Wyoming",
       "abbreviation": "WY",
-      "flag_url": ""
+      "flag_url": "https://governor.wyo.gov/wp-content/uploads/2021/01/WY-State-Flag.png"
     }
   ]
 }
