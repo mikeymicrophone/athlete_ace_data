@@ -1,4 +1,170 @@
 {
     "team_name": "Nuggets",
-    "players": []
+    "players": [
+        {
+            "first_name": "Nikola",
+            "last_name": "Jokic",
+            "current_position": "Center",
+            "birthdate": "1995-02-19",
+            "debut_year": 2015,
+            "draft_year": 2014,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"],
+            "bio": ["3-time NBA MVP (2021, 2022, 2023)", "2023 NBA Champion and Finals MVP", "5-time NBA All-Star", "Serbian basketball star"]
+        },
+        {
+            "first_name": "Jamal",
+            "last_name": "Murray",
+            "current_position": "Guard",
+            "birthdate": "1997-02-23",
+            "debut_year": 2016,
+            "draft_year": 2016,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1627750.png"],
+            "bio": ["2023 NBA Champion", "Known for playoff heroics", "Canadian basketball star", "Kentucky Wildcats alum"]
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Porter Jr.",
+            "current_position": "Forward",
+            "birthdate": "1998-06-29",
+            "debut_year": 2019,
+            "draft_year": 2018,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.png"],
+            "bio": ["2023 NBA Champion", "Elite shooter at 6'10\"", "Overcame back injuries early in career"]
+        },
+        {
+            "first_name": "Aaron",
+            "last_name": "Gordon",
+            "current_position": "Forward",
+            "birthdate": "1995-09-16",
+            "debut_year": 2014,
+            "draft_year": 2014,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/203932.png"],
+            "bio": ["2023 NBA Champion", "2016 NBA Slam Dunk Contest runner-up", "Acquired from Orlando in 2021"]
+        },
+        {
+            "first_name": "Kentavious",
+            "last_name": "Caldwell-Pope",
+            "current_position": "Guard",
+            "birthdate": "1993-02-18",
+            "debut_year": 2013,
+            "draft_year": 2013,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/203484.png"],
+            "bio": ["2023 NBA Champion with Denver", "2020 NBA Champion with Lakers", "3-and-D specialist"]
+        },
+        {
+            "first_name": "Russell",
+            "last_name": "Westbrook",
+            "current_position": "Guard",
+            "birthdate": "1988-11-12",
+            "debut_year": 2008,
+            "draft_year": 2008,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png"],
+            "bio": ["2017 NBA MVP", "9-time NBA All-Star", "NBA's all-time triple-double leader", "Joined Nuggets in 2024"]
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "Braun",
+            "current_position": "Guard",
+            "birthdate": "2001-04-17",
+            "debut_year": 2022,
+            "draft_year": 2022,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1631128.png"],
+            "bio": ["2023 NBA Champion", "Kansas Jayhawks NCAA Champion", "Known for energy and defense"]
+        },
+        {
+            "first_name": "Peyton",
+            "last_name": "Watson",
+            "current_position": "Forward",
+            "birthdate": "2002-09-13",
+            "debut_year": 2022,
+            "draft_year": 2022,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1631212.png"],
+            "bio": ["2023 NBA Champion", "UCLA product", "Athletic defender with developing offensive game"]
+        },
+        {
+            "first_name": "Julian",
+            "last_name": "Strawther",
+            "current_position": "Guard-Forward",
+            "birthdate": "2002-04-18",
+            "debut_year": 2023,
+            "draft_year": 2023,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1631316.png"],
+            "bio": ["Gonzaga standout", "First-round pick in 2023 NBA Draft", "Three-point specialist"]
+        },
+        {
+            "first_name": "Zeke",
+            "last_name": "Nnaji",
+            "current_position": "Forward-Center",
+            "birthdate": "2001-01-09",
+            "debut_year": 2020,
+            "draft_year": 2020,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1630192.png"],
+            "bio": ["2023 NBA Champion", "Arizona Wildcats product", "Stretch big with defensive versatility"]
+        },
+        {
+            "first_name": "DeAndre",
+            "last_name": "Jordan",
+            "current_position": "Center",
+            "birthdate": "1988-07-21",
+            "debut_year": 2008,
+            "draft_year": 2008,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/201599.png"],
+            "bio": ["2023 NBA Champion", "3-time All-NBA", "2-time NBA All-Defensive Team", "Veteran presence"]
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "Holiday",
+            "current_position": "Guard-Forward",
+            "birthdate": "1989-04-05",
+            "debut_year": 2012,
+            "draft_year": 2011,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/203200.png"],
+            "bio": ["2023 NBA Champion", "2015 NBA Champion with Warriors", "3-and-D veteran"]
+        },
+        {
+            "first_name": "Jalen",
+            "last_name": "Pickett",
+            "current_position": "Guard",
+            "birthdate": "1999-12-24",
+            "debut_year": 2023,
+            "draft_year": 2023,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1631323.png"],
+            "bio": ["Penn State standout", "All-Big Ten First Team", "Two-way contract player"]
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Tyson",
+            "current_position": "Forward",
+            "birthdate": "2000-05-14",
+            "debut_year": 2023,
+            "draft_year": 2023,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1631311.png"],
+            "bio": ["Clemson product", "Second-round pick in 2023", "Shooting specialist"]
+        },
+        {
+            "first_name": "Collin",
+            "last_name": "Gillespie",
+            "current_position": "Guard",
+            "birthdate": "1999-06-22",
+            "debut_year": 2022,
+            "draft_year": 2022,
+            "active": true,
+            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1631367.png"],
+            "bio": ["Villanova NCAA Champion", "Two-way contract player", "Heady point guard"]
+        }
+    ]
 }
