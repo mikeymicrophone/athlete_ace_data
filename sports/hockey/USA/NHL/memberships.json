@@ -1,0 +1,29 @@
+{
+  "league_name": "National Hockey League",
+  "memberships": [
+    {
+      "team_name": "Maple Leafs",
+      "conference_name": "Eastern Conference",
+      "division_name": "Atlantic Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Capitals",
+      "conference_name": "Eastern Conference",
+      "division_name": "Metropolitan Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Jets",
+      "conference_name": "Western Conference",
+      "division_name": "Central Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    }
+  ]
+}

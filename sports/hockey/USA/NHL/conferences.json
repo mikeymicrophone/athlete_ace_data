@@ -1,0 +1,39 @@
+{
+  "league_name": "National Hockey League",
+  "conferences": [
+    {
+      "name": "Eastern Conference",
+      "abbreviation": "East",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/NHL_Eastern_Conference.svg/1200px-NHL_Eastern_Conference.svg.png",
+      "divisions": [
+        {
+          "name": "Atlantic Division",
+          "abbreviation": "ATL",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NHL_Eastern_Conference_Atlantic_Division.svg/1200px-NHL_Eastern_Conference_Atlantic_Division.svg.png"
+        },
+        {
+          "name": "Metropolitan Division",
+          "abbreviation": "MET",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NHL_Eastern_Conference_Metropolitan_Division.svg/1200px-NHL_Eastern_Conference_Metropolitan_Division.svg.png"
+        }
+      ]
+    },
+    {
+      "name": "Western Conference",
+      "abbreviation": "West",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NHL_Western_Conference.svg/1200px-NHL_Western_Conference.svg.png",
+      "divisions": [
+        {
+          "name": "Central Division",
+          "abbreviation": "CEN",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NHL_Western_Conference_Central_Division.svg/1200px-NHL_Western_Conference_Central_Division.svg.png"
+        },
+        {
+          "name": "Pacific Division",
+          "abbreviation": "PAC",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NHL_Western_Conference_Pacific_Division.svg/1200px-NHL_Western_Conference_Pacific_Division.svg.png"
+        }
+      ]
+    }
+  ]
+}
