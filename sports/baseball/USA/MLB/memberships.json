@@ -1,0 +1,245 @@
+{
+  "league_name": "Major League Baseball",
+  "memberships": [
+    {
+      "team_name": "Orioles",
+      "conference_name": "American League",
+      "division_name": "AL East",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Red Sox",
+      "conference_name": "American League",
+      "division_name": "AL East",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Yankees",
+      "conference_name": "American League",
+      "division_name": "AL East",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Rays",
+      "conference_name": "American League",
+      "division_name": "AL East",
+      "start_year": 1998,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Blue Jays",
+      "conference_name": "American League",
+      "division_name": "AL East",
+      "start_year": 1977,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "White Sox",
+      "conference_name": "American League",
+      "division_name": "AL Central",
+      "start_year": 1994,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Guardians",
+      "conference_name": "American League",
+      "division_name": "AL Central",
+      "start_year": 1994,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Tigers",
+      "conference_name": "American League",
+      "division_name": "AL Central",
+      "start_year": 1998,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Royals",
+      "conference_name": "American League",
+      "division_name": "AL Central",
+      "start_year": 1994,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Twins",
+      "conference_name": "American League",
+      "division_name": "AL Central",
+      "start_year": 1994,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Astros",
+      "conference_name": "American League",
+      "division_name": "AL West",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Angels",
+      "conference_name": "American League",
+      "division_name": "AL West",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Athletics",
+      "conference_name": "American League",
+      "division_name": "AL West",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Mariners",
+      "conference_name": "American League",
+      "division_name": "AL West",
+      "start_year": 1977,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Rangers",
+      "conference_name": "American League",
+      "division_name": "AL West",
+      "start_year": 1972,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Braves",
+      "conference_name": "National League",
+      "division_name": "NL East",
+      "start_year": 1994,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Marlins",
+      "conference_name": "National League",
+      "division_name": "NL East",
+      "start_year": 1993,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Mets",
+      "conference_name": "National League",
+      "division_name": "NL East",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Phillies",
+      "conference_name": "National League",
+      "division_name": "NL East",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Nationals",
+      "conference_name": "National League",
+      "division_name": "NL East",
+      "start_year": 2005,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Cubs",
+      "conference_name": "National League",
+      "division_name": "NL Central",
+      "start_year": 1994,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Reds",
+      "conference_name": "National League",
+      "division_name": "NL Central",
+      "start_year": 1994,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Brewers",
+      "conference_name": "National League",
+      "division_name": "NL Central",
+      "start_year": 1998,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Pirates",
+      "conference_name": "National League",
+      "division_name": "NL Central",
+      "start_year": 1994,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Cardinals",
+      "conference_name": "National League",
+      "division_name": "NL Central",
+      "start_year": 1994,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Diamondbacks",
+      "conference_name": "National League",
+      "division_name": "NL West",
+      "start_year": 1998,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Rockies",
+      "conference_name": "National League",
+      "division_name": "NL West",
+      "start_year": 1993,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Dodgers",
+      "conference_name": "National League",
+      "division_name": "NL West",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Padres",
+      "conference_name": "National League",
+      "division_name": "NL West",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Giants",
+      "conference_name": "National League",
+      "division_name": "NL West",
+      "start_year": 1969,
+      "end_year": null,
+      "active": true
+    }
+  ]
+}

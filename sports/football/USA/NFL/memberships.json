@@ -1,0 +1,261 @@
+{
+  "league_name": "National Football League",
+  "memberships": [
+    {
+      "team_name": "Bills",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC East",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Dolphins",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC East",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Patriots",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC East",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Jets",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC East",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Ravens",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC North",
+      "start_year": 1996,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Bengals",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC North",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Browns",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC North",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Steelers",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC North",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Texans",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC South",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Colts",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC South",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Jaguars",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC South",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Titans",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC South",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Broncos",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC West",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Chiefs",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC West",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Raiders",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC West",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Chargers",
+      "conference_name": "American Football Conference",
+      "division_name": "AFC West",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Cowboys",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC East",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Giants",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC East",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Eagles",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC East",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Commanders",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC East",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Bears",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC North",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Lions",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC North",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Packers",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC North",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Vikings",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC North",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Falcons",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC South",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Panthers",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC South",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Saints",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC South",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Buccaneers",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC South",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Cardinals",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC West",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Rams",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC West",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "49ers",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC West",
+      "start_year": 1970,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Seahawks",
+      "conference_name": "National Football Conference",
+      "division_name": "NFC West",
+      "start_year": 2002,
+      "end_year": null,
+      "active": true
+    }
+  ]
+}
