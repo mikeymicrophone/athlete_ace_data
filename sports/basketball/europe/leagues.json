@@ -1,0 +1,13 @@
+{
+  "sport_name": "Basketball",
+  "country_name": "Europe",
+  "leagues": [
+    {
+      "name": "EuroLeague",
+      "abbreviation": "EL",
+      "year_of_origin": 2000,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Euroleague_basketball_logo.svg/1200px-Euroleague_basketball_logo.svg.png",
+      "url": "https://www.euroleaguebasketball.net"
+    }
+  ]
+} 

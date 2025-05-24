@@ -1,0 +1,13 @@
+{
+  "sport_name": "Hockey",
+  "country_name": "Sweden",
+  "leagues": [
+    {
+      "name": "Swedish Hockey League",
+      "abbreviation": "SHL",
+      "year_of_origin": 1975,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SHL_logo.svg/1200px-SHL_logo.svg.png",
+      "url": "https://www.shl.se"
+    }
+  ]
+} 

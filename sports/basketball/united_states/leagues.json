@@ -1,0 +1,13 @@
+{
+  "sport_name": "Basketball",
+  "country_name": "United States",
+  "leagues": [
+    {
+      "name": "NCAA Division I",
+      "abbreviation": "NCAA D1",
+      "year_of_origin": 1906,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NCAA_logo.svg/1200px-NCAA_logo.svg.png",
+      "url": "https://www.ncaa.com"
+    }
+  ]
+} 

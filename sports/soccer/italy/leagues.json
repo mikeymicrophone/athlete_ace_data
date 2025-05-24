@@ -1,0 +1,13 @@
+{
+  "sport_name": "Soccer",
+  "country_name": "Italy",
+  "leagues": [
+    {
+      "name": "Serie A",
+      "abbreviation": "SA",
+      "year_of_origin": 1898,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Serie_A_logo_2022.svg/1200px-Serie_A_logo_2022.svg.png",
+      "url": "https://www.legaseriea.it"
+    }
+  ]
+} 

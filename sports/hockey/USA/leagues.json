@@ -10,6 +10,15 @@
       "year_of_origin": 1917,
       "official_rules_url": "https://www.nhl.com/info/rules",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/National_Hockey_League_shield.svg"
+    },
+    {
+      "name": "Professional Women's Hockey League",
+      "abbreviation": "PWHL",
+      "url": "https://www.thepwhl.com/",
+      "ios_app_url": "https://apps.apple.com/us/app/the-pwhl/id1664426600",
+      "year_of_origin": 2024,
+      "official_rules_url": "https://www.thepwhl.com/rules",
+      "logo_url": "https://www.thepwhl.com/wp-content/uploads/2024/07/PWHL-Logo-2024-1.png"
     }
   ]
 }

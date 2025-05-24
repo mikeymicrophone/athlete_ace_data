@@ -1,0 +1,13 @@
+{
+  "sport_name": "Basketball",
+  "country_name": "China",
+  "leagues": [
+    {
+      "name": "Chinese Basketball Association",
+      "abbreviation": "CBA",
+      "year_of_origin": 1995,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chinese_Basketball_Association_logo.svg/1200px-Chinese_Basketball_Association_logo.svg.png",
+      "url": "http://www.cba.gov.cn"
+    }
+  ]
+} 

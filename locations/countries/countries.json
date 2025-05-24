@@ -8,5 +8,90 @@
         "name": "Canada",
         "abbreviation": "CA",
         "flag_url": "https://flagcdn.com/w320/ca.png"
+    },
+    {
+        "name": "United Kingdom",
+        "abbreviation": "GB",
+        "flag_url": "https://flagcdn.com/w320/gb.png"
+    },
+    {
+        "name": "Spain",
+        "abbreviation": "ES",
+        "flag_url": "https://flagcdn.com/w320/es.png"
+    },
+    {
+        "name": "Germany",
+        "abbreviation": "DE",
+        "flag_url": "https://flagcdn.com/w320/de.png"
+    },
+    {
+        "name": "Italy",
+        "abbreviation": "IT",
+        "flag_url": "https://flagcdn.com/w320/it.png"
+    },
+    {
+        "name": "France",
+        "abbreviation": "FR",
+        "flag_url": "https://flagcdn.com/w320/fr.png"
+    },
+    {
+        "name": "Mexico",
+        "abbreviation": "MX",
+        "flag_url": "https://flagcdn.com/w320/mx.png"
+    },
+    {
+        "name": "China",
+        "abbreviation": "CN",
+        "flag_url": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+        "name": "Japan",
+        "abbreviation": "JP",
+        "flag_url": "https://flagcdn.com/w320/jp.png"
+    },
+    {
+        "name": "South Korea",
+        "abbreviation": "KR",
+        "flag_url": "https://flagcdn.com/w320/kr.png"
+    },
+    {
+        "name": "Russia",
+        "abbreviation": "RU",
+        "flag_url": "https://flagcdn.com/w320/ru.png"
+    },
+    {
+        "name": "Sweden",
+        "abbreviation": "SE",
+        "flag_url": "https://flagcdn.com/w320/se.png"
+    },
+    {
+        "name": "India",
+        "abbreviation": "IN",
+        "flag_url": "https://flagcdn.com/w320/in.png"
+    },
+    {
+        "name": "Australia",
+        "abbreviation": "AU",
+        "flag_url": "https://flagcdn.com/w320/au.png"
+    },
+    {
+        "name": "Pakistan",
+        "abbreviation": "PK",
+        "flag_url": "https://flagcdn.com/w320/pk.png"
+    },
+    {
+        "name": "Ireland",
+        "abbreviation": "IE",
+        "flag_url": "https://flagcdn.com/w320/ie.png"
+    },
+    {
+        "name": "South Africa",
+        "abbreviation": "ZA",
+        "flag_url": "https://flagcdn.com/w320/za.png"
+    },
+    {
+        "name": "New Zealand",
+        "abbreviation": "NZ",
+        "flag_url": "https://flagcdn.com/w320/nz.png"
     }
 ]

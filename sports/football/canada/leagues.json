@@ -1,0 +1,13 @@
+{
+  "sport_name": "Football",
+  "country_name": "Canada",
+  "leagues": [
+    {
+      "name": "Canadian Football League",
+      "abbreviation": "CFL",
+      "year_of_origin": 1958,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CFL_logo.svg/1200px-CFL_logo.svg.png",
+      "url": "https://www.cfl.ca"
+    }
+  ]
+} 

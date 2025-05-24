@@ -1,0 +1,13 @@
+{
+  "sport_name": "Cricket",
+  "country_name": "India",
+  "leagues": [
+    {
+      "name": "Indian Premier League",
+      "abbreviation": "IPL",
+      "year_of_origin": 2008,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Indian_Premier_League_Official_Logo.svg/1200px-Indian_Premier_League_Official_Logo.svg.png",
+      "url": "https://www.iplt20.com"
+    }
+  ]
+} 

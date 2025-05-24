@@ -1,0 +1,13 @@
+{
+  "sport_name": "Baseball",
+  "country_name": "Mexico",
+  "leagues": [
+    {
+      "name": "Mexican League",
+      "abbreviation": "LMB",
+      "year_of_origin": 1925,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Liga_Mexicana_de_Beisbol_logo.svg/1200px-Liga_Mexicana_de_Beisbol_logo.svg.png",
+      "url": "https://www.lmb.com.mx"
+    }
+  ]
+} 

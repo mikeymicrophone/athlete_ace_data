@@ -1,0 +1,13 @@
+{
+  "sport_name": "Baseball",
+  "country_name": "Japan",
+  "leagues": [
+    {
+      "name": "Nippon Professional Baseball",
+      "abbreviation": "NPB",
+      "year_of_origin": 1950,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/NPB_logo.svg/1200px-NPB_logo.svg.png",
+      "url": "https://npb.jp"
+    }
+  ]
+} 

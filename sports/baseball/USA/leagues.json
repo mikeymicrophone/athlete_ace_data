@@ -10,6 +10,15 @@
       "year_of_origin": 1869,
       "official_rules_url": "https://www.mlb.com/official-information/official-rules",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png"
+    },
+    {
+      "name": "Minor League Baseball",
+      "abbreviation": "MiLB",
+      "url": "https://www.milb.com/",
+      "ios_app_url": "https://apps.apple.com/us/app/milb/id493619333",
+      "year_of_origin": 1901,
+      "official_rules_url": "https://www.milb.com/official-information/official-rules",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png"
     }
   ]
 }

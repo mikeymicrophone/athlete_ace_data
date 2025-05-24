@@ -10,6 +10,24 @@
       "year_of_origin": 1946,
       "official_rules_url": "https://official.nba.com/rulebook/",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg"
+    },
+    {
+      "name": "Women's National Basketball Association",
+      "abbreviation": "WNBA",
+      "url": "https://www.wnba.com/",
+      "ios_app_url": "https://apps.apple.com/us/app/wnba/id335744614",
+      "year_of_origin": 1996,
+      "official_rules_url": "https://www.nba.com/official-rules",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg"
+    },
+    {
+      "name": "NBA G League",
+      "abbreviation": "G League",
+      "url": "https://www.nba.com/g-league",
+      "ios_app_url": "https://apps.apple.com/us/app/nba-g-league/id335744614",
+      "year_of_origin": 1946,
+      "official_rules_url": "https://www.nba.com/official-rules",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg"
     }
   ]
 }

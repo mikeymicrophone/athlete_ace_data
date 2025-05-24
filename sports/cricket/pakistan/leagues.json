@@ -1,0 +1,13 @@
+{
+  "sport_name": "Cricket",
+  "country_name": "Pakistan",
+  "leagues": [
+    {
+      "name": "Pakistan Super League",
+      "abbreviation": "PSL",
+      "year_of_origin": 2015,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pakistan_Super_League_logo.svg/1200px-Pakistan_Super_League_logo.svg.png",
+      "url": "https://www.psl-t20.com"
+    }
+  ]
+} 

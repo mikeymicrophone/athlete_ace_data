@@ -1,0 +1,13 @@
+{
+  "sport_name": "Baseball",
+  "country_name": "South Korea",
+  "leagues": [
+    {
+      "name": "Korea Baseball Organization",
+      "abbreviation": "KBO",
+      "year_of_origin": 1982,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/KBO_League_logo.svg/1200px-KBO_League_logo.svg.png",
+      "url": "https://www.koreabaseball.com"
+    }
+  ]
+} 

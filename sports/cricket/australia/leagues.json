@@ -1,0 +1,13 @@
+{
+  "sport_name": "Cricket",
+  "country_name": "Australia",
+  "leagues": [
+    {
+      "name": "Big Bash League",
+      "abbreviation": "BBL",
+      "year_of_origin": 2011,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Big_Bash_League_logo.svg/1200px-Big_Bash_League_logo.svg.png",
+      "url": "https://www.bbl.com.au"
+    }
+  ]
+} 

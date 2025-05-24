@@ -1,0 +1,13 @@
+{
+  "sport_name": "Soccer",
+  "country_name": "United States",
+  "leagues": [
+    {
+      "name": "National Women's Soccer League",
+      "abbreviation": "NWSL",
+      "year_of_origin": 2012,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NWSL_logo.svg/1200px-NWSL_logo.svg.png",
+      "url": "https://www.nwslsoccer.com"
+    }
+  ]
+} 

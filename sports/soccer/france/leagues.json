@@ -1,0 +1,13 @@
+{
+  "sport_name": "Soccer",
+  "country_name": "France",
+  "leagues": [
+    {
+      "name": "Ligue 1",
+      "abbreviation": "L1",
+      "year_of_origin": 1932,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ligue_1_Uber_Eats_logo.svg/1200px-Ligue_1_Uber_Eats_logo.svg.png",
+      "url": "https://www.ligue1.com"
+    }
+  ]
+} 

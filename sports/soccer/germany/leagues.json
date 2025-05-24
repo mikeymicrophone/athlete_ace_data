@@ -1,0 +1,13 @@
+{
+  "sport_name": "Soccer",
+  "country_name": "Germany",
+  "leagues": [
+    {
+      "name": "Bundesliga",
+      "abbreviation": "BL",
+      "year_of_origin": 1963,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
+      "url": "https://www.bundesliga.com"
+    }
+  ]
+} 

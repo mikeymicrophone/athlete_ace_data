@@ -1,0 +1,13 @@
+{
+  "sport_name": "Soccer",
+  "country_name": "Mexico",
+  "leagues": [
+    {
+      "name": "Liga MX",
+      "abbreviation": "LMX",
+      "year_of_origin": 1943,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Liga_MX_logo.svg/1200px-Liga_MX_logo.svg.png",
+      "url": "https://www.ligamx.net"
+    }
+  ]
+} 

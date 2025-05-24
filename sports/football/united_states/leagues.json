@@ -1,0 +1,13 @@
+{
+  "sport_name": "Football",
+  "country_name": "United States",
+  "leagues": [
+    {
+      "name": "United Football League",
+      "abbreviation": "UFL",
+      "year_of_origin": 2024,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/UFL_logo.svg/1200px-UFL_logo.svg.png",
+      "url": "https://www.theufl.com"
+    }
+  ]
+} 

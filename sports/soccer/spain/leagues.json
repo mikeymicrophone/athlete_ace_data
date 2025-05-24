@@ -1,0 +1,13 @@
+{
+  "sport_name": "Soccer",
+  "country_name": "Spain",
+  "leagues": [
+    {
+      "name": "La Liga",
+      "abbreviation": "LL",
+      "year_of_origin": 1929,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1200px-LaLiga.svg.png",
+      "url": "https://www.laliga.com"
+    }
+  ]
+} 

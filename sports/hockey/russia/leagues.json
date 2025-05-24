@@ -1,0 +1,13 @@
+{
+  "sport_name": "Hockey",
+  "country_name": "Russia",
+  "leagues": [
+    {
+      "name": "Kontinental Hockey League",
+      "abbreviation": "KHL",
+      "year_of_origin": 2008,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/KHL_logo.svg/1200px-KHL_logo.svg.png",
+      "url": "https://www.khl.ru"
+    }
+  ]
+} 

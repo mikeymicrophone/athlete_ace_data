@@ -10,6 +10,15 @@
       "year_of_origin": 1920,
       "official_rules_url": "https://operations.nfl.com/the-rules/2023-nfl-rulebook/",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/National_Football_League_logo.svg"
+    },
+    {
+      "name": "Women's National Football League",
+      "abbreviation": "WFL",
+      "url": "https://www.wfl.com/",
+      "ios_app_url": "https://apps.apple.com/us/app/wfl/id389781154",
+      "year_of_origin": 1997,
+      "official_rules_url": "https://operations.nfl.com/the-rules/2023-nfl-rulebook/",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/National_Football_League_logo.svg"
     }
   ]
 }
