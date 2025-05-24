@@ -1,0 +1,125 @@
+{
+    "team_name": "Fire FC",
+    "players": [
+        {
+            "first_name": "Xherdan",
+            "last_name": "Shaqiri",
+            "current_position": "Midfielder",
+            "birthdate": "1991-10-10",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": ["The Alpine Messi"],
+            "bio": "Swiss international and Designated Player",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Xherdan_Shaqiri.jpg/1200px-Xherdan_Shaqiri.jpg"]
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "Brady",
+            "current_position": "Goalkeeper",
+            "birthdate": "2004-03-03",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "US youth international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chris_Brady.jpg/1200px-Chris_Brady.jpg"]
+        },
+        {
+            "first_name": "Kei",
+            "last_name": "Kamara",
+            "current_position": "Forward",
+            "birthdate": "1984-09-01",
+            "debut_year": 2006,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Sierra Leone international and MLS legend",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kei_Kamara.jpg/1200px-Kei_Kamara.jpg"]
+        },
+        {
+            "first_name": "Rafael",
+            "last_name": "Czichos",
+            "current_position": "Defender",
+            "birthdate": "1990-05-14",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "German defender and team captain",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rafael_Czichos.jpg/1200px-Rafael_Czichos.jpg"]
+        },
+        {
+            "first_name": "Maren",
+            "last_name": "Haile-Selassie",
+            "current_position": "Forward",
+            "birthdate": "2003-05-16",
+            "debut_year": 2023,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Swiss youth international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Maren_Haile-Selassie.jpg/1200px-Maren_Haile-Selassie.jpg"]
+        },
+        {
+            "first_name": "Gastón",
+            "last_name": "Giménez",
+            "current_position": "Midfielder",
+            "birthdate": "1991-07-27",
+            "debut_year": 2020,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Paraguayan international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gaston_Gimenez.jpg/1200px-Gaston_Gimenez.jpg"]
+        },
+        {
+            "first_name": "Brian",
+            "last_name": "Gutiérrez",
+            "current_position": "Midfielder",
+            "birthdate": "2003-06-17",
+            "debut_year": 2020,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Homegrown player and US youth international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brian_Gutierrez.jpg/1200px-Brian_Gutierrez.jpg"]
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "Terán",
+            "current_position": "Defender",
+            "birthdate": "2001-03-22",
+            "debut_year": 2021,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Colombian defender",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Carlos_Teran.jpg/1200px-Carlos_Teran.jpg"]
+        },
+        {
+            "first_name": "Fabian",
+            "last_name": "Herbers",
+            "current_position": "Midfielder",
+            "birthdate": "1993-08-17",
+            "debut_year": 2016,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "German midfielder",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Fabian_Herbers.jpg/1200px-Fabian_Herbers.jpg"]
+        },
+        {
+            "first_name": "Miguel",
+            "last_name": "Navarro",
+            "current_position": "Defender",
+            "birthdate": "1999-02-26",
+            "debut_year": 2020,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Venezuelan international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Miguel_Navarro.jpg/1200px-Miguel_Navarro.jpg"]
+        }
+    ]
+} 

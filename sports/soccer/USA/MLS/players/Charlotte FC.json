@@ -1,0 +1,125 @@
+{
+    "team_name": "FC",
+    "players": [
+        {
+            "first_name": "Karol",
+            "last_name": "Świderski",
+            "current_position": "Forward",
+            "birthdate": "1997-01-23",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Polish international and Designated Player",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Karol_Swiderski.jpg/1200px-Karol_Swiderski.jpg"]
+        },
+        {
+            "first_name": "Kristijan",
+            "last_name": "Kahlina",
+            "current_position": "Goalkeeper",
+            "birthdate": "1992-05-10",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Croatian goalkeeper",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kristijan_Kahlina.jpg/1200px-Kristijan_Kahlina.jpg"]
+        },
+        {
+            "first_name": "Enzo",
+            "last_name": "Copetti",
+            "current_position": "Forward",
+            "birthdate": "1996-03-20",
+            "debut_year": 2023,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Argentine Designated Player",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Enzo_Copetti.jpg/1200px-Enzo_Copetti.jpg"]
+        },
+        {
+            "first_name": "Jaylin",
+            "last_name": "Lindsey",
+            "current_position": "Defender",
+            "birthdate": "2000-03-27",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "US youth international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jaylin_Lindsey.jpg/1200px-Jaylin_Lindsey.jpg"]
+        },
+        {
+            "first_name": "Brandt",
+            "last_name": "Bronico",
+            "current_position": "Midfielder",
+            "birthdate": "1995-09-16",
+            "debut_year": 2018,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Chicago Fire midfielder",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brandt_Bronico.jpg/1200px-Brandt_Bronico.jpg"]
+        },
+        {
+            "first_name": "Derrick",
+            "last_name": "Jones",
+            "current_position": "Midfielder",
+            "birthdate": "1997-03-03",
+            "debut_year": 2016,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Philadelphia Union midfielder",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Derrick_Jones.jpg/1200px-Derrick_Jones.jpg"]
+        },
+        {
+            "first_name": "Adilson",
+            "last_name": "Malanda",
+            "current_position": "Defender",
+            "birthdate": "2001-01-20",
+            "debut_year": 2023,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "French defender",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adilson_Malanda.jpg/1200px-Adilson_Malanda.jpg"]
+        },
+        {
+            "first_name": "Kamil",
+            "last_name": "Jóźwiak",
+            "current_position": "Midfielder",
+            "birthdate": "1998-04-22",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Polish international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kamil_Jozwiak.jpg/1200px-Kamil_Jozwiak.jpg"]
+        },
+        {
+            "first_name": "Bill",
+            "last_name": "Tuiloma",
+            "current_position": "Defender",
+            "birthdate": "1995-03-27",
+            "debut_year": 2017,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "New Zealand international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bill_Tuiloma.jpg/1200px-Bill_Tuiloma.jpg"]
+        },
+        {
+            "first_name": "Kerwin",
+            "last_name": "Vargas",
+            "current_position": "Forward",
+            "birthdate": "2001-08-30",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Colombian forward",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kerwin_Vargas.jpg/1200px-Kerwin_Vargas.jpg"]
+        }
+    ]
+} 

@@ -1,0 +1,125 @@
+{
+    "team_name": "Crew",
+    "players": [
+        {
+            "first_name": "Cucho",
+            "last_name": "Hernández",
+            "current_position": "Forward",
+            "birthdate": "1999-04-02",
+            "debut_year": 2017,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Colombian international and Designated Player",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cucho_Hernandez.jpg/1200px-Cucho_Hernandez.jpg"]
+        },
+        {
+            "first_name": "Patrick",
+            "last_name": "Schulte",
+            "current_position": "Goalkeeper",
+            "birthdate": "2001-03-13",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "US youth international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Patrick_Schulte.jpg/1200px-Patrick_Schulte.jpg"]
+        },
+        {
+            "first_name": "Darlington",
+            "last_name": "Nagbe",
+            "current_position": "Midfielder",
+            "birthdate": "1990-07-19",
+            "debut_year": 2011,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "USMNT midfielder",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Darlington_Nagbe.jpg/1200px-Darlington_Nagbe.jpg"]
+        },
+        {
+            "first_name": "Aidan",
+            "last_name": "Morris",
+            "current_position": "Midfielder",
+            "birthdate": "2001-11-16",
+            "debut_year": 2020,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Homegrown player and US youth international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aidan_Morris.jpg/1200px-Aidan_Morris.jpg"]
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "Moreira",
+            "current_position": "Defender",
+            "birthdate": "1994-08-13",
+            "debut_year": 2013,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Portuguese international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Steven_Moreira.jpg/1200px-Steven_Moreira.jpg"]
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "Ramírez",
+            "current_position": "Forward",
+            "birthdate": "1991-04-04",
+            "debut_year": 2014,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Colombian-American forward",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christian_Ramirez.jpg/1200px-Christian_Ramirez.jpg"]
+        },
+        {
+            "first_name": "Milos",
+            "last_name": "Degenek",
+            "current_position": "Defender",
+            "birthdate": "1994-04-28",
+            "debut_year": 2013,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Australian international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Milos_Degenek.jpg/1200px-Milos_Degenek.jpg"]
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Matán",
+            "current_position": "Midfielder",
+            "birthdate": "2001-03-17",
+            "debut_year": 2019,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Hungarian international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alex_Matan.jpg/1200px-Alex_Matan.jpg"]
+        },
+        {
+            "first_name": "Mohamed",
+            "last_name": "Farsi",
+            "current_position": "Defender",
+            "birthdate": "2000-03-19",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Canadian international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mohamed_Farsi.jpg/1200px-Mohamed_Farsi.jpg"]
+        },
+        {
+            "first_name": "Yaw",
+            "last_name": "Yeboah",
+            "current_position": "Forward",
+            "birthdate": "1997-03-28",
+            "debut_year": 2015,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Ghanaian international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Yaw_Yeboah.jpg/1200px-Yaw_Yeboah.jpg"]
+        }
+    ]
+} 

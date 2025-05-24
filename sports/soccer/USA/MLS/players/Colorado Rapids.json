@@ -1,0 +1,125 @@
+{
+    "team_name": "Rapids",
+    "players": [
+        {
+            "first_name": "William",
+            "last_name": "Yarbrough",
+            "current_position": "Goalkeeper",
+            "birthdate": "1989-03-20",
+            "debut_year": 2010,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Mexican-American goalkeeper",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/William_Yarbrough.jpg/1200px-William_Yarbrough.jpg"]
+        },
+        {
+            "first_name": "Rafael",
+            "last_name": "Navarro",
+            "current_position": "Forward",
+            "birthdate": "2000-03-07",
+            "debut_year": 2023,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Brazilian forward",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rafael_Navarro.jpg/1200px-Rafael_Navarro.jpg"]
+        },
+        {
+            "first_name": "Cole",
+            "last_name": "Bassett",
+            "current_position": "Midfielder",
+            "birthdate": "2001-07-28",
+            "debut_year": 2018,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Homegrown player and US youth international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cole_Bassett.jpg/1200px-Cole_Bassett.jpg"]
+        },
+        {
+            "first_name": "Danny",
+            "last_name": "Wilson",
+            "current_position": "Defender",
+            "birthdate": "1991-12-27",
+            "debut_year": 2010,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Scottish international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Danny_Wilson.jpg/1200px-Danny_Wilson.jpg"]
+        },
+        {
+            "first_name": "Keegan",
+            "last_name": "Rosenberry",
+            "current_position": "Defender",
+            "birthdate": "1993-12-11",
+            "debut_year": 2016,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Philadelphia Union defender",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Keegan_Rosenberry.jpg/1200px-Keegan_Rosenberry.jpg"]
+        },
+        {
+            "first_name": "Jonathan",
+            "last_name": "Lewis",
+            "current_position": "Forward",
+            "birthdate": "1997-06-04",
+            "debut_year": 2017,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "USMNT forward",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jonathan_Lewis.jpg/1200px-Jonathan_Lewis.jpg"]
+        },
+        {
+            "first_name": "Andreas",
+            "last_name": "Maxsø",
+            "current_position": "Defender",
+            "birthdate": "1994-03-18",
+            "debut_year": 2013,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Danish international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Andreas_Maxso.jpg/1200px-Andreas_Maxso.jpg"]
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Ronan",
+            "current_position": "Midfielder",
+            "birthdate": "1997-10-06",
+            "debut_year": 2016,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Irish international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Connor_Ronan.jpg/1200px-Connor_Ronan.jpg"]
+        },
+        {
+            "first_name": "Lalas",
+            "last_name": "Abubakar",
+            "current_position": "Defender",
+            "birthdate": "1994-01-06",
+            "debut_year": 2017,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Ghanaian international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lalas_Abubakar.jpg/1200px-Lalas_Abubakar.jpg"]
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Barrios",
+            "current_position": "Forward",
+            "birthdate": "1991-04-21",
+            "debut_year": 2015,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Colombian forward",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Michael_Barrios.jpg/1200px-Michael_Barrios.jpg"]
+        }
+    ]
+} 

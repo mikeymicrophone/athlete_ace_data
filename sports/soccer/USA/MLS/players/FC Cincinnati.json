@@ -1,0 +1,125 @@
+{
+    "team_name": "FC",
+    "players": [
+        {
+            "first_name": "Luciano",
+            "last_name": "Acosta",
+            "current_position": "Midfielder",
+            "birthdate": "1994-05-31",
+            "debut_year": 2014,
+            "draft_year": null,
+            "active": true,
+            "nicknames": ["Lucho"],
+            "bio": "Argentine Designated Player and team captain",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Luciano_Acosta.jpg/1200px-Luciano_Acosta.jpg"]
+        },
+        {
+            "first_name": "Roman",
+            "last_name": "Celentano",
+            "current_position": "Goalkeeper",
+            "birthdate": "2000-09-14",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Indiana University goalkeeper",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Roman_Celentano.jpg/1200px-Roman_Celentano.jpg"]
+        },
+        {
+            "first_name": "Brandon",
+            "last_name": "Vazquez",
+            "current_position": "Forward",
+            "birthdate": "1998-10-14",
+            "debut_year": 2017,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "USMNT forward",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brandon_Vazquez.jpg/1200px-Brandon_Vazquez.jpg"]
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "Miazga",
+            "current_position": "Defender",
+            "birthdate": "1995-07-19",
+            "debut_year": 2013,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "USMNT defender",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Matt_Miazga.jpg/1200px-Matt_Miazga.jpg"]
+        },
+        {
+            "first_name": "Sergio",
+            "last_name": "Santos",
+            "current_position": "Forward",
+            "birthdate": "1995-08-03",
+            "debut_year": 2019,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Brazilian forward",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sergio_Santos.jpg/1200px-Sergio_Santos.jpg"]
+        },
+        {
+            "first_name": "Alvas",
+            "last_name": "Powell",
+            "current_position": "Defender",
+            "birthdate": "1994-07-18",
+            "debut_year": 2013,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Jamaican international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alvas_Powell.jpg/1200px-Alvas_Powell.jpg"]
+        },
+        {
+            "first_name": "Yuya",
+            "last_name": "Kubo",
+            "current_position": "Midfielder",
+            "birthdate": "1993-12-24",
+            "debut_year": 2011,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Japanese international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Yuya_Kubo.jpg/1200px-Yuya_Kubo.jpg"]
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "Hagglund",
+            "current_position": "Defender",
+            "birthdate": "1992-03-14",
+            "debut_year": 2014,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Toronto FC defender",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nick_Hagglund.jpg/1200px-Nick_Hagglund.jpg"]
+        },
+        {
+            "first_name": "Junior",
+            "last_name": "Moreno",
+            "current_position": "Midfielder",
+            "birthdate": "1993-07-20",
+            "debut_year": 2018,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Venezuelan international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Junior_Moreno.jpg/1200px-Junior_Moreno.jpg"]
+        },
+        {
+            "first_name": "Ray",
+            "last_name": "Gaddis",
+            "current_position": "Defender",
+            "birthdate": "1990-01-13",
+            "debut_year": 2012,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Philadelphia Union defender",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ray_Gaddis.jpg/1200px-Ray_Gaddis.jpg"]
+        }
+    ]
+} 

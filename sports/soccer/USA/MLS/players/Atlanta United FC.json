@@ -1,0 +1,125 @@
+{
+    "team_name": "United FC",
+    "players": [
+        {
+            "first_name": "Brad",
+            "last_name": "Guzan",
+            "current_position": "Goalkeeper",
+            "birthdate": "1984-09-09",
+            "debut_year": 2005,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former USMNT goalkeeper and team captain",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brad_Guzan.jpg/1200px-Brad_Guzan.jpg"]
+        },
+        {
+            "first_name": "Thiago",
+            "last_name": "Almada",
+            "current_position": "Midfielder",
+            "birthdate": "2001-04-26",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Argentine international and Designated Player",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Thiago_Almada.jpg/1200px-Thiago_Almada.jpg"]
+        },
+        {
+            "first_name": "Giorgos",
+            "last_name": "Giakoumakis",
+            "current_position": "Forward",
+            "birthdate": "1994-12-09",
+            "debut_year": 2023,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Greek international striker",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Giorgos_Giakoumakis.jpg/1200px-Giorgos_Giakoumakis.jpg"]
+        },
+        {
+            "first_name": "Caleb",
+            "last_name": "Wiley",
+            "current_position": "Defender",
+            "birthdate": "2004-12-22",
+            "debut_year": 2022,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Homegrown player and US youth international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Caleb_Wiley.jpg/1200px-Caleb_Wiley.jpg"]
+        },
+        {
+            "first_name": "Brooks",
+            "last_name": "Lennon",
+            "current_position": "Defender",
+            "birthdate": "1997-09-22",
+            "debut_year": 2017,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former US youth international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brooks_Lennon.jpg/1200px-Brooks_Lennon.jpg"]
+        },
+        {
+            "first_name": "Saba",
+            "last_name": "Lobjanidze",
+            "current_position": "Forward",
+            "birthdate": "1994-12-18",
+            "debut_year": 2023,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Georgian international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Saba_Lobjanidze.jpg/1200px-Saba_Lobjanidze.jpg"]
+        },
+        {
+            "first_name": "Tristan",
+            "last_name": "Muyumba",
+            "current_position": "Midfielder",
+            "birthdate": "1997-03-07",
+            "debut_year": 2023,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "French midfielder",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tristan_Muyumba.jpg/1200px-Tristan_Muyumba.jpg"]
+        },
+        {
+            "first_name": "Derrick",
+            "last_name": "Etienne",
+            "current_position": "Midfielder",
+            "birthdate": "1996-11-25",
+            "debut_year": 2016,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Haitian international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Derrick_Etienne.jpg/1200px-Derrick_Etienne.jpg"]
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Abram",
+            "current_position": "Defender",
+            "birthdate": "1996-02-27",
+            "debut_year": 2023,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Peruvian international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Luis_Abram.jpg/1200px-Luis_Abram.jpg"]
+        },
+        {
+            "first_name": "Bartosz",
+            "last_name": "Slisz",
+            "current_position": "Midfielder",
+            "birthdate": "1999-03-29",
+            "debut_year": 2024,
+            "draft_year": null,
+            "active": true,
+            "nicknames": [],
+            "bio": "Polish international",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bartosz_Slisz.jpg/1200px-Bartosz_Slisz.jpg"]
+        }
+    ]
+} 
