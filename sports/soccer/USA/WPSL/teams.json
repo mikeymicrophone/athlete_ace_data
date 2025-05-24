@@ -1,0 +1,47 @@
+{
+    "league_name": "Women's Premier Soccer League",
+    "teams": [
+        {
+            "territory": "California",
+            "mascot": "Storm",
+            "stadium_name": "Titan Stadium",
+            "logo_url": "https://www.wpslsoccer.com/wp-content/uploads/2023/03/california-storm-logo.png",
+            "url": "https://www.californiastorm.com"
+        },
+        {
+            "territory": "Chicago",
+            "mascot": "Mustangs",
+            "stadium_name": "Benedictine University Sports Complex",
+            "logo_url": "https://www.wpslsoccer.com/wp-content/uploads/2023/03/chicago-mustangs-logo.png",
+            "url": "https://www.chicagomustangs.com"
+        },
+        {
+            "territory": "FC",
+            "mascot": "Milwaukee Torrent",
+            "stadium_name": "Hart Park",
+            "logo_url": "https://www.wpslsoccer.com/wp-content/uploads/2023/03/milwaukee-torrent-logo.png",
+            "url": "https://www.milwaukeetorrent.com"
+        },
+        {
+            "territory": "New York",
+            "mascot": "Athletic Club",
+            "stadium_name": "Mitchell Athletic Complex",
+            "logo_url": "https://www.wpslsoccer.com/wp-content/uploads/2023/03/new-york-athletic-club-logo.png",
+            "url": "https://www.nyac.org/soccer"
+        },
+        {
+            "territory": "San Francisco",
+            "mascot": "Nighthawks",
+            "stadium_name": "Kezar Stadium",
+            "logo_url": "https://www.wpslsoccer.com/wp-content/uploads/2023/03/san-francisco-nighthawks-logo.png",
+            "url": "https://www.sfnighthawks.com"
+        },
+        {
+            "territory": "Seattle",
+            "mascot": "Sounders Women",
+            "stadium_name": "Starfire Sports Complex",
+            "logo_url": "https://www.wpslsoccer.com/wp-content/uploads/2023/03/seattle-sounders-women-logo.png",
+            "url": "https://www.sounderswomen.com"
+        }
+    ]
+} 

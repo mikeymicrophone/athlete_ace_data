@@ -1,5 +1,208 @@
 {
     "league_name": "Major League Soccer",
     "teams": [
+        {
+            "territory": "Atlanta",
+            "mascot": "United FC",
+            "stadium_name": "Mercedes-Benz Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Atlanta_United_FC_logo.svg/1200px-Atlanta_United_FC_logo.svg.png",
+            "url": "https://www.atlutd.com"
+        },
+        {
+            "territory": "Austin",
+            "mascot": "FC",
+            "stadium_name": "Q2 Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Austin_FC_logo.svg/1200px-Austin_FC_logo.svg.png",
+            "url": "https://www.austinfc.com"
+        },
+        {
+            "territory": "Charlotte",
+            "mascot": "FC",
+            "stadium_name": "Bank of America Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Charlotte_FC_logo.svg/1200px-Charlotte_FC_logo.svg.png",
+            "url": "https://www.charlottefootballclub.com"
+        },
+        {
+            "territory": "Chicago",
+            "mascot": "Fire FC",
+            "stadium_name": "Soldier Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Chicago_Fire_FC_logo.svg/1200px-Chicago_Fire_FC_logo.svg.png",
+            "url": "https://www.chicagofirefc.com"
+        },
+        {
+            "territory": "Cincinnati",
+            "mascot": "FC",
+            "stadium_name": "TQL Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FC_Cincinnati_logo.svg/1200px-FC_Cincinnati_logo.svg.png",
+            "url": "https://www.fccincinnati.com"
+        },
+        {
+            "territory": "Colorado",
+            "mascot": "Rapids",
+            "stadium_name": "Dick's Sporting Goods Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Colorado_Rapids_logo.svg/1200px-Colorado_Rapids_logo.svg.png",
+            "url": "https://www.coloradorapids.com"
+        },
+        {
+            "territory": "Columbus",
+            "mascot": "Crew",
+            "stadium_name": "Lower.com Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Columbus_Crew_logo.svg/1200px-Columbus_Crew_logo.svg.png",
+            "url": "https://www.columbuscrew.com"
+        },
+        {
+            "territory": "Dallas",
+            "mascot": "FC",
+            "stadium_name": "Toyota Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FC_Dallas_logo.svg/1200px-FC_Dallas_logo.svg.png",
+            "url": "https://www.fcdallas.com"
+        },
+        {
+            "territory": "DC",
+            "mascot": "United",
+            "stadium_name": "Audi Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/DC_United_logo.svg/1200px-DC_United_logo.svg.png",
+            "url": "https://www.dcunited.com"
+        },
+        {
+            "territory": "Houston",
+            "mascot": "Dynamo FC",
+            "stadium_name": "Shell Energy Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Houston_Dynamo_FC_logo.svg/1200px-Houston_Dynamo_FC_logo.svg.png",
+            "url": "https://www.houstondynamofc.com"
+        },
+        {
+            "territory": "Los Angeles",
+            "mascot": "FC",
+            "stadium_name": "BMO Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Los_Angeles_FC_logo.svg/1200px-Los_Angeles_FC_logo.svg.png",
+            "url": "https://www.lafc.com"
+        },
+        {
+            "territory": "Los Angeles",
+            "mascot": "Galaxy",
+            "stadium_name": "Dignity Health Sports Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/LA_Galaxy_logo.svg/1200px-LA_Galaxy_logo.svg.png",
+            "url": "https://www.lagalaxy.com"
+        },
+        {
+            "territory": "Miami",
+            "mascot": "Inter CF",
+            "stadium_name": "Chase Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Inter_Miami_CF_logo.svg/1200px-Inter_Miami_CF_logo.svg.png",
+            "url": "https://www.intermiamicf.com"
+        },
+        {
+            "territory": "Minnesota",
+            "mascot": "United FC",
+            "stadium_name": "Allianz Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Minnesota_United_FC_logo.svg/1200px-Minnesota_United_FC_logo.svg.png",
+            "url": "https://www.mnufc.com"
+        },
+        {
+            "territory": "Montreal",
+            "mascot": "CF",
+            "stadium_name": "Stade Saputo",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/CF_Montreal_logo.svg/1200px-CF_Montreal_logo.svg.png",
+            "url": "https://www.cfmontreal.com"
+        },
+        {
+            "territory": "Nashville",
+            "mascot": "SC",
+            "stadium_name": "GEODIS Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Nashville_SC_logo.svg/1200px-Nashville_SC_logo.svg.png",
+            "url": "https://www.nashvillesc.com"
+        },
+        {
+            "territory": "New England",
+            "mascot": "Revolution",
+            "stadium_name": "Gillette Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/New_England_Revolution_logo.svg/1200px-New_England_Revolution_logo.svg.png",
+            "url": "https://www.revolutionsoccer.net"
+        },
+        {
+            "territory": "New York",
+            "mascot": "City FC",
+            "stadium_name": "Yankee Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/New_York_City_FC_logo.svg/1200px-New_York_City_FC_logo.svg.png",
+            "url": "https://www.nycfc.com"
+        },
+        {
+            "territory": "New York",
+            "mascot": "Red Bulls",
+            "stadium_name": "Red Bull Arena",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/New_York_Red_Bulls_logo.svg/1200px-New_York_Red_Bulls_logo.svg.png",
+            "url": "https://www.newyorkredbulls.com"
+        },
+        {
+            "territory": "Orlando",
+            "mascot": "City SC",
+            "stadium_name": "Exploria Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Orlando_City_SC_logo.svg/1200px-Orlando_City_SC_logo.svg.png",
+            "url": "https://www.orlandocitysc.com"
+        },
+        {
+            "territory": "Philadelphia",
+            "mascot": "Union",
+            "stadium_name": "Subaru Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Philadelphia_Union_logo.svg/1200px-Philadelphia_Union_logo.svg.png",
+            "url": "https://www.philadelphiaunion.com"
+        },
+        {
+            "territory": "Portland",
+            "mascot": "Timbers",
+            "stadium_name": "Providence Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Portland_Timbers_logo.svg/1200px-Portland_Timbers_logo.svg.png",
+            "url": "https://www.timbers.com"
+        },
+        {
+            "territory": "Real Salt Lake",
+            "mascot": "FC",
+            "stadium_name": "America First Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Real_Salt_Lake_logo.svg/1200px-Real_Salt_Lake_logo.svg.png",
+            "url": "https://www.rsl.com"
+        },
+        {
+            "territory": "San Jose",
+            "mascot": "Earthquakes",
+            "stadium_name": "PayPal Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/San_Jose_Earthquakes_logo.svg/1200px-San_Jose_Earthquakes_logo.svg.png",
+            "url": "https://www.sjearthquakes.com"
+        },
+        {
+            "territory": "Seattle",
+            "mascot": "Sounders FC",
+            "stadium_name": "Lumen Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Seattle_Sounders_FC_logo.svg/1200px-Seattle_Sounders_FC_logo.svg.png",
+            "url": "https://www.soundersfc.com"
+        },
+        {
+            "territory": "Sporting Kansas City",
+            "mascot": "FC",
+            "stadium_name": "Children's Mercy Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sporting_Kansas_City_logo.svg/1200px-Sporting_Kansas_City_logo.svg.png",
+            "url": "https://www.sportingkc.com"
+        },
+        {
+            "territory": "St. Louis",
+            "mascot": "City SC",
+            "stadium_name": "CITYPARK",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/St._Louis_City_SC_logo.svg/1200px-St._Louis_City_SC_logo.svg.png",
+            "url": "https://www.stlcitysc.com"
+        },
+        {
+            "territory": "Toronto",
+            "mascot": "FC",
+            "stadium_name": "BMO Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Toronto_FC_logo.svg/1200px-Toronto_FC_logo.svg.png",
+            "url": "https://www.torontofc.ca"
+        },
+        {
+            "territory": "Vancouver",
+            "mascot": "Whitecaps FC",
+            "stadium_name": "BC Place",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Vancouver_Whitecaps_FC_logo.svg/1200px-Vancouver_Whitecaps_FC_logo.svg.png",
+            "url": "https://www.whitecapsfc.com"
+        }
     ]
 }

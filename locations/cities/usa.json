@@ -237,6 +237,34 @@
         {
             "name": "Sunrise",
             "state": "FL"
+        },
+        {
+            "name": "Carson",
+            "state": "CA"
+        },
+        {
+            "name": "Chester",
+            "state": "PA"
+        },
+        {
+            "name": "Commerce City",
+            "state": "CO"
+        },
+        {
+            "name": "Foxborough",
+            "state": "MA"
+        },
+        {
+            "name": "Frisco",
+            "state": "TX"
+        },
+        {
+            "name": "Harrison",
+            "state": "NJ"
+        },
+        {
+            "name": "Sandy",
+            "state": "UT"
         }
     ]
 }

@@ -1,0 +1,89 @@
+{
+    "league_name": "National Women's Soccer League",
+    "teams": [
+        {
+            "territory": "Bay",
+            "mascot": "FC",
+            "stadium_name": "PayPal Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bay_FC_logo.svg/1200px-Bay_FC_logo.svg.png",
+            "url": "https://www.bayfc.com"
+        },
+        {
+            "territory": "Chicago",
+            "mascot": "Red Stars",
+            "stadium_name": "SeatGeek Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Chicago_Red_Stars_logo.svg/1200px-Chicago_Red_Stars_logo.svg.png",
+            "url": "https://www.chicagoredstars.com"
+        },
+        {
+            "territory": "Houston",
+            "mascot": "Dash",
+            "stadium_name": "Shell Energy Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Houston_Dash_logo.svg/1200px-Houston_Dash_logo.svg.png",
+            "url": "https://www.houstondynamofc.com/dash"
+        },
+        {
+            "territory": "Kansas City",
+            "mascot": "Current",
+            "stadium_name": "CPKC Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Kansas_City_Current_logo.svg/1200px-Kansas_City_Current_logo.svg.png",
+            "url": "https://www.kccurrent.com"
+        },
+        {
+            "territory": "North Carolina",
+            "mascot": "Courage",
+            "stadium_name": "WakeMed Soccer Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/North_Carolina_Courage_logo.svg/1200px-North_Carolina_Courage_logo.svg.png",
+            "url": "https://www.nccourage.com"
+        },
+        {
+            "territory": "Orlando",
+            "mascot": "Pride",
+            "stadium_name": "Exploria Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Orlando_Pride_logo.svg/1200px-Orlando_Pride_logo.svg.png",
+            "url": "https://www.orlandocitysc.com/pride"
+        },
+        {
+            "territory": "Portland",
+            "mascot": "Thorns FC",
+            "stadium_name": "Providence Park",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Portland_Thorns_FC_logo.svg/1200px-Portland_Thorns_FC_logo.svg.png",
+            "url": "https://www.timbers.com/thorns"
+        },
+        {
+            "territory": "Racing Louisville",
+            "mascot": "FC",
+            "stadium_name": "Lynn Family Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Racing_Louisville_FC_logo.svg/1200px-Racing_Louisville_FC_logo.svg.png",
+            "url": "https://www.racingloufc.com"
+        },
+        {
+            "territory": "San Diego",
+            "mascot": "Wave FC",
+            "stadium_name": "Snapdragon Stadium",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/San_Diego_Wave_FC_logo.svg/1200px-San_Diego_Wave_FC_logo.svg.png",
+            "url": "https://www.sandiegowavefc.com"
+        },
+        {
+            "territory": "Seattle",
+            "mascot": "Reign FC",
+            "stadium_name": "Lumen Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Seattle_Reign_FC_logo.svg/1200px-Seattle_Reign_FC_logo.svg.png",
+            "url": "https://www.reignfc.com"
+        },
+        {
+            "territory": "Utah",
+            "mascot": "Royals",
+            "stadium_name": "America First Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Utah_Royals_FC_logo.svg/1200px-Utah_Royals_FC_logo.svg.png",
+            "url": "https://www.rsl.com/royals"
+        },
+        {
+            "territory": "Washington",
+            "mascot": "Spirit",
+            "stadium_name": "Audi Field",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Washington_Spirit_logo.svg/1200px-Washington_Spirit_logo.svg.png",
+            "url": "https://www.washingtonspirit.com"
+        }
+    ]
+} 

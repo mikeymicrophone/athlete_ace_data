@@ -666,6 +666,240 @@
       "opened_year": 2008,
       "address": "1500 S Capitol St SE, Washington, DC 20003",
       "logo_url": ""
+    },
+    {
+      "name": "Mercedes-Benz Stadium",
+      "city_name": "Atlanta",
+      "state_name": "Georgia",
+      "capacity": 71000,
+      "opened_year": 2017,
+      "address": "1 AMB Drive NW, Atlanta, GA 30313",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Mercedes-Benz_Stadium_logo.svg/1200px-Mercedes-Benz_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Q2 Stadium",
+      "city_name": "Austin",
+      "state_name": "Texas",
+      "capacity": 20738,
+      "opened_year": 2021,
+      "address": "10414 McKalla Place, Austin, TX 78758",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Q2_Stadium_logo.svg/1200px-Q2_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Bank of America Stadium",
+      "city_name": "Charlotte",
+      "state_name": "North Carolina",
+      "capacity": 74525,
+      "opened_year": 1996,
+      "address": "800 S Mint St, Charlotte, NC 28202",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bank_of_America_Stadium_logo.svg/1200px-Bank_of_America_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Soldier Field",
+      "city_name": "Chicago",
+      "state_name": "Illinois",
+      "capacity": 61500,
+      "opened_year": 1924,
+      "address": "1410 Special Olympics Dr, Chicago, IL 60605",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Soldier_Field_logo.svg/1200px-Soldier_Field_logo.svg.png"
+    },
+    {
+      "name": "TQL Stadium",
+      "city_name": "Cincinnati",
+      "state_name": "Ohio",
+      "capacity": 26200,
+      "opened_year": 2021,
+      "address": "1501 Central Pkwy, Cincinnati, OH 45214",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/TQL_Stadium_logo.svg/1200px-TQL_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Dick's Sporting Goods Park",
+      "city_name": "Commerce City",
+      "state_name": "Colorado",
+      "capacity": 18061,
+      "opened_year": 2007,
+      "address": "6000 Victory Way, Commerce City, CO 80022",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Dick%27s_Sporting_Goods_Park_logo.svg/1200px-Dick%27s_Sporting_Goods_Park_logo.svg.png"
+    },
+    {
+      "name": "Lower.com Field",
+      "city_name": "Columbus",
+      "state_name": "Ohio",
+      "capacity": 20511,
+      "opened_year": 2021,
+      "address": "96 Columbus Crew Way, Columbus, OH 43215",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Lower.com_Field_logo.svg/1200px-Lower.com_Field_logo.svg.png"
+    },
+    {
+      "name": "Toyota Stadium",
+      "city_name": "Frisco",
+      "state_name": "Texas",
+      "capacity": 20500,
+      "opened_year": 2005,
+      "address": "9200 World Cup Way, Frisco, TX 75033",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Toyota_Stadium_logo.svg/1200px-Toyota_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Audi Field",
+      "city_name": "Washington",
+      "state_name": "District of Columbia",
+      "capacity": 20000,
+      "opened_year": 2018,
+      "address": "100 Potomac Ave SW, Washington, DC 20024",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Audi_Field_logo.svg/1200px-Audi_Field_logo.svg.png"
+    },
+    {
+      "name": "Shell Energy Stadium",
+      "city_name": "Houston",
+      "state_name": "Texas",
+      "capacity": 22039,
+      "opened_year": 2012,
+      "address": "2200 Texas Ave, Houston, TX 77003",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Shell_Energy_Stadium_logo.svg/1200px-Shell_Energy_Stadium_logo.svg.png"
+    },
+    {
+      "name": "BMO Stadium",
+      "city_name": "Los Angeles",
+      "state_name": "California",
+      "capacity": 22000,
+      "opened_year": 2018,
+      "address": "3939 S Figueroa St, Los Angeles, CA 90037",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/BMO_Stadium_logo.svg/1200px-BMO_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Dignity Health Sports Park",
+      "city_name": "Carson",
+      "state_name": "California",
+      "capacity": 27000,
+      "opened_year": 2003,
+      "address": "18400 Avalon Blvd, Carson, CA 90746",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Dignity_Health_Sports_Park_logo.svg/1200px-Dignity_Health_Sports_Park_logo.svg.png"
+    },
+    {
+      "name": "Chase Stadium",
+      "city_name": "Fort Lauderdale",
+      "state_name": "Florida",
+      "capacity": 21000,
+      "opened_year": 2020,
+      "address": "1350 NW 55th St, Fort Lauderdale, FL 33309",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Chase_Stadium_logo.svg/1200px-Chase_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Allianz Field",
+      "city_name": "Saint Paul",
+      "state_name": "Minnesota",
+      "capacity": 19600,
+      "opened_year": 2019,
+      "address": "400 Snelling Ave N, St Paul, MN 55104",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Allianz_Field_logo.svg/1200px-Allianz_Field_logo.svg.png"
+    },
+    {
+      "name": "GEODIS Park",
+      "city_name": "Nashville",
+      "state_name": "Tennessee",
+      "capacity": 30103,
+      "opened_year": 2022,
+      "address": "501 Benton Ave, Nashville, TN 37203",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/GEODIS_Park_logo.svg/1200px-GEODIS_Park_logo.svg.png"
+    },
+    {
+      "name": "Gillette Stadium",
+      "city_name": "Foxborough",
+      "state_name": "Massachusetts",
+      "capacity": 65878,
+      "opened_year": 2002,
+      "address": "1 Patriot Pl, Foxborough, MA 02035",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Gillette_Stadium_logo.svg/1200px-Gillette_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Yankee Stadium",
+      "city_name": "New York",
+      "state_name": "New York",
+      "capacity": 46537,
+      "opened_year": 2009,
+      "address": "1 E 161st St, Bronx, NY 10451",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Yankee_Stadium_logo.svg/1200px-Yankee_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Red Bull Arena",
+      "city_name": "Harrison",
+      "state_name": "New Jersey",
+      "capacity": 25000,
+      "opened_year": 2010,
+      "address": "600 Cape May St, Harrison, NJ 07029",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Red_Bull_Arena_logo.svg/1200px-Red_Bull_Arena_logo.svg.png"
+    },
+    {
+      "name": "Exploria Stadium",
+      "city_name": "Orlando",
+      "state_name": "Florida",
+      "capacity": 25500,
+      "opened_year": 2017,
+      "address": "655 W Church St, Orlando, FL 32805",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Exploria_Stadium_logo.svg/1200px-Exploria_Stadium_logo.svg.png"
+    },
+    {
+      "name": "Subaru Park",
+      "city_name": "Chester",
+      "state_name": "Pennsylvania",
+      "capacity": 18500,
+      "opened_year": 2010,
+      "address": "1 Stadium Dr, Chester, PA 19013",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Subaru_Park_logo.svg/1200px-Subaru_Park_logo.svg.png"
+    },
+    {
+      "name": "Providence Park",
+      "city_name": "Portland",
+      "state_name": "Oregon",
+      "capacity": 25418,
+      "opened_year": 1926,
+      "address": "1844 SW Morrison St, Portland, OR 97205",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Providence_Park_logo.svg/1200px-Providence_Park_logo.svg.png"
+    },
+    {
+      "name": "America First Field",
+      "city_name": "Sandy",
+      "state_name": "Utah",
+      "capacity": 20650,
+      "opened_year": 2008,
+      "address": "9256 S State St, Sandy, UT 84070",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/America_First_Field_logo.svg/1200px-America_First_Field_logo.svg.png"
+    },
+    {
+      "name": "PayPal Park",
+      "city_name": "San Jose",
+      "state_name": "California",
+      "capacity": 18000,
+      "opened_year": 2015,
+      "address": "1123 Coleman Ave, San Jose, CA 95110",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/PayPal_Park_logo.svg/1200px-PayPal_Park_logo.svg.png"
+    },
+    {
+      "name": "Lumen Field",
+      "city_name": "Seattle",
+      "state_name": "Washington",
+      "capacity": 68740,
+      "opened_year": 2002,
+      "address": "800 Occidental Ave S, Seattle, WA 98134",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Lumen_Field_logo.svg/1200px-Lumen_Field_logo.svg.png"
+    },
+    {
+      "name": "Children's Mercy Park",
+      "city_name": "Kansas City",
+      "state_name": "Kansas",
+      "capacity": 18467,
+      "opened_year": 2011,
+      "address": "1 Sporting Way, Kansas City, KS 66111",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Children%27s_Mercy_Park_logo.svg/1200px-Children%27s_Mercy_Park_logo.svg.png"
+    },
+    {
+      "name": "CITYPARK",
+      "city_name": "St. Louis",
+      "state_name": "Missouri",
+      "capacity": 22500,
+      "opened_year": 2022,
+      "address": "2100 Market St, St. Louis, MO 63103",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/CITYPARK_logo.svg/1200px-CITYPARK_logo.svg.png"
     }
   ]
 }
