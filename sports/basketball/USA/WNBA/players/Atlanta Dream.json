@@ -1,0 +1,65 @@
+{
+    "team_name": "Dream",
+    "players": [
+        {
+            "first_name": "Rhyne",
+            "last_name": "Howard",
+            "current_position": "Guard",
+            "birthdate": "1999-11-28",
+            "debut_year": 2022,
+            "draft_year": 2022,
+            "active": true,
+            "nicknames": [],
+            "bio": "First overall pick in the 2022 WNBA Draft",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rhyne_Howard.jpg/1200px-Rhyne_Howard.jpg"]
+        },
+        {
+            "first_name": "Allisha",
+            "last_name": "Gray",
+            "current_position": "Guard",
+            "birthdate": "1995-01-12",
+            "debut_year": 2017,
+            "draft_year": 2017,
+            "active": true,
+            "nicknames": [],
+            "bio": "WNBA Rookie of the Year in 2017",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Allisha_Gray.jpg/1200px-Allisha_Gray.jpg"]
+        },
+        {
+            "first_name": "Cheyenne",
+            "last_name": "Parker",
+            "current_position": "Forward",
+            "birthdate": "1992-08-22",
+            "debut_year": 2015,
+            "draft_year": 2015,
+            "active": true,
+            "nicknames": [],
+            "bio": "Two-time WNBA All-Star",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cheyenne_Parker.jpg/1200px-Cheyenne_Parker.jpg"]
+        },
+        {
+            "first_name": "Nia",
+            "last_name": "Coffey",
+            "current_position": "Forward",
+            "birthdate": "1995-06-11",
+            "debut_year": 2017,
+            "draft_year": 2017,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Northwestern standout",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nia_Coffey.jpg/1200px-Nia_Coffey.jpg"]
+        },
+        {
+            "first_name": "Aari",
+            "last_name": "McDonald",
+            "current_position": "Guard",
+            "birthdate": "1998-08-20",
+            "debut_year": 2021,
+            "draft_year": 2021,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Arizona Wildcats star",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aari_McDonald.jpg/1200px-Aari_McDonald.jpg"]
+        }
+    ]
+} 

@@ -1,0 +1,65 @@
+{
+    "team_name": "Sky",
+    "players": [
+        {
+            "first_name": "Kahleah",
+            "last_name": "Copper",
+            "current_position": "Guard/Forward",
+            "birthdate": "1994-08-28",
+            "debut_year": 2016,
+            "draft_year": 2016,
+            "active": true,
+            "nicknames": [],
+            "bio": "2021 WNBA Finals MVP",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kahleah_Copper.jpg/1200px-Kahleah_Copper.jpg"]
+        },
+        {
+            "first_name": "Marina",
+            "last_name": "Mabrey",
+            "current_position": "Guard",
+            "birthdate": "1996-09-14",
+            "debut_year": 2019,
+            "draft_year": 2019,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Notre Dame standout",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marina_Mabrey.jpg/1200px-Marina_Mabrey.jpg"]
+        },
+        {
+            "first_name": "Elizabeth",
+            "last_name": "Williams",
+            "current_position": "Center",
+            "birthdate": "1993-06-08",
+            "debut_year": 2015,
+            "draft_year": 2015,
+            "active": true,
+            "nicknames": ["Liz"],
+            "bio": "Four-time WNBA All-Defensive Team selection",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Elizabeth_Williams.jpg/1200px-Elizabeth_Williams.jpg"]
+        },
+        {
+            "first_name": "Dana",
+            "last_name": "Evans",
+            "current_position": "Guard",
+            "birthdate": "1998-08-01",
+            "debut_year": 2021,
+            "draft_year": 2021,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Louisville Cardinals star",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dana_Evans.jpg/1200px-Dana_Evans.jpg"]
+        },
+        {
+            "first_name": "Morgan",
+            "last_name": "Bertsch",
+            "current_position": "Forward",
+            "birthdate": "1997-01-25",
+            "debut_year": 2019,
+            "draft_year": 2019,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former UC Davis standout",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Morgan_Bertsch.jpg/1200px-Morgan_Bertsch.jpg"]
+        }
+    ]
+} 

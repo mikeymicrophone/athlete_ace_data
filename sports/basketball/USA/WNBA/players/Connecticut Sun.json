@@ -1,0 +1,65 @@
+{
+    "team_name": "Sun",
+    "players": [
+        {
+            "first_name": "Alyssa",
+            "last_name": "Thomas",
+            "current_position": "Forward",
+            "birthdate": "1992-04-12",
+            "debut_year": 2014,
+            "draft_year": 2014,
+            "active": true,
+            "nicknames": ["AT"],
+            "bio": "Four-time WNBA All-Star",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alyssa_Thomas.jpg/1200px-Alyssa_Thomas.jpg"]
+        },
+        {
+            "first_name": "DeWanna",
+            "last_name": "Bonner",
+            "current_position": "Guard/Forward",
+            "birthdate": "1987-08-21",
+            "debut_year": 2009,
+            "draft_year": 2009,
+            "active": true,
+            "nicknames": [],
+            "bio": "Three-time WNBA Champion",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/DeWanna_Bonner.jpg/1200px-DeWanna_Bonner.jpg"]
+        },
+        {
+            "first_name": "Brionna",
+            "last_name": "Jones",
+            "current_position": "Center",
+            "birthdate": "1995-12-18",
+            "debut_year": 2017,
+            "draft_year": 2017,
+            "active": true,
+            "nicknames": ["Breezy"],
+            "bio": "2021 WNBA Most Improved Player",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brionna_Jones.jpg/1200px-Brionna_Jones.jpg"]
+        },
+        {
+            "first_name": "Natisha",
+            "last_name": "Hiedeman",
+            "current_position": "Guard",
+            "birthdate": "1997-02-10",
+            "debut_year": 2019,
+            "draft_year": 2019,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former Marquette standout",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Natisha_Hiedeman.jpg/1200px-Natisha_Hiedeman.jpg"]
+        },
+        {
+            "first_name": "Tyasha",
+            "last_name": "Harris",
+            "current_position": "Guard",
+            "birthdate": "1998-05-01",
+            "debut_year": 2020,
+            "draft_year": 2020,
+            "active": true,
+            "nicknames": [],
+            "bio": "Former South Carolina Gamecocks star",
+            "photo_urls": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tyasha_Harris.jpg/1200px-Tyasha_Harris.jpg"]
+        }
+    ]
+} 

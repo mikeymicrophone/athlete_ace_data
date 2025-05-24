@@ -572,10 +572,10 @@
       "name": "Yankee Stadium",
       "city_name": "New York",
       "state_name": "New York",
-      "capacity": 47309,
+      "capacity": 46537,
       "opened_year": 2009,
-      "address": "1 E 161 St, Bronx, NY 10451",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Yankee_Stadium_logo.svg"
+      "address": "1 E 161st St, Bronx, NY 10451",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Yankee_Stadium_logo.svg/1200px-Yankee_Stadium_logo.svg.png"
     },
     {
       "name": "Oakland Coliseum",
@@ -810,15 +810,6 @@
       "opened_year": 2002,
       "address": "1 Patriot Pl, Foxborough, MA 02035",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Gillette_Stadium_logo.svg/1200px-Gillette_Stadium_logo.svg.png"
-    },
-    {
-      "name": "Yankee Stadium",
-      "city_name": "New York",
-      "state_name": "New York",
-      "capacity": 46537,
-      "opened_year": 2009,
-      "address": "1 E 161st St, Bronx, NY 10451",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Yankee_Stadium_logo.svg/1200px-Yankee_Stadium_logo.svg.png"
     },
     {
       "name": "Red Bull Arena",

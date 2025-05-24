@@ -1,6 +1,6 @@
 {
   "sport_name": "Basketball",
-  "country_name": "Europe",
+  "federation_name": "FIBA",
   "leagues": [
     {
       "name": "EuroLeague",

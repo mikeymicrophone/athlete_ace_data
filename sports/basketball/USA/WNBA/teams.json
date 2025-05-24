@@ -1,0 +1,89 @@
+{
+    "league_name": "Women's National Basketball Association",
+    "teams": [
+        {
+            "territory": "Atlanta",
+            "mascot": "Dream",
+            "stadium_name": "Gateway Center Arena",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Atlanta_Dream_logo.svg/1200px-Atlanta_Dream_logo.svg.png",
+            "url": "https://dream.wnba.com"
+        },
+        {
+            "territory": "Chicago",
+            "mascot": "Sky",
+            "stadium_name": "Wintrust Arena",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Chicago_Sky_logo.svg/1200px-Chicago_Sky_logo.svg.png",
+            "url": "https://sky.wnba.com"
+        },
+        {
+            "territory": "Connecticut",
+            "mascot": "Sun",
+            "stadium_name": "Mohegan Sun Arena",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Connecticut_Sun_logo.svg/1200px-Connecticut_Sun_logo.svg.png",
+            "url": "https://sun.wnba.com"
+        },
+        {
+            "territory": "Dallas",
+            "mascot": "Wings",
+            "stadium_name": "College Park Center",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Dallas_Wings_logo.svg/1200px-Dallas_Wings_logo.svg.png",
+            "url": "https://wings.wnba.com"
+        },
+        {
+            "territory": "Indiana",
+            "mascot": "Fever",
+            "stadium_name": "Gainbridge Fieldhouse",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Indiana_Fever_logo.svg/1200px-Indiana_Fever_logo.svg.png",
+            "url": "https://fever.wnba.com"
+        },
+        {
+            "territory": "Las Vegas",
+            "mascot": "Aces",
+            "stadium_name": "Michelob Ultra Arena",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Las_Vegas_Aces_logo.svg/1200px-Las_Vegas_Aces_logo.svg.png",
+            "url": "https://aces.wnba.com"
+        },
+        {
+            "territory": "Los Angeles",
+            "mascot": "Sparks",
+            "stadium_name": "Crypto.com Arena",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Los_Angeles_Sparks_logo.svg/1200px-Los_Angeles_Sparks_logo.svg.png",
+            "url": "https://sparks.wnba.com"
+        },
+        {
+            "territory": "Minnesota",
+            "mascot": "Lynx",
+            "stadium_name": "Target Center",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Minnesota_Lynx_logo.svg/1200px-Minnesota_Lynx_logo.svg.png",
+            "url": "https://lynx.wnba.com"
+        },
+        {
+            "territory": "New York",
+            "mascot": "Liberty",
+            "stadium_name": "Barclays Center",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/New_York_Liberty_logo.svg/1200px-New_York_Liberty_logo.svg.png",
+            "url": "https://liberty.wnba.com"
+        },
+        {
+            "territory": "Phoenix",
+            "mascot": "Mercury",
+            "stadium_name": "Footprint Center",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_Mercury_logo.svg/1200px-Phoenix_Mercury_logo.svg.png",
+            "url": "https://mercury.wnba.com"
+        },
+        {
+            "territory": "Seattle",
+            "mascot": "Storm",
+            "stadium_name": "Climate Pledge Arena",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Seattle_Storm_logo.svg/1200px-Seattle_Storm_logo.svg.png",
+            "url": "https://storm.wnba.com"
+        },
+        {
+            "territory": "Washington",
+            "mascot": "Mystics",
+            "stadium_name": "Entertainment & Sports Arena",
+            "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Washington_Mystics_logo.svg/1200px-Washington_Mystics_logo.svg.png",
+            "url": "https://mystics.wnba.com"
+        }
+    ]
+} 
