@@ -1,0 +1,12 @@
+{
+  "federations": [
+    {
+      "name": "Federation of International Basketball Associations",
+      "abbreviation": "FIBA",
+      "year_of_origin": 1932,
+      "description": "The governing body for basketball at the international level.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Euroleague_basketball_logo.svg/1200px-Euroleague_basketball_logo.svg.png",
+      "url": "https://www.fiba.com"
+    }
+  ]
+}
