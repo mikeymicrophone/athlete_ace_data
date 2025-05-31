@@ -1,0 +1,237 @@
+{
+  "league_name": "Major League Soccer",
+  "memberships": [
+    {
+      "team_name": "Inter Miami",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Columbus",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Cincinnati",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Orlando City",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Charlotte",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "New York City",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "New York Red Bulls",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Montréal",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Atlanta United",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "D.C. United",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Toronto",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Philadelphia Union",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Nashville",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "New England Revolution",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Chicago Fire",
+      "conference_name": "Eastern Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Los Angeles FC",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "LA Galaxy",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Real Salt Lake",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Seattle Sounders",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Houston Dynamo",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Minnesota United",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Colorado Rapids",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Vancouver Whitecaps",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Portland Timbers",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Austin",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Dallas",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "St. Louis City",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Sporting Kansas City",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "San Jose Earthquakes",
+      "conference_name": "Western Conference",
+      "division_name": null,
+      "start_year": 2024,
+      "end_year": null,
+      "active": true
+    }
+  ]
+}

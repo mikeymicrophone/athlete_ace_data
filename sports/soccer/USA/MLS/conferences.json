@@ -1,0 +1,13 @@
+{
+  "league_name": "Major League Soccer",
+  "conferences": [
+    {
+      "conference_name": "Eastern Conference",
+      "divisions": []
+    },
+    {
+      "conference_name": "Western Conference",
+      "divisions": []
+    }
+  ]
+}
