@@ -2,12 +2,18 @@
   "league_name": "Major League Soccer",
   "conferences": [
     {
-      "conference_name": "Eastern Conference",
-      "divisions": []
+      "name": "Eastern Conference",
+      "abbreviation": "East",
+      "divisions": [
+        {"name": "East"}
+      ]
     },
     {
-      "conference_name": "Western Conference",
-      "divisions": []
+      "name": "Western Conference",
+      "abbreviation": "West",
+      "divisions": [
+        {"name": "West"}
+      ]
     }
   ]
 }

@@ -2,19 +2,21 @@
   "league_name": "National Basketball Association",
   "conferences": [
     {
-      "conference_name": "Eastern Conference",
+      "name": "Eastern Conference",
+      "abbreviation": "East",
       "divisions": [
-        {"division_name": "Atlantic Division"},
-        {"division_name": "Central Division"},
-        {"division_name": "Southeast Division"}
+        {"name": "Atlantic Division"},
+        {"name": "Central Division"},
+        {"name": "Southeast Division"}
       ]
     },
     {
-      "conference_name": "Western Conference",
+      "name": "Western Conference",
+      "abbreviation": "West",
       "divisions": [
-        {"division_name": "Northwest Division"},
-        {"division_name": "Pacific Division"},
-        {"division_name": "Southwest Division"}
+        {"name": "Northwest Division"},
+        {"name": "Pacific Division"},
+        {"name": "Southwest Division"}
       ]
     }
   ]
