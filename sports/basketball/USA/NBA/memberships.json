@@ -1,8 +1,8 @@
 {
-  "league_name": "National Hockey League",
+  "league_name": "National Basketball Association",
   "memberships": [
     {
-      "team_name": "Bruins",
+      "team_name": "Celtics",
       "conference_name": "Eastern Conference",
       "division_name": "Atlantic Division",
       "start_year": 2013,
@@ -10,7 +10,7 @@
       "active": true
     },
     {
-      "team_name": "Sabres",
+      "team_name": "Nets",
       "conference_name": "Eastern Conference",
       "division_name": "Atlantic Division",
       "start_year": 2013,
@@ -18,7 +18,7 @@
       "active": true
     },
     {
-      "team_name": "Red Wings",
+      "team_name": "Knicks",
       "conference_name": "Eastern Conference",
       "division_name": "Atlantic Division",
       "start_year": 2013,
@@ -26,7 +26,7 @@
       "active": true
     },
     {
-      "team_name": "Panthers",
+      "team_name": "76ers",
       "conference_name": "Eastern Conference",
       "division_name": "Atlantic Division",
       "start_year": 2013,
@@ -34,7 +34,7 @@
       "active": true
     },
     {
-      "team_name": "Canadiens",
+      "team_name": "Raptors",
       "conference_name": "Eastern Conference",
       "division_name": "Atlantic Division",
       "start_year": 2013,
@@ -42,159 +42,127 @@
       "active": true
     },
     {
-      "team_name": "Senators",
+      "team_name": "Bulls",
       "conference_name": "Eastern Conference",
-      "division_name": "Atlantic Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Lightning",
-      "conference_name": "Eastern Conference",
-      "division_name": "Atlantic Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Maple Leafs",
-      "conference_name": "Eastern Conference",
-      "division_name": "Atlantic Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Hurricanes",
-      "conference_name": "Eastern Conference",
-      "division_name": "Metropolitan Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Blue Jackets",
-      "conference_name": "Eastern Conference",
-      "division_name": "Metropolitan Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Devils",
-      "conference_name": "Eastern Conference",
-      "division_name": "Metropolitan Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Islanders",
-      "conference_name": "Eastern Conference",
-      "division_name": "Metropolitan Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Rangers",
-      "conference_name": "Eastern Conference",
-      "division_name": "Metropolitan Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Flyers",
-      "conference_name": "Eastern Conference",
-      "division_name": "Metropolitan Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Penguins",
-      "conference_name": "Eastern Conference",
-      "division_name": "Metropolitan Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Capitals",
-      "conference_name": "Eastern Conference",
-      "division_name": "Metropolitan Division",
-      "start_year": 2013,
-      "end_year": null,
-      "active": true
-    },
-    {
-      "team_name": "Blackhawks",
-      "conference_name": "Western Conference",
       "division_name": "Central Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Avalanche",
-      "conference_name": "Western Conference",
+      "team_name": "Cavaliers",
+      "conference_name": "Eastern Conference",
       "division_name": "Central Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Stars",
-      "conference_name": "Western Conference",
+      "team_name": "Pistons",
+      "conference_name": "Eastern Conference",
       "division_name": "Central Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Wild",
-      "conference_name": "Western Conference",
+      "team_name": "Pacers",
+      "conference_name": "Eastern Conference",
       "division_name": "Central Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Predators",
-      "conference_name": "Western Conference",
+      "team_name": "Bucks",
+      "conference_name": "Eastern Conference",
       "division_name": "Central Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Blues",
-      "conference_name": "Western Conference",
-      "division_name": "Central Division",
+      "team_name": "Hawks",
+      "conference_name": "Eastern Conference",
+      "division_name": "Southeast Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Utah Hockey Club",
-      "conference_name": "Western Conference",
-      "division_name": "Central Division",
+      "team_name": "Hornets",
+      "conference_name": "Eastern Conference",
+      "division_name": "Southeast Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Jets",
-      "conference_name": "Western Conference",
-      "division_name": "Central Division",
+      "team_name": "Heat",
+      "conference_name": "Eastern Conference",
+      "division_name": "Southeast Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Ducks",
+      "team_name": "Magic",
+      "conference_name": "Eastern Conference",
+      "division_name": "Southeast Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Wizards",
+      "conference_name": "Eastern Conference",
+      "division_name": "Southeast Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Nuggets",
+      "conference_name": "Western Conference",
+      "division_name": "Northwest Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Timberwolves",
+      "conference_name": "Western Conference",
+      "division_name": "Northwest Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Thunder",
+      "conference_name": "Western Conference",
+      "division_name": "Northwest Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Trail Blazers",
+      "conference_name": "Western Conference",
+      "division_name": "Northwest Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Jazz",
+      "conference_name": "Western Conference",
+      "division_name": "Northwest Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Warriors",
       "conference_name": "Western Conference",
       "division_name": "Pacific Division",
       "start_year": 2013,
@@ -202,7 +170,7 @@
       "active": true
     },
     {
-      "team_name": "Flames",
+      "team_name": "Clippers",
       "conference_name": "Western Conference",
       "division_name": "Pacific Division",
       "start_year": 2013,
@@ -210,7 +178,15 @@
       "active": true
     },
     {
-      "team_name": "Oilers",
+      "team_name": "Lakers",
+      "conference_name": "Western Conference",
+      "division_name": "Pacific Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Suns",
       "conference_name": "Western Conference",
       "division_name": "Pacific Division",
       "start_year": 2013,
@@ -226,33 +202,41 @@
       "active": true
     },
     {
-      "team_name": "Sharks",
+      "team_name": "Mavericks",
       "conference_name": "Western Conference",
-      "division_name": "Pacific Division",
+      "division_name": "Southwest Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Kraken",
+      "team_name": "Rockets",
       "conference_name": "Western Conference",
-      "division_name": "Pacific Division",
+      "division_name": "Southwest Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Canucks",
+      "team_name": "Grizzlies",
       "conference_name": "Western Conference",
-      "division_name": "Pacific Division",
+      "division_name": "Southwest Division",
       "start_year": 2013,
       "end_year": null,
       "active": true
     },
     {
-      "team_name": "Golden Knights",
+      "team_name": "Pelicans",
       "conference_name": "Western Conference",
-      "division_name": "Pacific Division",
+      "division_name": "Southwest Division",
+      "start_year": 2013,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Spurs",
+      "conference_name": "Western Conference",
+      "division_name": "Southwest Division",
       "start_year": 2013,
       "end_year": null,
       "active": true

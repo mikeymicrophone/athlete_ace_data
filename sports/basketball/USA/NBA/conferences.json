@@ -1,0 +1,21 @@
+{
+  "league_name": "National Basketball Association",
+  "conferences": [
+    {
+      "conference_name": "Eastern Conference",
+      "divisions": [
+        {"division_name": "Atlantic Division"},
+        {"division_name": "Central Division"},
+        {"division_name": "Southeast Division"}
+      ]
+    },
+    {
+      "conference_name": "Western Conference",
+      "divisions": [
+        {"division_name": "Northwest Division"},
+        {"division_name": "Pacific Division"},
+        {"division_name": "Southwest Division"}
+      ]
+    }
+  ]
+}
