@@ -3,6 +3,14 @@
   "country_name": "United States",
   "leagues": [
     {
+      "name": "National Football League",
+      "abbreviation": "NFL",
+      "year_of_origin": 1920,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",
+      "url": "https://www.nfl.com",
+      "official_rules_url": "https://operations.nfl.com/the-rules/nfl-video-rulebook/"
+    },
+    {
       "name": "United Football League",
       "abbreviation": "UFL",
       "year_of_origin": 2024,

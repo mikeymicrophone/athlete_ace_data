@@ -1,0 +1,59 @@
+{
+  "league_name": "National Football League",
+  "conferences": [
+    {
+      "name": "American Football Conference",
+      "abbreviation": "AFC",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/American_Football_Conference_logo.svg/1200px-American_Football_Conference_logo.svg.png",
+      "divisions": [
+        {
+          "name": "AFC North",
+          "abbreviation": "AFCN",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/American_Football_Conference_logo.svg/1200px-American_Football_Conference_logo.svg.png"
+        },
+        {
+          "name": "AFC South",
+          "abbreviation": "AFCS",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/American_Football_Conference_logo.svg/1200px-American_Football_Conference_logo.svg.png"
+        },
+        {
+          "name": "AFC East",
+          "abbreviation": "AFCE",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/American_Football_Conference_logo.svg/1200px-American_Football_Conference_logo.svg.png"
+        },
+        {
+          "name": "AFC West",
+          "abbreviation": "AFCW",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/American_Football_Conference_logo.svg/1200px-American_Football_Conference_logo.svg.png"
+        }
+      ]
+    },
+    {
+      "name": "National Football Conference",
+      "abbreviation": "NFC",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/National_Football_Conference_logo.svg/1200px-National_Football_Conference_logo.svg.png",
+      "divisions": [
+        {
+          "name": "NFC North",
+          "abbreviation": "NFCN",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/National_Football_Conference_logo.svg/1200px-National_Football_Conference_logo.svg.png"
+        },
+        {
+          "name": "NFC South",
+          "abbreviation": "NFCS",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/National_Football_Conference_logo.svg/1200px-National_Football_Conference_logo.svg.png"
+        },
+        {
+          "name": "NFC East",
+          "abbreviation": "NFCE",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/National_Football_Conference_logo.svg/1200px-National_Football_Conference_logo.svg.png"
+        },
+        {
+          "name": "NFC West",
+          "abbreviation": "NFCW",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/National_Football_Conference_logo.svg/1200px-National_Football_Conference_logo.svg.png"
+        }
+      ]
+    }
+  ]
+} 

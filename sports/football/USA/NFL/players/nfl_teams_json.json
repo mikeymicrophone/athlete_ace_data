@@ -1,0 +1,864 @@
+// AFC East - Buffalo Bills
+{
+    "team_name": "Bills",
+    "players": [
+        {"first_name": "Josh", "last_name": "Allen"},
+        {"first_name": "Stefon", "last_name": "Diggs"},
+        {"first_name": "Khalil", "last_name": "Shakir"},
+        {"first_name": "Dawson", "last_name": "Knox"},
+        {"first_name": "James", "last_name": "Cook"},
+        {"first_name": "Ty", "last_name": "Johnson"},
+        {"first_name": "Matt", "last_name": "Milano"},
+        {"first_name": "Von", "last_name": "Miller"},
+        {"first_name": "Terrel", "last_name": "Bernard"},
+        {"first_name": "Dion", "last_name": "Dawkins"},
+        {"first_name": "Spencer", "last_name": "Brown"},
+        {"first_name": "Mitch", "last_name": "Morse"},
+        {"first_name": "Connor", "last_name": "McGovern"},
+        {"first_name": "O'Cyrus", "last_name": "Torrence"},
+        {"first_name": "Micah", "last_name": "Hyde"},
+        {"first_name": "Jordan", "last_name": "Poyer"},
+        {"first_name": "Tre'Davious", "last_name": "White"},
+        {"first_name": "Christian", "last_name": "Benford"},
+        {"first_name": "Kaiir", "last_name": "Elam"},
+        {"first_name": "Tyler", "last_name": "Bass"}
+    ]
+}
+
+// AFC East - Miami Dolphins  
+{
+    "team_name": "Dolphins",
+    "players": [
+        {"first_name": "Tua", "last_name": "Tagovailoa"},
+        {"first_name": "Tyreek", "last_name": "Hill"},
+        {"first_name": "Jaylen", "last_name": "Waddle"},
+        {"first_name": "Mike", "last_name": "McDaniel"},
+        {"first_name": "Raheem", "last_name": "Mostert"},
+        {"first_name": "De'Von", "last_name": "Achane"},
+        {"first_name": "Bradley", "last_name": "Chubb"},
+        {"first_name": "Jalen", "last_name": "Ramsey"},
+        {"first_name": "Xavien", "last_name": "Howard"},
+        {"first_name": "Jevon", "last_name": "Holland"},
+        {"first_name": "Jerome", "last_name": "Baker"},
+        {"first_name": "Emmanuel", "last_name": "Ogbah"},
+        {"first_name": "Christian", "last_name": "Wilkins"},
+        {"first_name": "Zach", "last_name": "Sieler"},
+        {"first_name": "Terron", "last_name": "Armstead"},
+        {"first_name": "Robert", "last_name": "Hunt"},
+        {"first_name": "Connor", "last_name": "Williams"},
+        {"first_name": "Liam", "last_name": "Eichenberg"},
+        {"first_name": "Austin", "last_name": "Jackson"},
+        {"first_name": "Jason", "last_name": "Sanders"}
+    ]
+}
+
+// AFC East - New England Patriots
+{
+    "team_name": "Patriots",
+    "players": [
+        {"first_name": "Mac", "last_name": "Jones"},
+        {"first_name": "Bailey", "last_name": "Zappe"},
+        {"first_name": "DeVante", "last_name": "Parker"},
+        {"first_name": "JuJu", "last_name": "Smith-Schuster"},
+        {"first_name": "Kendrick", "last_name": "Bourne"},
+        {"first_name": "Hunter", "last_name": "Henry"},
+        {"first_name": "Mike", "last_name": "Gesicki"},
+        {"first_name": "Rhamondre", "last_name": "Stevenson"},
+        {"first_name": "Ezekiel", "last_name": "Elliott"},
+        {"first_name": "Matthew", "last_name": "Judon"},
+        {"first_name": "Ja'Whaun", "last_name": "Bentley"},
+        {"first_name": "Kyle", "last_name": "Dugger"},
+        {"first_name": "Devin", "last_name": "McCourty"},
+        {"first_name": "Jonathan", "last_name": "Jones"},
+        {"first_name": "Christian", "last_name": "Barmore"},
+        {"first_name": "Davon", "last_name": "Godchaux"},
+        {"first_name": "Trent", "last_name": "Brown"},
+        {"first_name": "Cole", "last_name": "Strange"},
+        {"first_name": "David", "last_name": "Andrews"},
+        {"first_name": "Chad", "last_name": "Ryland"}
+    ]
+}
+
+// AFC East - New York Jets
+{
+    "team_name": "Jets",
+    "players": [
+        {"first_name": "Aaron", "last_name": "Rodgers"},
+        {"first_name": "Garrett", "last_name": "Wilson"},
+        {"first_name": "Allen", "last_name": "Lazard"},
+        {"first_name": "Tyler", "last_name": "Conklin"},
+        {"first_name": "C.J.", "last_name": "Uzomah"},
+        {"first_name": "Breece", "last_name": "Hall"},
+        {"first_name": "Dalvin", "last_name": "Cook"},
+        {"first_name": "Quinnen", "last_name": "Williams"},
+        {"first_name": "Carl", "last_name": "Lawson"},
+        {"first_name": "Haason", "last_name": "Reddick"},
+        {"first_name": "C.J.", "last_name": "Mosley"},
+        {"first_name": "Quincy", "last_name": "Williams"},
+        {"first_name": "Sauce", "last_name": "Gardner"},
+        {"first_name": "D.J.", "last_name": "Reed"},
+        {"first_name": "Jordan", "last_name": "Whitehead"},
+        {"first_name": "Chuck", "last_name": "Clark"},
+        {"first_name": "Mekhi", "last_name": "Becton"},
+        {"first_name": "Alijah", "last_name": "Vera-Tucker"},
+        {"first_name": "Connor", "last_name": "McGovern"},
+        {"first_name": "Greg", "last_name": "Zuerlein"}
+    ]
+}
+
+// AFC North - Baltimore Ravens
+{
+    "team_name": "Ravens",
+    "players": [
+        {"first_name": "Lamar", "last_name": "Jackson"},
+        {"first_name": "Mark", "last_name": "Andrews"},
+        {"first_name": "Odell", "last_name": "Beckham Jr."},
+        {"first_name": "Rashod", "last_name": "Bateman"},
+        {"first_name": "Zay", "last_name": "Flowers"},
+        {"first_name": "Derrick", "last_name": "Henry"},
+        {"first_name": "J.K.", "last_name": "Dobbins"},
+        {"first_name": "Roquan", "last_name": "Smith"},
+        {"first_name": "Kyle", "last_name": "Hamilton"},
+        {"first_name": "Marcus", "last_name": "Peters"},
+        {"first_name": "Marlon", "last_name": "Humphrey"},
+        {"first_name": "Justin", "last_name": "Madubuike"},
+        {"first_name": "Odafe", "last_name": "Oweh"},
+        {"first_name": "David", "last_name": "Ojabo"},
+        {"first_name": "Ronnie", "last_name": "Stanley"},
+        {"first_name": "Kevin", "last_name": "Zeitler"},
+        {"first_name": "Tyler", "last_name": "Linderbaum"},
+        {"first_name": "John", "last_name": "Simpson"},
+        {"first_name": "Morgan", "last_name": "Moses"},
+        {"first_name": "Justin", "last_name": "Tucker"}
+    ]
+}
+
+// AFC North - Cincinnati Bengals
+{
+    "team_name": "Bengals",
+    "players": [
+        {"first_name": "Joe", "last_name": "Burrow"},
+        {"first_name": "Ja'Marr", "last_name": "Chase"},
+        {"first_name": "Tee", "last_name": "Higgins"},
+        {"first_name": "Tyler", "last_name": "Boyd"},
+        {"first_name": "Joe", "last_name": "Mixon"},
+        {"first_name": "Chase", "last_name": "Brown"},
+        {"first_name": "Trey", "last_name": "Hendrickson"},
+        {"first_name": "Sam", "last_name": "Hubbard"},
+        {"first_name": "Logan", "last_name": "Wilson"},
+        {"first_name": "Germaine", "last_name": "Pratt"},
+        {"first_name": "Jessie", "last_name": "Bates III"},
+        {"first_name": "Chidobe", "last_name": "Awuzie"},
+        {"first_name": "Cam", "last_name": "Taylor-Britt"},
+        {"first_name": "D.J.", "last_name": "Reader"},
+        {"first_name": "B.J.", "last_name": "Hill"},
+        {"first_name": "Orlando", "last_name": "Brown Jr."},
+        {"first_name": "Alex", "last_name": "Cappa"},
+        {"first_name": "Ted", "last_name": "Karras"},
+        {"first_name": "Cordell", "last_name": "Volson"},
+        {"first_name": "Evan", "last_name": "McPherson"}
+    ]
+}
+
+// AFC North - Cleveland Browns
+{
+    "team_name": "Browns",
+    "players": [
+        {"first_name": "Deshaun", "last_name": "Watson"},
+        {"first_name": "Amari", "last_name": "Cooper"},
+        {"first_name": "Elijah", "last_name": "Moore"},
+        {"first_name": "Donovan", "last_name": "Peoples-Jones"},
+        {"first_name": "David", "last_name": "Njoku"},
+        {"first_name": "Nick", "last_name": "Chubb"},
+        {"first_name": "Kareem", "last_name": "Hunt"},
+        {"first_name": "Myles", "last_name": "Garrett"},
+        {"first_name": "Za'Darius", "last_name": "Smith"},
+        {"first_name": "Jeremiah", "last_name": "Owusu-Koramoah"},
+        {"first_name": "Anthony", "last_name": "Walker Jr."},
+        {"first_name": "Denzel", "last_name": "Ward"},
+        {"first_name": "Greg", "last_name": "Newsome II"},
+        {"first_name": "Juan", "last_name": "Thornhill"},
+        {"first_name": "Grant", "last_name": "Delpit"},
+        {"first_name": "Jedrick", "last_name": "Wills Jr."},
+        {"first_name": "Joel", "last_name": "Bitonio"},
+        {"first_name": "Ethan", "last_name": "Pocic"},
+        {"first_name": "Wyatt", "last_name": "Teller"},
+        {"first_name": "Dustin", "last_name": "Hopkins"}
+    ]
+}
+
+// AFC North - Pittsburgh Steelers
+{
+    "team_name": "Steelers",
+    "players": [
+        {"first_name": "Kenny", "last_name": "Pickett"},
+        {"first_name": "Diontae", "last_name": "Johnson"},
+        {"first_name": "George", "last_name": "Pickens"},
+        {"first_name": "Calvin", "last_name": "Austin III"},
+        {"first_name": "Pat", "last_name": "Freiermuth"},
+        {"first_name": "Najee", "last_name": "Harris"},
+        {"first_name": "Jaylen", "last_name": "Warren"},
+        {"first_name": "T.J.", "last_name": "Watt"},
+        {"first_name": "Alex", "last_name": "Highsmith"},
+        {"first_name": "Cameron", "last_name": "Heyward"},
+        {"first_name": "Minkah", "last_name": "Fitzpatrick"},
+        {"first_name": "Joey", "last_name": "Porter Jr."},
+        {"first_name": "Levi", "last_name": "Wallace"},
+        {"first_name": "Keanu", "last_name": "Neal"},
+        {"first_name": "Larry", "last_name": "Ogunjobi"},
+        {"first_name": "Dan", "last_name": "Moore Jr."},
+        {"first_name": "Isaac", "last_name": "Seumalo"},
+        {"first_name": "Mason", "last_name": "Cole"},
+        {"first_name": "James", "last_name": "Daniels"},
+        {"first_name": "Chris", "last_name": "Boswell"}
+    ]
+}
+
+// AFC South - Houston Texans
+{
+    "team_name": "Texans",
+    "players": [
+        {"first_name": "C.J.", "last_name": "Stroud"},
+        {"first_name": "Nico", "last_name": "Collins"},
+        {"first_name": "Tank", "last_name": "Dell"},
+        {"first_name": "Robert", "last_name": "Woods"},
+        {"first_name": "Dalton", "last_name": "Schultz"},
+        {"first_name": "Dameon", "last_name": "Pierce"},
+        {"first_name": "Devin", "last_name": "Singletary"},
+        {"first_name": "Will", "last_name": "Anderson Jr."},
+        {"first_name": "Danielle", "last_name": "Hunter"},
+        {"first_name": "Azeez", "last_name": "Al-Shaair"},
+        {"first_name": "Christian", "last_name": "Harris"},
+        {"first_name": "Derek", "last_name": "Stingley Jr."},
+        {"first_name": "Kamari", "last_name": "Lassiter"},
+        {"first_name": "Jalen", "last_name": "Pitre"},
+        {"first_name": "Calen", "last_name": "Bullock"},
+        {"first_name": "Laremy", "last_name": "Tunsil"},
+        {"first_name": "Shaq", "last_name": "Mason"},
+        {"first_name": "Juice", "last_name": "Scruggs"},
+        {"first_name": "Kenyon", "last_name": "Green"},
+        {"first_name": "Ka'imi", "last_name": "Fairbairn"}
+    ]
+}
+
+// AFC South - Indianapolis Colts
+{
+    "team_name": "Colts",
+    "players": [
+        {"first_name": "Anthony", "last_name": "Richardson"},
+        {"first_name": "Michael", "last_name": "Pittman Jr."},
+        {"first_name": "Josh", "last_name": "Downs"},
+        {"first_name": "Alec", "last_name": "Pierce"},
+        {"first_name": "Jonathan", "last_name": "Taylor"},
+        {"first_name": "Zack", "last_name": "Moss"},
+        {"first_name": "DeForest", "last_name": "Buckner"},
+        {"first_name": "Grover", "last_name": "Stewart"},
+        {"first_name": "Zaire", "last_name": "Franklin"},
+        {"first_name": "E.J.", "last_name": "Speed"},
+        {"first_name": "Kenny", "last_name": "Moore II"},
+        {"first_name": "Julius", "last_name": "Brents"},
+        {"first_name": "Nick", "last_name": "Cross"},
+        {"first_name": "Rodney", "last_name": "Thomas II"},
+        {"first_name": "Samson", "last_name": "Ebukam"},
+        {"first_name": "Bernhard", "last_name": "Raimann"},
+        {"first_name": "Quenton", "last_name": "Nelson"},
+        {"first_name": "Ryan", "last_name": "Kelly"},
+        {"first_name": "Will", "last_name": "Fries"},
+        {"first_name": "Matt", "last_name": "Gay"}
+    ]
+}
+
+// AFC South - Jacksonville Jaguars
+{
+    "team_name": "Jaguars",
+    "players": [
+        {"first_name": "Trevor", "last_name": "Lawrence"},
+        {"first_name": "Calvin", "last_name": "Ridley"},
+        {"first_name": "Christian", "last_name": "Kirk"},
+        {"first_name": "Zay", "last_name": "Jones"},
+        {"first_name": "Evan", "last_name": "Engram"},
+        {"first_name": "Travis", "last_name": "Etienne"},
+        {"first_name": "Tank", "last_name": "Bigsby"},
+        {"first_name": "Josh", "last_name": "Hines-Allen"},
+        {"first_name": "Travon", "last_name": "Walker"},
+        {"first_name": "Foye", "last_name": "Oluokun"},
+        {"first_name": "Devin", "last_name": "Lloyd"},
+        {"first_name": "Tyson", "last_name": "Campbell"},
+        {"first_name": "Darious", "last_name": "Williams"},
+        {"first_name": "Andre", "last_name": "Cisco"},
+        {"first_name": "Rayshawn", "last_name": "Jenkins"},
+        {"first_name": "Cam", "last_name": "Robinson"},
+        {"first_name": "Ezra", "last_name": "Cleveland"},
+        {"first_name": "Luke", "last_name": "Fortner"},
+        {"first_name": "Brandon", "last_name": "Scherff"},
+        {"first_name": "Brandon", "last_name": "McManus"}
+    ]
+}
+
+// AFC South - Tennessee Titans
+{
+    "team_name": "Titans",
+    "players": [
+        {"first_name": "Will", "last_name": "Levis"},
+        {"first_name": "DeAndre", "last_name": "Hopkins"},
+        {"first_name": "Calvin", "last_name": "Ridley"},
+        {"first_name": "Tyler", "last_name": "Boyd"},
+        {"first_name": "Chig", "last_name": "Okonkwo"},
+        {"first_name": "Tony", "last_name": "Pollard"},
+        {"first_name": "Tyjae", "last_name": "Spears"},
+        {"first_name": "Harold", "last_name": "Landry III"},
+        {"first_name": "Arden", "last_name": "Key"},
+        {"first_name": "Kenneth", "last_name": "Murray"},
+        {"first_name": "Jack", "last_name": "Gibbens"},
+        {"first_name": "L'Jarius", "last_name": "Sneed"},
+        {"first_name": "Chidobe", "last_name": "Awuzie"},
+        {"first_name": "Amani", "last_name": "Hooker"},
+        {"first_name": "Quandre", "last_name": "Diggs"},
+        {"first_name": "JC", "last_name": "Latham"},
+        {"first_name": "Peter", "last_name": "Skoronski"},
+        {"first_name": "Lloyd", "last_name": "Cushenberry"},
+        {"first_name": "Dillon", "last_name": "Radunz"},
+        {"first_name": "Nick", "last_name": "Folk"}
+    ]
+}
+
+// AFC West - Denver Broncos
+{
+    "team_name": "Broncos",
+    "players": [
+        {"first_name": "Bo", "last_name": "Nix"},
+        {"first_name": "Courtland", "last_name": "Sutton"},
+        {"first_name": "Jerry", "last_name": "Jeudy"},
+        {"first_name": "Marvin", "last_name": "Mims Jr."},
+        {"first_name": "Greg", "last_name": "Dulcich"},
+        {"first_name": "Javonte", "last_name": "Williams"},
+        {"first_name": "Jaleel", "last_name": "McLaughlin"},
+        {"first_name": "Von", "last_name": "Miller"},
+        {"first_name": "Bradley", "last_name": "Chubb"},
+        {"first_name": "Alex", "last_name": "Singleton"},
+        {"first_name": "Josey", "last_name": "Jewell"},
+        {"first_name": "Patrick", "last_name": "Surtain II"},
+        {"first_name": "Riley", "last_name": "Moss"},
+        {"first_name": "Justin", "last_name": "Simmons"},
+        {"first_name": "Kareem", "last_name": "Jackson"},
+        {"first_name": "Garett", "last_name": "Bolles"},
+        {"first_name": "Ben", "last_name": "Powers"},
+        {"first_name": "Lloyd", "last_name": "Cushenberry"},
+        {"first_name": "Quinn", "last_name": "Meinerz"},
+        {"first_name": "Wil", "last_name": "Lutz"}
+    ]
+}
+
+// AFC West - Kansas City Chiefs
+{
+    "team_name": "Chiefs",
+    "players": [
+        {"first_name": "Patrick", "last_name": "Mahomes"},
+        {"first_name": "Travis", "last_name": "Kelce"},
+        {"first_name": "DeAndre", "last_name": "Hopkins"},
+        {"first_name": "Xavier", "last_name": "Worthy"},
+        {"first_name": "Hollywood", "last_name": "Brown"},
+        {"first_name": "Kareem", "last_name": "Hunt"},
+        {"first_name": "Isiah", "last_name": "Pacheco"},
+        {"first_name": "Chris", "last_name": "Jones"},
+        {"first_name": "George", "last_name": "Karlaftis"},
+        {"first_name": "Nick", "last_name": "Bolton"},
+        {"first_name": "Willie", "last_name": "Gay Jr."},
+        {"first_name": "Trent", "last_name": "McDuffie"},
+        {"first_name": "L'Jarius", "last_name": "Sneed"},
+        {"first_name": "Justin", "last_name": "Reid"},
+        {"first_name": "Bryan", "last_name": "Cook"},
+        {"first_name": "Joe", "last_name": "Thuney"},
+        {"first_name": "Creed", "last_name": "Humphrey"},
+        {"first_name": "Trey", "last_name": "Smith"},
+        {"first_name": "Jawaan", "last_name": "Taylor"},
+        {"first_name": "Harrison", "last_name": "Butker"}
+    ]
+}
+
+// AFC West - Las Vegas Raiders
+{
+    "team_name": "Raiders",
+    "players": [
+        {"first_name": "Aidan", "last_name": "O'Connell"},
+        {"first_name": "Davante", "last_name": "Adams"},
+        {"first_name": "Jakobi", "last_name": "Meyers"},
+        {"first_name": "Tre", "last_name": "Tucker"},
+        {"first_name": "Brock", "last_name": "Bowers"},
+        {"first_name": "Alexander", "last_name": "Mattison"},
+        {"first_name": "Zamir", "last_name": "White"},
+        {"first_name": "Maxx", "last_name": "Crosby"},
+        {"first_name": "Malcolm", "last_name": "Koonce"},
+        {"first_name": "Robert", "last_name": "Spillane"},
+        {"first_name": "Divine", "last_name": "Deablo"},
+        {"first_name": "Nate", "last_name": "Hobbs"},
+        {"first_name": "Jack", "last_name": "Jones"},
+        {"first_name": "Marcus", "last_name": "Epps"},
+        {"first_name": "Tre'von", "last_name": "Moehrig"},
+        {"first_name": "Kolton", "last_name": "Miller"},
+        {"first_name": "Jackson", "last_name": "Powers-Johnson"},
+        {"first_name": "Andre", "last_name": "James"},
+        {"first_name": "Dylan", "last_name": "Parham"},
+        {"first_name": "Daniel", "last_name": "Carlson"}
+    ]
+}
+
+// AFC West - Los Angeles Chargers
+{
+    "team_name": "Chargers",
+    "players": [
+        {"first_name": "Justin", "last_name": "Herbert"},
+        {"first_name": "Keenan", "last_name": "Allen"},
+        {"first_name": "Mike", "last_name": "Williams"},
+        {"first_name": "Joshua", "last_name": "Palmer"},
+        {"first_name": "Quentin", "last_name": "Johnston"},
+        {"first_name": "J.K.", "last_name": "Dobbins"},
+        {"first_name": "Gus", "last_name": "Edwards"},
+        {"first_name": "Khalil", "last_name": "Mack"},
+        {"first_name": "Joey", "last_name": "Bosa"},
+        {"first_name": "Derwin", "last_name": "James"},
+        {"first_name": "Asante", "last_name": "Samuel Jr."},
+        {"first_name": "Kristian", "last_name": "Fulton"},
+        {"first_name": "Elijah", "last_name": "Molden"},
+        {"first_name": "Alohi", "last_name": "Gilman"},
+        {"first_name": "Cam", "last_name": "Hart"},
+        {"first_name": "Rashawn", "last_name": "Slater"},
+        {"first_name": "Zion", "last_name": "Johnson"},
+        {"first_name": "Bradley", "last_name": "Bozeman"},
+        {"first_name": "Trey", "last_name": "Pipkins"},
+        {"first_name": "Cameron", "last_name": "Dicker"}
+    ]
+}
+
+// NFC East - Dallas Cowboys
+{
+    "team_name": "Cowboys",
+    "players": [
+        {"first_name": "Dak", "last_name": "Prescott"},
+        {"first_name": "CeeDee", "last_name": "Lamb"},
+        {"first_name": "Brandin", "last_name": "Cooks"},
+        {"first_name": "Jalen", "last_name": "Tolbert"},
+        {"first_name": "Jake", "last_name": "Ferguson"},
+        {"first_name": "Ezekiel", "last_name": "Elliott"},
+        {"first_name": "Rico", "last_name": "Dowdle"},
+        {"first_name": "Micah", "last_name": "Parsons"},
+        {"first_name": "DeMarcus", "last_name": "Lawrence"},
+        {"first_name": "Trevon", "last_name": "Diggs"},
+        {"first_name": "DaRon", "last_name": "Bland"},
+        {"first_name": "Jourdan", "last_name": "Lewis"},
+        {"first_name": "Malik", "last_name": "Hooker"},
+        {"first_name": "Donovan", "last_name": "Wilson"},
+        {"first_name": "Osa", "last_name": "Odighizuwa"},
+        {"first_name": "Tyler", "last_name": "Smith"},
+        {"first_name": "Zack", "last_name": "Martin"},
+        {"first_name": "Brock", "last_name": "Hoffman"},
+        {"first_name": "Terence", "last_name": "Steele"},
+        {"first_name": "Brandon", "last_name": "Aubrey"}
+    ]
+}
+
+// NFC East - New York Giants
+{
+    "team_name": "Giants",
+    "players": [
+        {"first_name": "Daniel", "last_name": "Jones"},
+        {"first_name": "Malik", "last_name": "Nabers"},
+        {"first_name": "Darius", "last_name": "Slayton"},
+        {"first_name": "Wan'Dale", "last_name": "Robinson"},
+        {"first_name": "Daniel", "last_name": "Bellinger"},
+        {"first_name": "Saquon", "last_name": "Barkley"},
+        {"first_name": "Devin", "last_name": "Singletary"},
+        {"first_name": "Brian", "last_name": "Burns"},
+        {"first_name": "Kayvon", "last_name": "Thibodaux"},
+        {"first_name": "Bobby", "last_name": "Okereke"},
+        {"first_name": "Micah", "last_name": "McFadden"},
+        {"first_name": "Dexter", "last_name": "Lawrence"},
+        {"first_name": "A'Shawn", "last_name": "Robinson"},
+        {"first_name": "Cor'Dale", "last_name": "Flott"},
+        {"first_name": "Jason", "last_name": "Pinnock"},
+        {"first_name": "Xavier", "last_name": "McKinney"},
+        {"first_name": "Andrew", "last_name": "Thomas"},
+        {"first_name": "Jon", "last_name": "Runyan Jr."},
+        {"first_name": "John", "last_name": "Michael Schmitz"},
+        {"first_name": "Mark", "last_name": "Glowinski"},
+        {"first_name": "Graham", "last_name": "Gano"}
+    ]
+}
+
+// NFC East - Philadelphia Eagles
+{
+    "team_name": "Eagles",
+    "players": [
+        {"first_name": "Jalen", "last_name": "Hurts"},
+        {"first_name": "A.J.", "last_name": "Brown"},
+        {"first_name": "DeVonta", "last_name": "Smith"},
+        {"first_name": "Dallas", "last_name": "Goedert"},
+        {"first_name": "Saquon", "last_name": "Barkley"},
+        {"first_name": "Kenneth", "last_name": "Gainwell"},
+        {"first_name": "Josh", "last_name": "Sweat"},
+        {"first_name": "Haason", "last_name": "Reddick"},
+        {"first_name": "Nakobe", "last_name": "Dean"},
+        {"first_name": "Zack", "last_name": "Baun"},
+        {"first_name": "Darius", "last_name": "Slay"},
+        {"first_name": "Quinyon", "last_name": "Mitchell"},
+        {"first_name": "Cooper", "last_name": "DeJean"},
+        {"first_name": "C.J.", "last_name": "Gardner-Johnson"},
+        {"first_name": "Reed", "last_name": "Blankenship"},
+        {"first_name": "Jordan", "last_name": "Mailata"},
+        {"first_name": "Landon", "last_name": "Dickerson"},
+        {"first_name": "Cam", "last_name": "Jurgens"},
+        {"first_name": "Mekhi", "last_name": "Becton"},
+        {"first_name": "Jake", "last_name": "Elliott"}
+    ]
+}
+
+// NFC East - Washington Commanders
+{
+    "team_name": "Commanders",
+    "players": [
+        {"first_name": "Jayden", "last_name": "Daniels"},
+        {"first_name": "Terry", "last_name": "McLaurin"},
+        {"first_name": "Noah", "last_name": "Brown"},
+        {"first_name": "Olamide", "last_name": "Zaccheaus"},
+        {"first_name": "Zach", "last_name": "Ertz"},
+        {"first_name": "Brian", "last_name": "Robinson Jr."},
+        {"first_name": "Austin", "last_name": "Ekeler"},
+        {"first_name": "Montez", "last_name": "Sweat"},
+        {"first_name": "Dorance", "last_name": "Armstrong"},
+        {"first_name": "Bobby", "last_name": "Wagner"},
+        {"first_name": "Frankie", "last_name": "Luvu"},
+        {"first_name": "Marshon", "last_name": "Lattimore"},
+        {"first_name": "Mike", "last_name": "Sainristil"},
+        {"first_name": "Jeremy", "last_name": "Chinn"},
+        {"first_name": "Quan", "last_name": "Martin"},
+        {"first_name": "Brandon", "last_name": "Coleman"},
+        {"first_name": "Sam", "last_name": "Cosmi"},
+        {"first_name": "Tyler", "last_name": "Biadasz"},
+        {"first_name": "Andrew", "last_name": "Wylie"},
+        {"first_name": "Austin", "last_name": "Seibert"}
+    ]
+}
+
+// NFC North - Chicago Bears
+{
+    "team_name": "Bears",
+    "players": [
+        {"first_name": "Caleb", "last_name": "Williams"},
+        {"first_name": "DJ", "last_name": "Moore"},
+        {"first_name": "Keenan", "last_name": "Allen"},
+        {"first_name": "Rome", "last_name": "Odunze"},
+        {"first_name": "Cole", "last_name": "Kmet"},
+        {"first_name": "D'Andre", "last_name": "Swift"},
+        {"first_name": "Roschon", "last_name": "Johnson"},
+        {"first_name": "Montez", "last_name": "Sweat"},
+        {"first_name": "DeMarcus", "last_name": "Walker"},
+        {"first_name": "T.J.", "last_name": "Edwards"},
+        {"first_name": "Tremaine", "last_name": "Edmunds"},
+        {"first_name": "Jaylon", "last_name": "Johnson"},
+        {"first_name": "Tyrique", "last_name": "Stevenson"},
+        {"first_name": "Kevin", "last_name": "Byard III"},
+        {"first_name": "Jaquan", "last_name": "Brisker"},
+        {"first_name": "Braxton", "last_name": "Jones"},
+        {"first_name": "Teven", "last_name": "Jenkins"},
+        {"first_name": "Coleman", "last_name": "Shelton"},
+        {"first_name": "Darnell", "last_name": "Wright"},
+        {"first_name": "Cairo", "last_name": "Santos"}
+    ]
+}
+
+// NFC North - Detroit Lions
+{
+    "team_name": "Lions",
+    "players": [
+        {"first_name": "Jared", "last_name": "Goff"},
+        {"first_name": "Amon-Ra", "last_name": "St. Brown"},
+        {"first_name": "Jameson", "last_name": "Williams"},
+        {"first_name": "Tim", "last_name": "Patrick"},
+        {"first_name": "Sam", "last_name": "LaPorta"},
+        {"first_name": "Jahmyr", "last_name": "Gibbs"},
+        {"first_name": "David", "last_name": "Montgomery"},
+        {"first_name": "Aidan", "last_name": "Hutchinson"},
+        {"first_name": "Za'Darius", "last_name": "Smith"},
+        {"first_name": "Alex", "last_name": "Anzalone"},
+        {"first_name": "Jack", "last_name": "Campbell"},
+        {"first_name": "Carlton", "last_name": "Davis III"},
+        {"first_name": "Terrion", "last_name": "Arnold"},
+        {"first_name": "Brian", "last_name": "Branch"},
+        {"first_name": "Kerby", "last_name": "Joseph"},
+        {"first_name": "Taylor", "last_name": "Decker"},
+        {"first_name": "Frank", "last_name": "Ragnow"},
+        {"first_name": "Kevin", "last_name": "Zeitler"},
+        {"first_name": "Penei", "last_name": "Sewell"},
+        {"first_name": "Jake", "last_name": "Bates"}
+    ]
+}
+
+// NFC North - Green Bay Packers
+{
+    "team_name": "Packers",
+    "players": [
+        {"first_name": "Jordan", "last_name": "Love"},
+        {"first_name": "Jayden", "last_name": "Reed"},
+        {"first_name": "Christian", "last_name": "Watson"},
+        {"first_name": "Romeo", "last_name": "Doubs"},
+        {"first_name": "Tucker", "last_name": "Kraft"},
+        {"first_name": "Josh", "last_name": "Jacobs"},
+        {"first_name": "Emanuel", "last_name": "Wilson"},
+        {"first_name": "Rashan", "last_name": "Gary"},
+        {"first_name": "Preston", "last_name": "Smith"},
+        {"first_name": "Quay", "last_name": "Walker"},
+        {"first_name": "Edgerrin", "last_name": "Cooper"},
+        {"first_name": "Jaire", "last_name": "Alexander"},
+        {"first_name": "Eric", "last_name": "Stokes"},
+        {"first_name": "Xavier", "last_name": "McKinney"},
+        {"first_name": "Evan", "last_name": "Williams"},
+        {"first_name": "David", "last_name": "Bakhtiari"},
+        {"first_name": "Elgton", "last_name": "Jenkins"},
+        {"first_name": "Josh", "last_name": "Myers"},
+        {"first_name": "Zach", "last_name": "Tom"},
+        {"first_name": "Brandon", "last_name": "McManus"}
+    ]
+}
+
+// NFC North - Minnesota Vikings
+{
+    "team_name": "Vikings",
+    "players": [
+        {"first_name": "Sam", "last_name": "Darnold"},
+        {"first_name": "Justin", "last_name": "Jefferson"},
+        {"first_name": "Jordan", "last_name": "Addison"},
+        {"first_name": "Jalen", "last_name": "Nailor"},
+        {"first_name": "T.J.", "last_name": "Hockenson"},
+        {"first_name": "Aaron", "last_name": "Jones"},
+        {"first_name": "Ty", "last_name": "Chandler"},
+        {"first_name": "Jonathan", "last_name": "Greenard"},
+        {"first_name": "Andrew", "last_name": "Van Ginkel"},
+        {"first_name": "Blake", "last_name": "Cashman"},
+        {"first_name": "Ivan", "last_name": "Pace Jr."},
+        {"first_name": "Byron", "last_name": "Murphy Jr."},
+        {"first_name": "Stephon", "last_name": "Gilmore"},
+        {"first_name": "Harrison", "last_name": "Smith"},
+        {"first_name": "Camryn", "last_name": "Bynum"},
+        {"first_name": "Christian", "last_name": "Darrisaw"},
+        {"first_name": "Blake", "last_name": "Brandel"},
+        {"first_name": "Garrett", "last_name": "Bradbury"},
+        {"first_name": "Brian", "last_name": "O'Neill"},
+        {"first_name": "Will", "last_name": "Reichard"}
+    ]
+}
+
+// NFC South - Atlanta Falcons
+{
+    "team_name": "Falcons",
+    "players": [
+        {"first_name": "Kirk", "last_name": "Cousins"},
+        {"first_name": "Drake", "last_name": "London"},
+        {"first_name": "Darnell", "last_name": "Mooney"},
+        {"first_name": "Ray-Ray", "last_name": "McCloud"},
+        {"first_name": "Kyle", "last_name": "Pitts"},
+        {"first_name": "Bijan", "last_name": "Robinson"},
+        {"first_name": "Tyler", "last_name": "Allgeier"},
+        {"first_name": "Matthew", "last_name": "Judon"},
+        {"first_name": "Grady", "last_name": "Jarrett"},
+        {"first_name": "Kaden", "last_name": "Elliss"},
+        {"first_name": "Troy", "last_name": "Andersen"},
+        {"first_name": "A.J.", "last_name": "Terrell"},
+        {"first_name": "Mike", "last_name": "Hughes"},
+        {"first_name": "Jessie", "last_name": "Bates III"},
+        {"first_name": "Justin", "last_name": "Simmons"},
+        {"first_name": "Jake", "last_name": "Matthews"},
+        {"first_name": "Matthew", "last_name": "Bergeron"},
+        {"first_name": "Drew", "last_name": "Dalman"},
+        {"first_name": "Chris", "last_name": "Lindstrom"},
+        {"first_name": "Younghoe", "last_name": "Koo"}
+    ]
+}
+
+// NFC South - Carolina Panthers
+{
+    "team_name": "Panthers",
+    "players": [
+        {"first_name": "Bryce", "last_name": "Young"},
+        {"first_name": "Diontae", "last_name": "Johnson"},
+        {"first_name": "Adam", "last_name": "Thielen"},
+        {"first_name": "Xavier", "last_name": "Legette"},
+        {"first_name": "Tommy", "last_name": "Tremble"},
+        {"first_name": "Chuba", "last_name": "Hubbard"},
+        {"first_name": "Miles", "last_name": "Sanders"},
+        {"first_name": "Brian", "last_name": "Burns"},
+        {"first_name": "Derrick", "last_name": "Brown"},
+        {"first_name": "Shaq", "last_name": "Thompson"},
+        {"first_name": "Josey", "last_name": "Jewell"},
+        {"first_name": "Jaycee", "last_name": "Horn"},
+        {"first_name": "Mike", "last_name": "Jackson"},
+        {"first_name": "Xavier", "last_name": "Woods"},
+        {"first_name": "Jordan", "last_name": "Fuller"},
+        {"first_name": "Ikem", "last_name": "Ekwonu"},
+        {"first_name": "Damien", "last_name": "Lewis"},
+        {"first_name": "Austin", "last_name": "Corbett"},
+        {"first_name": "Robert", "last_name": "Hunt"},
+        {"first_name": "Eddy", "last_name": "Pineiro"}
+    ]
+}
+
+// NFC South - New Orleans Saints
+{
+    "team_name": "Saints",
+    "players": [
+        {"first_name": "Derek", "last_name": "Carr"},
+        {"first_name": "Chris", "last_name": "Olave"},
+        {"first_name": "Rashid", "last_name": "Shaheed"},
+        {"first_name": "Marquez", "last_name": "Valdes-Scantling"},
+        {"first_name": "Juwan", "last_name": "Johnson"},
+        {"first_name": "Alvin", "last_name": "Kamara"},
+        {"first_name": "Jamaal", "last_name": "Williams"},
+        {"first_name": "Cameron", "last_name": "Jordan"},
+        {"first_name": "Chase", "last_name": "Young"},
+        {"first_name": "Demario", "last_name": "Davis"},
+        {"first_name": "Pete", "last_name": "Werner"},
+        {"first_name": "Marshon", "last_name": "Lattimore"},
+        {"first_name": "Alontae", "last_name": "Taylor"},
+        {"first_name": "Tyrann", "last_name": "Mathieu"},
+        {"first_name": "Will", "last_name": "Harris"},
+        {"first_name": "Trevor", "last_name": "Penning"},
+        {"first_name": "Andrus", "last_name": "Peat"},
+        {"first_name": "Erik", "last_name": "McCoy"},
+        {"first_name": "Cesar", "last_name": "Ruiz"},
+        {"first_name": "Blake", "last_name": "Grupe"}
+    ]
+}
+
+// NFC South - Tampa Bay Buccaneers
+{
+    "team_name": "Buccaneers",
+    "players": [
+        {"first_name": "Baker", "last_name": "Mayfield"},
+        {"first_name": "Mike", "last_name": "Evans"},
+        {"first_name": "Chris", "last_name": "Godwin"},
+        {"first_name": "Sterling", "last_name": "Shepard"},
+        {"first_name": "Cade", "last_name": "Otton"},
+        {"first_name": "Rachaad", "last_name": "White"},
+        {"first_name": "Bucky", "last_name": "Irving"},
+        {"first_name": "Vita", "last_name": "Vea"},
+        {"first_name": "Calijah", "last_name": "Kancey"},
+        {"first_name": "Lavonte", "last_name": "David"},
+        {"first_name": "K.J.", "last_name": "Britt"},
+        {"first_name": "Antoine", "last_name": "Winfield Jr."},
+        {"first_name": "Tykee", "last_name": "Smith"},
+        {"first_name": "Zyon", "last_name": "McCollum"},
+        {"first_name": "Jordan", "last_name": "Whitehead"},
+        {"first_name": "Tristan", "last_name": "Wirfs"},
+        {"first_name": "Graham", "last_name": "Barton"},
+        {"first_name": "Robert", "last_name": "Hainsey"},
+        {"first_name": "Cody", "last_name": "Mauch"},
+        {"first_name": "Chase", "last_name": "McLaughlin"}
+    ]
+}
+
+// NFC West - Arizona Cardinals
+{
+    "team_name": "Cardinals",
+    "players": [
+        {"first_name": "Kyler", "last_name": "Murray"},
+        {"first_name": "Marvin", "last_name": "Harrison Jr."},
+        {"first_name": "Michael", "last_name": "Wilson"},
+        {"first_name": "Greg", "last_name": "Dortch"},
+        {"first_name": "Trey", "last_name": "McBride"},
+        {"first_name": "James", "last_name": "Conner"},
+        {"first_name": "Trey", "last_name": "Benson"},
+        {"first_name": "Budda", "last_name": "Baker"},
+        {"first_name": "Kyzir", "last_name": "White"},
+        {"first_name": "Mack", "last_name": "Wilson Sr."},
+        {"first_name": "Jesse", "last_name": "Luketa"},
+        {"first_name": "Sean", "last_name": "Murphy-Bunting"},
+        {"first_name": "Starling", "last_name": "Marte"},
+        {"first_name": "Jalen", "last_name": "Thompson"},
+        {"first_name": "Dadrion", "last_name": "Taylor-Demerson"},
+        {"first_name": "Paris", "last_name": "Johnson Jr."},
+        {"first_name": "Trystan", "last_name": "Colon"},
+        {"first_name": "Hjalte", "last_name": "Froholdt"},
+        {"first_name": "Kelvin", "last_name": "Beachum"},
+        {"first_name": "Matt", "last_name": "Prater"}
+    ]
+}
+
+// NFC West - Los Angeles Rams
+{
+    "team_name": "Rams",
+    "players": [
+        {"first_name": "Matthew", "last_name": "Stafford"},
+        {"first_name": "Cooper", "last_name": "Kupp"},
+        {"first_name": "Puka", "last_name": "Nacua"},
+        {"first_name": "Demarcus", "last_name": "Robinson"},
+        {"first_name": "Tyler", "last_name": "Higbee"},
+        {"first_name": "Kyren", "last_name": "Williams"},
+        {"first_name": "Blake", "last_name": "Corum"},
+        {"first_name": "Aaron", "last_name": "Donald"},
+        {"first_name": "Byron", "last_name": "Young"},
+        {"first_name": "Ernest", "last_name": "Jones"},
+        {"first_name": "Christian", "last_name": "Rozeboom"},
+        {"first_name": "Darious", "last_name": "Williams"},
+        {"first_name": "Cobie", "last_name": "Durant"},
+        {"first_name": "Kamren", "last_name": "Curl"},
+        {"first_name": "John", "last_name": "Johnson III"},
+        {"first_name": "Alaric", "last_name": "Jackson"},
+        {"first_name": "Steve", "last_name": "Avila"},
+        {"first_name": "Jonah", "last_name": "Jackson"},
+        {"first_name": "Rob", "last_name": "Havenstein"},
+        {"first_name": "Joshua", "last_name": "Karty"}
+    ]
+}
+
+// NFC West - San Francisco 49ers
+{
+    "team_name": "49ers",
+    "players": [
+        {"first_name": "Brock", "last_name": "Purdy"},
+        {"first_name": "Deebo", "last_name": "Samuel"},
+        {"first_name": "Brandon", "last_name": "Aiyuk"},
+        {"first_name": "Jauan", "last_name": "Jennings"},
+        {"first_name": "George", "last_name": "Kittle"},
+        {"first_name": "Christian", "last_name": "McCaffrey"},
+        {"first_name": "Jordan", "last_name": "Mason"},
+        {"first_name": "Nick", "last_name": "Bosa"},
+        {"first_name": "Leonard", "last_name": "Floyd"},
+        {"first_name": "Fred", "last_name": "Warner"},
+        {"first_name": "Dre", "last_name": "Greenlaw"},
+        {"first_name": "Charvarius", "last_name": "Ward"},
+        {"first_name": "Deommodore", "last_name": "Lenoir"},
+        {"first_name": "Talanoa", "last_name": "Hufanga"},
+        {"first_name": "Ji'Ayir", "last_name": "Brown"},
+        {"first_name": "Trent", "last_name": "Williams"},
+        {"first_name": "Aaron", "last_name": "Banks"},
+        {"first_name": "Jake", "last_name": "Brendel"},
+        {"first_name": "Colton", "last_name": "McKivitz"},
+        {"first_name": "Jake", "last_name": "Moody"}
+    ]
+}
+
+// NFC West - Seattle Seahawks
+{
+    "team_name": "Seahawks",
+    "players": [
+        {"first_name": "Geno", "last_name": "Smith"},
+        {"first_name": "DK", "last_name": "Metcalf"},
+        {"first_name": "Tyler", "last_name": "Lockett"},
+        {"first_name": "Jaxon", "last_name": "Smith-Njigba"},
+        {"first_name": "Noah", "last_name": "Fant"},
+        {"first_name": "Kenneth", "last_name": "Walker III"},
+        {"first_name": "Zach", "last_name": "Charbonnet"},
+        {"first_name": "Boye", "last_name": "Mafe"},
+        {"first_name": "Dre'Mont", "last_name": "Jones"},
+        {"first_name": "Bobby", "last_name": "Wagner"},
+        {"first_name": "Jerome", "last_name": "Baker"},
+        {"first_name": "Devon", "last_name": "Witherspoon"},
+        {"first_name": "Riq", "last_name": "Woolen"},
+        {"first_name": "Julian", "last_name": "Love"},
+        {"first_name": "Rayshawn", "last_name": "Jenkins"},
+        {"first_name": "Charles", "last_name": "Cross"},
+        {"first_name": "Laken", "last_name": "Tomlinson"},
+        {"first_name": "Connor", "last_name": "Williams"},
+        {"first_name": "Abraham", "last_name": "Lucas"},
+        {"first_name": "Jason", "last_name": "Myers"}
+    ]
+}
