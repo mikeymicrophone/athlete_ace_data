@@ -1,4 +1,3 @@
-// AFC East - Buffalo Bills
 {
     "team_name": "Bills",
     "players": [
@@ -25,7 +24,6 @@
     ]
 }
 
-// AFC East - Miami Dolphins  
 {
     "team_name": "Dolphins",
     "players": [
@@ -52,7 +50,6 @@
     ]
 }
 
-// AFC East - New England Patriots
 {
     "team_name": "Patriots",
     "players": [
@@ -79,7 +76,6 @@
     ]
 }
 
-// AFC East - New York Jets
 {
     "team_name": "Jets",
     "players": [
@@ -106,7 +102,6 @@
     ]
 }
 
-// AFC North - Baltimore Ravens
 {
     "team_name": "Ravens",
     "players": [
@@ -133,7 +128,6 @@
     ]
 }
 
-// AFC North - Cincinnati Bengals
 {
     "team_name": "Bengals",
     "players": [
@@ -160,7 +154,6 @@
     ]
 }
 
-// AFC North - Cleveland Browns
 {
     "team_name": "Browns",
     "players": [
@@ -187,7 +180,6 @@
     ]
 }
 
-// AFC North - Pittsburgh Steelers
 {
     "team_name": "Steelers",
     "players": [
@@ -214,7 +206,6 @@
     ]
 }
 
-// AFC South - Houston Texans
 {
     "team_name": "Texans",
     "players": [
@@ -241,7 +232,6 @@
     ]
 }
 
-// AFC South - Indianapolis Colts
 {
     "team_name": "Colts",
     "players": [
@@ -268,7 +258,6 @@
     ]
 }
 
-// AFC South - Jacksonville Jaguars
 {
     "team_name": "Jaguars",
     "players": [
@@ -295,7 +284,6 @@
     ]
 }
 
-// AFC South - Tennessee Titans
 {
     "team_name": "Titans",
     "players": [
@@ -322,7 +310,6 @@
     ]
 }
 
-// AFC West - Denver Broncos
 {
     "team_name": "Broncos",
     "players": [
@@ -349,7 +336,6 @@
     ]
 }
 
-// AFC West - Kansas City Chiefs
 {
     "team_name": "Chiefs",
     "players": [
@@ -376,7 +362,6 @@
     ]
 }
 
-// AFC West - Las Vegas Raiders
 {
     "team_name": "Raiders",
     "players": [
@@ -403,7 +388,6 @@
     ]
 }
 
-// AFC West - Los Angeles Chargers
 {
     "team_name": "Chargers",
     "players": [
@@ -430,7 +414,6 @@
     ]
 }
 
-// NFC East - Dallas Cowboys
 {
     "team_name": "Cowboys",
     "players": [
@@ -457,7 +440,6 @@
     ]
 }
 
-// NFC East - New York Giants
 {
     "team_name": "Giants",
     "players": [
@@ -485,7 +467,6 @@
     ]
 }
 
-// NFC East - Philadelphia Eagles
 {
     "team_name": "Eagles",
     "players": [
@@ -512,7 +493,6 @@
     ]
 }
 
-// NFC East - Washington Commanders
 {
     "team_name": "Commanders",
     "players": [
@@ -539,7 +519,6 @@
     ]
 }
 
-// NFC North - Chicago Bears
 {
     "team_name": "Bears",
     "players": [
@@ -566,7 +545,6 @@
     ]
 }
 
-// NFC North - Detroit Lions
 {
     "team_name": "Lions",
     "players": [
@@ -593,7 +571,6 @@
     ]
 }
 
-// NFC North - Green Bay Packers
 {
     "team_name": "Packers",
     "players": [
@@ -620,7 +597,6 @@
     ]
 }
 
-// NFC North - Minnesota Vikings
 {
     "team_name": "Vikings",
     "players": [
@@ -647,7 +623,6 @@
     ]
 }
 
-// NFC South - Atlanta Falcons
 {
     "team_name": "Falcons",
     "players": [
@@ -674,7 +649,6 @@
     ]
 }
 
-// NFC South - Carolina Panthers
 {
     "team_name": "Panthers",
     "players": [
@@ -701,7 +675,6 @@
     ]
 }
 
-// NFC South - New Orleans Saints
 {
     "team_name": "Saints",
     "players": [
@@ -728,7 +701,6 @@
     ]
 }
 
-// NFC South - Tampa Bay Buccaneers
 {
     "team_name": "Buccaneers",
     "players": [
@@ -755,7 +727,6 @@
     ]
 }
 
-// NFC West - Arizona Cardinals
 {
     "team_name": "Cardinals",
     "players": [
@@ -782,7 +753,6 @@
     ]
 }
 
-// NFC West - Los Angeles Rams
 {
     "team_name": "Rams",
     "players": [
@@ -809,7 +779,6 @@
     ]
 }
 
-// NFC West - San Francisco 49ers
 {
     "team_name": "49ers",
     "players": [
@@ -836,7 +805,6 @@
     ]
 }
 
-// NFC West - Seattle Seahawks
 {
     "team_name": "Seahawks",
     "players": [
