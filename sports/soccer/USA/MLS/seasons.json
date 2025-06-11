@@ -1,0 +1,45 @@
+{
+  "league_name": "Major League Soccer",
+  "seasons": [
+    {
+      "year": 2020,
+      "start_date": "2020-02-29",
+      "end_date": "2020-11-08",
+      "playoff_start_date": "2020-11-20",
+      "playoff_end_date": "2020-12-12",
+      "comments": ["COVID-19 suspension from March-July", "MLS is Back Tournament", "Regular season reduced to 23 games"]
+    },
+    {
+      "year": 2021,
+      "start_date": "2021-04-17",
+      "end_date": "2021-11-07",
+      "playoff_start_date": "2021-11-20",
+      "playoff_end_date": "2021-12-11",
+      "comments": ["34-game regular season", "Austin FC expansion team", "27-team league"]
+    },
+    {
+      "year": 2022,
+      "start_date": "2022-02-26",
+      "end_date": "2022-10-09",
+      "playoff_start_date": "2022-10-15",
+      "playoff_end_date": "2022-11-05",
+      "comments": ["Charlotte FC expansion team", "28-team league", "34-game regular season"]
+    },
+    {
+      "year": 2023,
+      "start_date": "2023-02-25",
+      "end_date": "2023-10-21",
+      "playoff_start_date": "2023-10-28",
+      "playoff_end_date": "2023-12-09",
+      "comments": ["St. Louis City SC expansion team", "29-team league", "Leagues Cup with Liga MX"]
+    },
+    {
+      "year": 2024,
+      "start_date": "2024-02-24",
+      "end_date": "2024-10-19",
+      "playoff_start_date": "2024-10-25",
+      "playoff_end_date": "2024-12-07",
+      "comments": ["29-team league continues", "Inter Miami CF Lionel Messi full season"]
+    }
+  ]
+}

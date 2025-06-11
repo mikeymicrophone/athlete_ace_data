@@ -1,0 +1,45 @@
+{
+  "league_name": "National Basketball Association",
+  "seasons": [
+    {
+      "year": 2019,
+      "start_date": "2019-10-22",
+      "end_date": "2020-08-14",
+      "playoff_start_date": "2020-08-17",
+      "playoff_end_date": "2020-10-11",
+      "comments": ["COVID-19 suspension from March-July", "Season resumed in Orlando bubble", "Seeding games before playoffs"]
+    },
+    {
+      "year": 2020,
+      "start_date": "2020-12-22",
+      "end_date": "2021-05-16",
+      "playoff_start_date": "2021-05-22",
+      "playoff_end_date": "2021-07-20",
+      "comments": ["72-game shortened season", "Play-in tournament introduced"]
+    },
+    {
+      "year": 2021,
+      "start_date": "2021-10-19",
+      "end_date": "2022-04-10",
+      "playoff_start_date": "2022-04-16",
+      "playoff_end_date": "2022-06-16",
+      "comments": ["Return to 82-game season", "Play-in tournament continued"]
+    },
+    {
+      "year": 2022,
+      "start_date": "2022-10-18",
+      "end_date": "2023-04-09",
+      "playoff_start_date": "2023-04-15",
+      "playoff_end_date": "2023-06-12",
+      "comments": ["Normal 82-game season schedule"]
+    },
+    {
+      "year": 2023,
+      "start_date": "2023-10-17",
+      "end_date": "2024-04-14",
+      "playoff_start_date": "2024-04-20",
+      "playoff_end_date": "2024-06-17",
+      "comments": ["In-Season Tournament introduced"]
+    }
+  ]
+}

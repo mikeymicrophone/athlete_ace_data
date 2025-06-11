@@ -1,0 +1,45 @@
+{
+  "league_name": "Major League Baseball",
+  "seasons": [
+    {
+      "year": 2020,
+      "start_date": "2020-07-23",
+      "end_date": "2020-09-27",
+      "playoff_start_date": "2020-09-29",
+      "playoff_end_date": "2020-10-27",
+      "comments": ["COVID-19 shortened season", "60-game regular season", "Expanded playoff format"]
+    },
+    {
+      "year": 2021,
+      "start_date": "2021-04-01",
+      "end_date": "2021-10-03",
+      "playoff_start_date": "2021-10-05",
+      "playoff_end_date": "2021-11-02",
+      "comments": ["Return to 162-game season", "Wild Card Game expanded to best-of-three"]
+    },
+    {
+      "year": 2022,
+      "start_date": "2022-04-07",
+      "end_date": "2022-10-05",
+      "playoff_start_date": "2022-10-07",
+      "playoff_end_date": "2022-11-05",
+      "comments": ["Expanded playoff format with 12 teams", "Universal DH introduced"]
+    },
+    {
+      "year": 2023,
+      "start_date": "2023-03-30",
+      "end_date": "2023-10-01",
+      "playoff_start_date": "2023-10-03",
+      "playoff_end_date": "2023-11-01",
+      "comments": ["Pitch clock rules implemented", "Defensive shift restrictions"]
+    },
+    {
+      "year": 2024,
+      "start_date": "2024-03-28",
+      "end_date": "2024-09-29",
+      "playoff_start_date": "2024-10-01",
+      "playoff_end_date": "2024-10-30",
+      "comments": ["Schedule changes for international games"]
+    }
+  ]
+}

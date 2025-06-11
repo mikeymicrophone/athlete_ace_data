@@ -1,0 +1,45 @@
+{
+  "league_name": "National Football League",
+  "seasons": [
+    {
+      "year": 2020,
+      "start_date": "2020-09-10",
+      "end_date": "2021-01-03",
+      "playoff_start_date": "2021-01-09",
+      "playoff_end_date": "2021-02-07",
+      "comments": ["COVID-19 protocols implemented", "No preseason games", "Limited fan attendance"]
+    },
+    {
+      "year": 2021,
+      "start_date": "2021-09-09",
+      "end_date": "2022-01-09",
+      "playoff_start_date": "2022-01-15",
+      "playoff_end_date": "2022-02-13",
+      "comments": ["17-game regular season introduced", "Expanded playoff format with 14 teams"]
+    },
+    {
+      "year": 2022,
+      "start_date": "2022-09-08",
+      "end_date": "2023-01-08",
+      "playoff_start_date": "2023-01-14",
+      "playoff_end_date": "2023-02-12",
+      "comments": ["Second year of 17-game season", "International games expanded"]
+    },
+    {
+      "year": 2023,
+      "start_date": "2023-09-07",
+      "end_date": "2024-01-07",
+      "playoff_start_date": "2024-01-13",
+      "playoff_end_date": "2024-02-11",
+      "comments": ["More international games scheduled"]
+    },
+    {
+      "year": 2024,
+      "start_date": "2024-09-05",
+      "end_date": "2025-01-05",
+      "playoff_start_date": "2025-01-11",
+      "playoff_end_date": "2025-02-09",
+      "comments": ["Netflix games introduced", "Continued international expansion"]
+    }
+  ]
+}

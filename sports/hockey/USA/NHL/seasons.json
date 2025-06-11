@@ -1,0 +1,45 @@
+{
+  "league_name": "National Hockey League",
+  "seasons": [
+    {
+      "year": 2019,
+      "start_date": "2019-10-02",
+      "end_date": "2020-07-31",
+      "playoff_start_date": "2020-08-01",
+      "playoff_end_date": "2020-09-28",
+      "comments": ["COVID-19 suspension from March-July", "Season resumed in Toronto and Edmonton bubbles", "24-team playoff format"]
+    },
+    {
+      "year": 2020,
+      "start_date": "2021-01-13",
+      "end_date": "2021-05-19",
+      "playoff_start_date": "2021-05-20",
+      "playoff_end_date": "2021-07-07",
+      "comments": ["56-game shortened season", "Temporary realignment with Canadian division", "Return to 16-team playoffs"]
+    },
+    {
+      "year": 2021,
+      "start_date": "2021-10-12",
+      "end_date": "2022-04-29",
+      "playoff_start_date": "2022-05-02",
+      "playoff_end_date": "2022-06-26",
+      "comments": ["Return to 82-game season", "Back to normal divisional alignment"]
+    },
+    {
+      "year": 2022,
+      "start_date": "2022-10-11",
+      "end_date": "2023-04-13",
+      "playoff_start_date": "2023-04-17",
+      "playoff_end_date": "2023-06-13",
+      "comments": ["Normal 82-game season"]
+    },
+    {
+      "year": 2023,
+      "start_date": "2023-10-10",
+      "end_date": "2024-04-18",
+      "playoff_start_date": "2024-04-20",
+      "playoff_end_date": "2024-06-24",
+      "comments": ["Seattle Kraken second full season", "32-team league established"]
+    }
+  ]
+}
