@@ -1,0 +1,15 @@
+{
+  "league_name": "MLS",
+  "expansions": [
+    { "team_name": "Atlanta United FC", "year": 2017 },
+    { "team_name": "Austin FC", "year": 2021 },
+    { "team_name": "Charlotte FC", "year": 2022 },
+    { "team_name": "FC Cincinnati", "year": 2019 },
+    { "team_name": "Inter Miami CF", "year": 2020 },
+    { "team_name": "Los Angeles FC", "year": 2018 },
+    { "team_name": "Minnesota United FC", "year": 2017 },
+    { "team_name": "Nashville SC", "year": 2020 },
+    { "team_name": "New York City FC", "year": 2015 },
+    { "team_name": "Orlando City SC", "year": 2015 }
+  ]
+}

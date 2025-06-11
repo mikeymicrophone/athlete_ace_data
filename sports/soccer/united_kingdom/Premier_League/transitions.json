@@ -1,0 +1,40 @@
+{
+  "transitions": [
+    {
+      "team_name": "Sheffield United",
+      "from_league": "Premier League",
+      "to_league": "Championship",
+      "year": 2021
+    },
+    {
+      "team_name": "Sheffield United", 
+      "from_league": "Championship",
+      "to_league": "Premier League",
+      "year": 2019
+    },
+    {
+      "team_name": "Fulham",
+      "from_league": "Premier League", 
+      "to_league": "Championship",
+      "year": 2021
+    },
+    {
+      "team_name": "Fulham",
+      "from_league": "Championship",
+      "to_league": "Premier League", 
+      "year": 2020
+    },
+    {
+      "team_name": "Fulham",
+      "from_league": "Premier League",
+      "to_league": "Championship",
+      "year": 2019
+    },
+    {
+      "team_name": "Fulham",
+      "from_league": "Championship", 
+      "to_league": "Premier League",
+      "year": 2018
+    }
+  ]
+}

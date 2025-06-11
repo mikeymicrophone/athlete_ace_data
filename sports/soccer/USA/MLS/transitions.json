@@ -1,0 +1,25 @@
+{
+  "transitions": [
+    {
+      "team_name": "FC Cincinnati",
+      "from_league": "USL Championship", 
+      "to_league": "MLS",
+      "year": 2019,
+      "from_year": 2016
+    },
+    {
+      "team_name": "Minnesota United FC",
+      "from_league": "NASL",
+      "to_league": "MLS", 
+      "year": 2017,
+      "from_year": 2010
+    },
+    {
+      "team_name": "Orlando City SC",
+      "from_league": "USL Championship",
+      "to_league": "MLS",
+      "year": 2015,
+      "from_year": 2010
+    }
+  ]
+}
