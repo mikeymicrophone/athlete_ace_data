@@ -1,0 +1,135 @@
+{
+  "achievements": [
+    {
+      "ref": "nfc_north_bears",
+      "name": "Know Chicago Bears",
+      "description": "Memorize the Chicago Bears team name, location, and key details",
+      "target_type": "Team",
+      "target_name": "Bears",
+      "details": {
+        "difficulty": "easy",
+        "category": "team_knowledge",
+        "points": 10
+      }
+    },
+    {
+      "ref": "nfc_north_lions", 
+      "name": "Know Detroit Lions",
+      "description": "Memorize the Detroit Lions team name, location, and key details",
+      "target_type": "Team",
+      "target_name": "Lions",
+      "details": {
+        "difficulty": "easy",
+        "category": "team_knowledge", 
+        "points": 10
+      }
+    },
+    {
+      "ref": "nfc_north_packers",
+      "name": "Know Green Bay Packers", 
+      "description": "Memorize the Green Bay Packers team name, location, and key details",
+      "target_type": "Team",
+      "target_name": "Packers",
+      "details": {
+        "difficulty": "easy",
+        "category": "team_knowledge",
+        "points": 10
+      }
+    },
+    {
+      "ref": "nfc_north_vikings",
+      "name": "Know Minnesota Vikings",
+      "description": "Memorize the Minnesota Vikings team name, location, and key details", 
+      "target_type": "Team",
+      "target_name": "Vikings",
+      "details": {
+        "difficulty": "easy",
+        "category": "team_knowledge",
+        "points": 10
+      }
+    },
+    {
+      "ref": "nfc_north_division",
+      "name": "Know NFC North Division",
+      "description": "Master knowledge of the NFC North division structure and teams",
+      "target_type": "Division",
+      "target_name": "NFC North",
+      "details": {
+        "difficulty": "medium",
+        "category": "division_knowledge",
+        "points": 25
+      }
+    }
+  ],
+  "quests": [
+    {
+      "name": "Master NFC North Teams",
+      "description": "Learn all the teams in the NFC North division of the NFL",
+      "achievement_refs": [
+        {
+          "ref": "nfc_north_bears",
+          "required": true,
+          "position": 1
+        },
+        {
+          "ref": "nfc_north_lions", 
+          "required": true,
+          "position": 2
+        },
+        {
+          "ref": "nfc_north_packers",
+          "required": true,
+          "position": 3
+        },
+        {
+          "ref": "nfc_north_vikings",
+          "required": true,
+          "position": 4
+        }
+      ],
+      "details": {
+        "difficulty": "beginner",
+        "estimated_time": "15 minutes",
+        "category": "team_memorization",
+        "total_points": 40
+      }
+    },
+    {
+      "name": "NFC North Expert",
+      "description": "Complete mastery of the NFC North division including teams and division structure",
+      "achievement_refs": [
+        {
+          "ref": "nfc_north_bears",
+          "required": true,
+          "position": 1
+        },
+        {
+          "ref": "nfc_north_lions",
+          "required": true, 
+          "position": 2
+        },
+        {
+          "ref": "nfc_north_packers",
+          "required": true,
+          "position": 3
+        },
+        {
+          "ref": "nfc_north_vikings",
+          "required": true,
+          "position": 4
+        },
+        {
+          "ref": "nfc_north_division",
+          "required": true,
+          "position": 5
+        }
+      ],
+      "details": {
+        "difficulty": "intermediate",
+        "estimated_time": "25 minutes",
+        "category": "division_mastery",
+        "total_points": 65
+      }
+    }
+  ]
+}

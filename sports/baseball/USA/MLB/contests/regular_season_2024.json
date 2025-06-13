@@ -1,0 +1,157 @@
+{
+  "league_name": "Major League Baseball",
+  "season_year": 2024,
+  "contests": [
+    {
+      "name": "2024 AL East Regular Season",
+      "description": "Regular season standings and competition for the American League East division",
+      "context_type": "Division",
+      "context_name": "AL East",
+      "champion_name": "Yankees",
+      "contestant_names": "all",
+      "details": {
+        "season_type": "regular_season",
+        "total_games": 162,
+        "divisional_games": 76,
+        "interdivisional_games": 66,
+        "interleague_games": 20
+      },
+      "comments": [
+        "Competitive division with historic rivalries",
+        "Yankees-Red Sox rivalry remains a key storyline"
+      ]
+    },
+    {
+      "name": "2024 AL Central Regular Season",
+      "description": "Regular season standings and competition for the American League Central division",
+      "context_type": "Division",
+      "context_name": "AL Central",
+      "champion_name": "Cubs",
+      "contestant_names": "all",
+      "details": {
+        "season_type": "regular_season",
+        "total_games": 162,
+        "divisional_games": 76,
+        "interdivisional_games": 66,
+        "interleague_games": 20
+      },
+      "comments": [
+        "Five-team division with balanced competition"
+      ]
+    },
+    {
+      "name": "2024 AL West Regular Season",
+      "description": "Regular season standings and competition for the American League West division",
+      "context_type": "Division",
+      "context_name": "AL West",
+      "champion_name": "Astros",
+      "contestant_names": "all",
+      "details": {
+        "season_type": "regular_season",
+        "total_games": 162,
+        "divisional_games": 76,
+        "interdivisional_games": 66,
+        "interleague_games": 20
+      },
+      "comments": [
+        "Western division with travel challenges",
+        "Astros seeking continued dominance"
+      ]
+    },
+    {
+      "name": "2024 NL East Regular Season", 
+      "description": "Regular season standings and competition for the National League East division",
+      "context_type": "Division",
+      "context_name": "NL East",
+      "champion_name": "Mets",
+      "contestant_names": "all",
+      "details": {
+        "season_type": "regular_season",
+        "total_games": 162,
+        "divisional_games": 76,
+        "interdivisional_games": 66,
+        "interleague_games": 20
+      },
+      "comments": [
+        "Competitive NL East with multiple contenders",
+        "Mets-Phillies rivalry heating up"
+      ]
+    },
+    {
+      "name": "2024 NL Central Regular Season",
+      "description": "Regular season standings and competition for the National League Central division", 
+      "context_type": "Division",
+      "context_name": "NL Central",
+      "champion_name": "Cardinals",
+      "contestant_names": "all",
+      "details": {
+        "season_type": "regular_season",
+        "total_games": 162,
+        "divisional_games": 76,
+        "interdivisional_games": 66,
+        "interleague_games": 20
+      },
+      "comments": [
+        "Cardinals and Cubs maintain historic rivalry",
+        "Brewers and Reds emerging as contenders"
+      ]
+    },
+    {
+      "name": "2024 NL West Regular Season",
+      "description": "Regular season standings and competition for the National League West division",
+      "context_type": "Division", 
+      "context_name": "NL West",
+      "champion_name": "Dodgers",
+      "contestant_names": "all",
+      "details": {
+        "season_type": "regular_season",
+        "total_games": 162,
+        "divisional_games": 76,
+        "interdivisional_games": 66,
+        "interleague_games": 20
+      },
+      "comments": [
+        "Dodgers-Giants rivalry continues",
+        "Padres investing heavily in competition"
+      ]
+    },
+    {
+      "name": "2024 American League Regular Season",
+      "description": "Overall American League regular season standings determining playoff seeding and wild card positions",
+      "context_type": "Conference",
+      "context_name": "American League",
+      "champion_name": "Yankees",
+      "contestant_names": "all",
+      "details": {
+        "season_type": "regular_season",
+        "total_teams": 15,
+        "divisions": 3,
+        "playoff_spots": 6,
+        "wild_card_spots": 3
+      },
+      "comments": [
+        "15 teams competing for 6 playoff positions",
+        "Three division winners plus three wild card teams"
+      ]
+    },
+    {
+      "name": "2024 National League Regular Season", 
+      "description": "Overall National League regular season standings determining playoff seeding and wild card positions",
+      "context_type": "Conference",
+      "context_name": "National League",
+      "champion_name": "Dodgers",
+      "contestant_names": "all",
+      "details": {
+        "season_type": "regular_season",
+        "total_teams": 15,
+        "divisions": 3,
+        "playoff_spots": 6,
+        "wild_card_spots": 3
+      },
+      "comments": [
+        "15 teams competing for 6 playoff positions", 
+        "Three division winners plus three wild card teams"
+      ]
+    }
+  ]
+}

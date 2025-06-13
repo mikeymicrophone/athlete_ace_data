@@ -28,6 +28,13 @@
       "year_of_origin": 1946,
       "official_rules_url": "https://www.nba.com/official-rules",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg"
+    },
+    {
+      "name": "NCAA Division I",
+      "abbreviation": "NCAA D1",
+      "year_of_origin": 1906,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NCAA_logo.svg/1200px-NCAA_logo.svg.png",
+      "url": "https://www.ncaa.com"
     }
   ]
 }
