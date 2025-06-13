@@ -1,0 +1,51 @@
+{
+  "league_name": "Major League Baseball",
+  "season_year": 2024,
+  "contests": [
+    {
+      "name": "2024 AL East Regular Season",
+      "description": "Regular season standings and competition for the American League East division",
+      "context_type": "Division",
+      "context_name": "AL East",
+      "champion_name": "Yankees",
+      "contestant_names": "all",
+      "begin_date": "2024-03-28",
+      "end_date": "2024-09-29",
+      "details": {
+        "season_type": "regular_season",
+        "total_games": 162,
+        "divisional_games": 76,
+        "interdivisional_games": 66,
+        "interleague_games": 20
+      },
+      "comments": [
+        "Competitive division with historic rivalries",
+        "Yankees-Red Sox rivalry remains a key storyline"
+      ]
+    },
+    {
+      "name": "2024 AL Division Series",
+      "description": "Best-of-five series between AL division winners and wild card teams", 
+      "context_type": "Conference",
+      "context_name": "American League",
+      "champion_name": "Yankees",
+      "contestant_names": ["Yankees", "Astros", "Guardians", "Orioles"],
+      "begin_date": "2024-10-05",
+      "end_date": "2024-10-12",
+      "details": {
+        "format": "best_of_five",
+        "rounds": ["Wild Card", "Division Series"],
+        "bracket": {
+          "matchups": [
+            {"teams": ["Yankees", "Guardians"], "winner": "Yankees"},
+            {"teams": ["Astros", "Orioles"], "winner": "Astros"}
+          ]
+        }
+      },
+      "comments": [
+        "First round of AL playoffs",
+        "Higher seed gets home field advantage"
+      ]
+    }
+  ]
+}

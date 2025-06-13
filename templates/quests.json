@@ -1,0 +1,96 @@
+{
+  "achievements": [
+    {
+      "ref": "mlb_yankees",
+      "name": "Know New York Yankees",
+      "description": "Memorize the New York Yankees team name, location, and key details",
+      "target_type": "Team",
+      "target_name": "Yankees",
+      "details": {
+        "difficulty": "easy",
+        "category": "team_knowledge",
+        "points": 10,
+        "sport": "baseball"
+      }
+    },
+    {
+      "ref": "mlb_dodgers",
+      "name": "Know Los Angeles Dodgers", 
+      "description": "Memorize the Los Angeles Dodgers team name, location, and key details",
+      "target_type": "Team",
+      "target_name": "Dodgers",
+      "details": {
+        "difficulty": "easy",
+        "category": "team_knowledge",
+        "points": 10,
+        "sport": "baseball"
+      }
+    },
+    {
+      "ref": "mlb_all_teams",
+      "name": "Know All MLB Teams",
+      "description": "Master knowledge of all 30 Major League Baseball teams",
+      "target_type": "League", 
+      "target_name": "Major League Baseball",
+      "details": {
+        "difficulty": "hard",
+        "category": "league_mastery",
+        "points": 100,
+        "sport": "baseball"
+      }
+    }
+  ],
+  "quests": [
+    {
+      "name": "MLB Rivalry Knowledge",
+      "description": "Learn about the classic Yankees vs Dodgers rivalry",
+      "achievement_refs": [
+        {
+          "ref": "mlb_yankees",
+          "required": true,
+          "position": 1
+        },
+        {
+          "ref": "mlb_dodgers",
+          "required": true,
+          "position": 2
+        }
+      ],
+      "details": {
+        "difficulty": "beginner",
+        "estimated_time": "10 minutes",
+        "category": "rivalry_knowledge",
+        "total_points": 20,
+        "sport": "baseball"
+      }
+    },
+    {
+      "name": "MLB Master",
+      "description": "Complete mastery of Major League Baseball",
+      "achievement_refs": [
+        {
+          "ref": "mlb_yankees",
+          "required": true,
+          "position": 1
+        },
+        {
+          "ref": "mlb_dodgers", 
+          "required": true,
+          "position": 2
+        },
+        {
+          "ref": "mlb_all_teams",
+          "required": true,
+          "position": 3
+        }
+      ],
+      "details": {
+        "difficulty": "expert",
+        "estimated_time": "2 hours",
+        "category": "league_mastery", 
+        "total_points": 120,
+        "sport": "baseball"
+      }
+    }
+  ]
+}

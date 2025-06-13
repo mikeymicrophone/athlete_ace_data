@@ -1,0 +1,22 @@
+[
+  {
+    "name": "International Olympic Committee",
+    "abbreviation": "IOC",
+    "founded_year": 1894,
+    "headquarters_city": "Lausanne",
+    "headquarters_country": "Switzerland",
+    "description": "International organization responsible for organizing the Olympic Games",
+    "url": "https://www.olympic.org",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg"
+  },
+  {
+    "name": "Fédération Internationale de Football Association",
+    "abbreviation": "FIFA", 
+    "founded_year": 1904,
+    "headquarters_city": "Zurich",
+    "headquarters_country": "Switzerland",
+    "description": "International governing body of association football",
+    "url": "https://www.fifa.com",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/FIFA_logo.svg"
+  }
+]

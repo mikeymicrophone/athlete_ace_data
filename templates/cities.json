@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Los Angeles",
+    "state_name": "California", 
+    "country_name": "United States"
+  },
+  {
+    "name": "New York",
+    "state_name": "New York",
+    "country_name": "United States"
+  },
+  {
+    "name": "Toronto", 
+    "state_name": "Ontario",
+    "country_name": "Canada"
+  }
+]

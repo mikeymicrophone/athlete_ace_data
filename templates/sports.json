@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Baseball",
+    "abbreviation": "MLB",
+    "description": "America's pastime with bat, ball, and bases",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baseball",
+    "logo_url": "https://example.com/baseball-logo.png"
+  },
+  {
+    "name": "Basketball", 
+    "abbreviation": "NBA",
+    "description": "Fast-paced indoor sport with hoops and dribbling",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Basketball",
+    "logo_url": "https://example.com/basketball-logo.png"
+  }
+]

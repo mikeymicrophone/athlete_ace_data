@@ -1,0 +1,23 @@
+{
+  "league_name": "Major League Baseball",
+  "seasons": [
+    {
+      "year": 2024,
+      "start_date": "2024-03-28",
+      "end_date": "2024-09-29", 
+      "playoff_start_date": "2024-10-01",
+      "playoff_end_date": "2024-10-30",
+      "status": "completed",
+      "comments": ["Normal 162-game season", "Expanded playoff format"]
+    },
+    {
+      "year": 2020,
+      "start_date": "2020-07-23",
+      "end_date": "2020-09-27",
+      "playoff_start_date": "2020-09-29", 
+      "playoff_end_date": "2020-10-27",
+      "status": "completed",
+      "comments": ["COVID-19 shortened season", "60-game regular season"]
+    }
+  ]
+}

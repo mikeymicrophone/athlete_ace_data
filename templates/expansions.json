@@ -1,0 +1,59 @@
+{
+  "league_name": "Major League Soccer",
+  "campaigns": [
+    {
+      "type": "expansion",
+      "team_name": "Charlotte FC",
+      "season_year": 2022,
+      "description": "Charlotte FC joins MLS as the 28th team",
+      "details": {
+        "expansion_fee": 325000000,
+        "stadium": "Bank of America Stadium",
+        "inaugural_season": 2022,
+        "owner": "David Tepper",
+        "head_coach": "Miguel Ángel Ramírez"
+      },
+      "timeline": [
+        {
+          "date": "2017-12-17",
+          "event": "MLS announces Charlotte as expansion city"
+        },
+        {
+          "date": "2019-07-09", 
+          "event": "Team name and branding revealed"
+        },
+        {
+          "date": "2022-02-26",
+          "event": "First MLS match vs DC United"
+        }
+      ]
+    },
+    {
+      "type": "expansion",
+      "team_name": "St. Louis City SC",
+      "season_year": 2023,
+      "description": "St. Louis City SC joins MLS as the 29th team",
+      "details": {
+        "expansion_fee": 200000000,
+        "stadium": "CITYPARK",
+        "inaugural_season": 2023,
+        "owner": "Carolyn Kindle Betz",
+        "head_coach": "Bradley Carnell"
+      },
+      "timeline": [
+        {
+          "date": "2019-08-20",
+          "event": "MLS awards expansion franchise to St. Louis"
+        },
+        {
+          "date": "2020-08-13",
+          "event": "Team name and logo unveiled"
+        },
+        {
+          "date": "2023-02-25",
+          "event": "First MLS match vs Austin FC"
+        }
+      ]
+    }
+  ]
+}

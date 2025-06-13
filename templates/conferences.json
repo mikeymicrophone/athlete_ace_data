@@ -1,0 +1,49 @@
+{
+  "league_name": "Major League Baseball",
+  "conferences": [
+    {
+      "name": "American League",
+      "abbreviation": "AL",
+      "logo_url": "https://logos.mlb.com/american-league.svg",
+      "divisions": [
+        {
+          "name": "AL East",
+          "abbreviation": "ALE",
+          "logo_url": "https://logos.mlb.com/al-east.svg"
+        },
+        {
+          "name": "AL Central", 
+          "abbreviation": "ALC",
+          "logo_url": "https://logos.mlb.com/al-central.svg"
+        },
+        {
+          "name": "AL West",
+          "abbreviation": "ALW", 
+          "logo_url": "https://logos.mlb.com/al-west.svg"
+        }
+      ]
+    },
+    {
+      "name": "National League",
+      "abbreviation": "NL",
+      "logo_url": "https://logos.mlb.com/national-league.svg",
+      "divisions": [
+        {
+          "name": "NL East",
+          "abbreviation": "NLE",
+          "logo_url": "https://logos.mlb.com/nl-east.svg"
+        },
+        {
+          "name": "NL Central",
+          "abbreviation": "NLC", 
+          "logo_url": "https://logos.mlb.com/nl-central.svg"
+        },
+        {
+          "name": "NL West",
+          "abbreviation": "NLW",
+          "logo_url": "https://logos.mlb.com/nl-west.svg"
+        }
+      ]
+    }
+  ]
+}

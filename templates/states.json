@@ -1,0 +1,17 @@
+[
+  {
+    "name": "California",
+    "abbreviation": "CA",
+    "country_name": "United States"
+  },
+  {
+    "name": "New York",
+    "abbreviation": "NY", 
+    "country_name": "United States"
+  },
+  {
+    "name": "Ontario",
+    "abbreviation": "ON",
+    "country_name": "Canada"
+  }
+]

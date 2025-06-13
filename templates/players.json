@@ -1,0 +1,52 @@
+{
+  "team_name": "Yankees",
+  "players": [
+    {
+      "name": "Aaron Judge", 
+      "jersey_number": 99,
+      "position": "OF",
+      "bats": "R",
+      "throws": "R",
+      "height": "6'7\"",
+      "weight": 282,
+      "birth_date": "1992-04-26",
+      "birth_city": "Linden",
+      "birth_state": "California",
+      "birth_country": "United States",
+      "debut_date": "2016-08-13",
+      "years_experience": 8,
+      "salary": 40000000,
+      "contract_years": 9,
+      "agent": "Page Odle",
+      "college": "Fresno State",
+      "draft_year": 2013,
+      "draft_round": 1,
+      "draft_pick": 32,
+      "mlb_id": "592450",
+      "url": "https://www.mlb.com/player/aaron-judge-592450"
+    },
+    {
+      "name": "Gerrit Cole",
+      "jersey_number": 45,
+      "position": "P", 
+      "bats": "R",
+      "throws": "R",
+      "height": "6'4\"",
+      "weight": 220,
+      "birth_date": "1990-09-08",
+      "birth_city": "Newport Beach",
+      "birth_state": "California", 
+      "birth_country": "United States",
+      "debut_date": "2013-06-11",
+      "years_experience": 11,
+      "salary": 36000000,
+      "contract_years": 9,
+      "college": "UCLA",
+      "draft_year": 2011,
+      "draft_round": 1,
+      "draft_pick": 1,
+      "mlb_id": "543037",
+      "url": "https://www.mlb.com/player/gerrit-cole-543037"
+    }
+  ]
+}

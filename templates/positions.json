@@ -1,0 +1,55 @@
+{
+  "sport_name": "Baseball",
+  "positions": [
+    {
+      "name": "Pitcher",
+      "abbreviation": "P",
+      "description": "Throws the ball to the batter"
+    },
+    {
+      "name": "Catcher", 
+      "abbreviation": "C",
+      "description": "Receives pitches and directs the defense"
+    },
+    {
+      "name": "First Baseman",
+      "abbreviation": "1B", 
+      "description": "Covers first base and fields ground balls"
+    },
+    {
+      "name": "Second Baseman",
+      "abbreviation": "2B",
+      "description": "Covers second base and turns double plays"
+    },
+    {
+      "name": "Third Baseman", 
+      "abbreviation": "3B",
+      "description": "Covers third base and fields bunts"
+    },
+    {
+      "name": "Shortstop",
+      "abbreviation": "SS",
+      "description": "Covers between second and third base"
+    },
+    {
+      "name": "Left Field",
+      "abbreviation": "LF", 
+      "description": "Covers left portion of outfield"
+    },
+    {
+      "name": "Center Field",
+      "abbreviation": "CF",
+      "description": "Covers center portion of outfield"
+    },
+    {
+      "name": "Right Field",
+      "abbreviation": "RF",
+      "description": "Covers right portion of outfield"
+    },
+    {
+      "name": "Designated Hitter",
+      "abbreviation": "DH",
+      "description": "Bats in place of the pitcher"
+    }
+  ]
+}

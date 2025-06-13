@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Overall Player Rating",
+    "description": "General assessment of player's overall skill and impact",
+    "min_value": 0,
+    "max_value": 100,
+    "default_value": 50,
+    "scale_type": "linear",
+    "labels": {
+      "0": "Bench Player",
+      "25": "Role Player", 
+      "50": "Starter",
+      "75": "All-Star",
+      "100": "Hall of Fame"
+    },
+    "color_scheme": {
+      "low": "#FF4444",
+      "medium": "#FFAA44", 
+      "high": "#44FF44"
+    }
+  },
+  {
+    "name": "Batting Average",
+    "description": "Player's hitting success rate (hits per at-bat)",
+    "min_value": 0.000,
+    "max_value": 1.000,
+    "default_value": 0.250,
+    "scale_type": "decimal",
+    "labels": {
+      "0.000": "Poor",
+      "0.200": "Below Average",
+      "0.250": "Average", 
+      "0.300": "Good",
+      "0.350": "Excellent",
+      "0.400": "Elite"
+    },
+    "color_scheme": {
+      "low": "#FF6B6B",
+      "medium": "#FFD93D",
+      "high": "#6BCF7F"
+    }
+  }
+]

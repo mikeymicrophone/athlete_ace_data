@@ -1,0 +1,25 @@
+{
+  "country_name": "United States",
+  "sport_name": "Baseball",
+  "leagues": [
+    {
+      "name": "Major League Baseball",
+      "abbreviation": "MLB",
+      "founded_year": 1903,
+      "description": "The premier professional baseball league in North America",
+      "url": "https://www.mlb.com",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+      "official_rules_url": "https://www.mlb.com/official-information/rules",
+      "logo_url": "https://logos.mlb.com/mlb-logo.svg"
+    },
+    {
+      "name": "Minor League Baseball", 
+      "abbreviation": "MiLB",
+      "founded_year": 1901,
+      "description": "Developmental leagues for professional baseball",
+      "url": "https://www.milb.com",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Minor_League_Baseball",
+      "logo_url": "https://logos.milb.com/milb-logo.svg"
+    }
+  ]
+}

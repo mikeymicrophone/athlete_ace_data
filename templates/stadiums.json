@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Yankee Stadium",
+    "capacity": 54251,
+    "opened_year": 2009,
+    "city_name": "New York",
+    "state_name": "New York", 
+    "country_name": "United States",
+    "address": "1 E 161st St, Bronx, NY 10451",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yankee_Stadium",
+    "image_url": "https://example.com/yankee-stadium.jpg"
+  },
+  {
+    "name": "Dodger Stadium",
+    "capacity": 56000,
+    "opened_year": 1962,
+    "city_name": "Los Angeles",
+    "state_name": "California",
+    "country_name": "United States", 
+    "address": "1000 Vin Scully Ave, Los Angeles, CA 90012",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dodger_Stadium",
+    "image_url": "https://example.com/dodger-stadium.jpg"
+  }
+]

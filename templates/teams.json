@@ -1,0 +1,27 @@
+{
+  "league_name": "Major League Baseball",
+  "teams": [
+    {
+      "territory": "New York",
+      "mascot": "Yankees", 
+      "abbreviation": "NYY",
+      "stadium_name": "Yankee Stadium",
+      "founded_year": 1903,
+      "url": "https://www.yankees.com",
+      "logo_url": "https://logos.mlb.com/yankees.svg",
+      "primary_color": "#132448",
+      "secondary_color": "#C4CED4"
+    },
+    {
+      "territory": "Los Angeles",
+      "mascot": "Dodgers",
+      "abbreviation": "LAD", 
+      "stadium_name": "Dodger Stadium",
+      "founded_year": 1883,
+      "url": "https://www.dodgers.com",
+      "logo_url": "https://logos.mlb.com/dodgers.svg",
+      "primary_color": "#005A9C",
+      "secondary_color": "#EF3E42"
+    }
+  ]
+}

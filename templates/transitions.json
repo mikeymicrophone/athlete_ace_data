@@ -1,0 +1,61 @@
+{
+  "league_name": "Premier League",
+  "campaigns": [
+    {
+      "type": "relocation",
+      "team_name": "Wimbledon FC",
+      "season_year": 2003,
+      "description": "Wimbledon FC relocates to Milton Keynes and becomes MK Dons",
+      "details": {
+        "old_location": "Wimbledon, London",
+        "new_location": "Milton Keynes, Buckinghamshire", 
+        "old_stadium": "Plough Lane",
+        "new_stadium": "The National Hockey Stadium",
+        "reason": "Financial difficulties and stadium issues",
+        "controversy": "Highly controversial move opposed by fans"
+      },
+      "timeline": [
+        {
+          "date": "2002-05-28",
+          "event": "FA approves relocation to Milton Keynes"
+        },
+        {
+          "date": "2003-09-13",
+          "event": "First match in Milton Keynes"
+        },
+        {
+          "date": "2004-06-09",
+          "event": "Team officially renamed MK Dons"
+        }
+      ]
+    },
+    {
+      "type": "rebrand",
+      "team_name": "Washington Football Team",
+      "season_year": 2022,
+      "description": "Washington Football Team rebrands to Washington Commanders",
+      "details": {
+        "old_name": "Washington Football Team",
+        "new_name": "Washington Commanders",
+        "old_logo": "W logo",
+        "new_logo": "Commanders shield",
+        "reason": "Permanent name after temporary placeholder",
+        "fan_reception": "Mixed reactions from fanbase"
+      },
+      "timeline": [
+        {
+          "date": "2020-07-13",
+          "event": "Announces retirement of previous name"
+        },
+        {
+          "date": "2020-07-23", 
+          "event": "Adopts Washington Football Team as temporary name"
+        },
+        {
+          "date": "2022-02-02",
+          "event": "Officially unveils Commanders name and branding"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "league_name": "Major League Baseball",
+  "memberships": [
+    {
+      "team_name": "Yankees",
+      "conference_name": "American League",
+      "division_name": "AL East",
+      "start_year": 1903,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Dodgers", 
+      "conference_name": "National League",
+      "division_name": "NL West",
+      "start_year": 1958,
+      "end_year": null,
+      "active": true
+    },
+    {
+      "team_name": "Dodgers",
+      "conference_name": "National League", 
+      "division_name": "NL East",
+      "start_year": 1883,
+      "end_year": 1957,
+      "active": false
+    }
+  ]
+}
