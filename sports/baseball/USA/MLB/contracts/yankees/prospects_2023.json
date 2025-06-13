@@ -1,0 +1,39 @@
+{
+  "team_name": "Yankees",
+  "contract_group": "Top Prospects Rookie Contracts 2023",
+  "contracts": [
+    {
+      "player_name": "Anthony Volpe",
+      "start_date": "2023-03-30",
+      "end_date": "2028-12-31",
+      "total_dollar_value": 2850000,
+      "details": {
+        "contract_type": "rookie_scale",
+        "guaranteed_years": 6,
+        "performance_bonuses": {
+          "rookie_of_year": 500000,
+          "all_star": 750000,
+          "gold_glove": 300000,
+          "silver_slugger": 400000
+        },
+        "notes": "Top prospect promotion with team control through arbitration years"
+      }
+    },
+    {
+      "player_name": "Austin Wells",
+      "start_date": "2023-09-01",
+      "end_date": "2029-12-31",
+      "total_dollar_value": 1200000,
+      "details": {
+        "contract_type": "rookie_scale",
+        "guaranteed_years": 6,
+        "performance_bonuses": {
+          "games_started": 200000,
+          "home_runs": 150000,
+          "defensive_metrics": 100000
+        },
+        "notes": "Catcher prospect with potential franchise cornerstone upside"
+      }
+    }
+  ]
+}

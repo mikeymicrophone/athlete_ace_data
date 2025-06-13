@@ -1,0 +1,22 @@
+{
+  "team_name": "Dodgers",
+  "contract_group": "Young Talent Pre-Arb Extensions 2021",
+  "contracts": [
+    {
+      "player_name": "Dustin May",
+      "start_date": "2021-04-01",
+      "end_date": "2024-12-31",
+      "total_dollar_value": 4200000,
+      "details": {
+        "contract_type": "arbitration_eligible",
+        "guaranteed_years": 3,
+        "performance_bonuses": {
+          "innings_pitched": 300000,
+          "era_threshold": 500000,
+          "cy_young_voting": 1000000
+        },
+        "notes": "Pre-arbitration extension signed after rookie season"
+      }
+    }
+  ]
+}

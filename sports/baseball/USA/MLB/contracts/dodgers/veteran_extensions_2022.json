@@ -1,0 +1,24 @@
+{
+  "team_name": "Dodgers",
+  "contract_group": "Veteran Extensions 2022",
+  "contracts": [
+    {
+      "player_name": "Chris Taylor",
+      "start_date": "2022-03-15",
+      "end_date": "2026-12-31",
+      "total_dollar_value": 60000000,
+      "details": {
+        "contract_type": "extension",
+        "guaranteed_years": 4,
+        "signing_bonus": 5000000,
+        "performance_bonuses": {
+          "games_played": 500000,
+          "all_star": 1000000,
+          "playoff_appearances": 750000
+        },
+        "notes": "Team option for 5th year worth $15M",
+        "agent": "Scott Boras"
+      }
+    }
+  ]
+}

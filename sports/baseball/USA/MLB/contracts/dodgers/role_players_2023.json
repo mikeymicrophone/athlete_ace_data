@@ -1,0 +1,39 @@
+{
+  "team_name": "Dodgers",
+  "contract_group": "Role Players 2023",
+  "contracts": [
+    {
+      "player_name": "Austin Barnes",
+      "start_date": "2023-01-20",
+      "end_date": "2025-12-31",
+      "total_dollar_value": 8500000,
+      "details": {
+        "contract_type": "free_agent_signing",
+        "guaranteed_years": 2,
+        "signing_bonus": 500000,
+        "performance_bonuses": {
+          "games_started": 250000,
+          "defensive_metrics": 200000
+        },
+        "notes": "Backup catcher role with veteran leadership clauses"
+      }
+    },
+    {
+      "player_name": "Alex Vesia",
+      "start_date": "2024-03-01",
+      "end_date": "2027-12-31",
+      "total_dollar_value": 12000000,
+      "details": {
+        "contract_type": "extension",
+        "guaranteed_years": 3,
+        "signing_bonus": 1000000,
+        "performance_bonuses": {
+          "games_finished": 250000,
+          "save_opportunities": 400000,
+          "playoff_appearances": 300000
+        },
+        "notes": "Relief pitcher extension with closer upside clauses"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "team_name": "Yankees",
+  "contract_group": "Superstar Free Agent Signings 2022",
+  "contracts": [
+    {
+      "player_name": "Aaron Judge",
+      "start_date": "2022-12-07",
+      "end_date": "2031-12-31",
+      "total_dollar_value": 360000000,
+      "details": {
+        "contract_type": "free_agent_signing",
+        "guaranteed_years": 9,
+        "signing_bonus": 20000000,
+        "performance_bonuses": {
+          "mvp_award": 5000000,
+          "home_run_leader": 2000000,
+          "playoff_appearances": 1500000,
+          "world_series": 3000000
+        },
+        "notes": "Record-setting contract for position player, full no-trade clause",
+        "agent": "Page Odle",
+        "special_clauses": [
+          "Captain designation",
+          "Suite allocation for family",
+          "Charity foundation support"
+        ]
+      }
+    },
+    {
+      "player_name": "Carlos Rodón",
+      "start_date": "2022-12-14",
+      "end_date": "2028-12-31",
+      "total_dollar_value": 162000000,
+      "details": {
+        "contract_type": "free_agent_signing",
+        "guaranteed_years": 6,
+        "signing_bonus": 10000000,
+        "performance_bonuses": {
+          "innings_pitched": 1000000,
+          "era_threshold": 1500000,
+          "cy_young_voting": 2000000,
+          "playoff_starts": 750000
+        },
+        "notes": "Left-handed ace signing with opt-out after 4th year",
+        "agent": "Scott Boras"
+      }
+    }
+  ]
+}
