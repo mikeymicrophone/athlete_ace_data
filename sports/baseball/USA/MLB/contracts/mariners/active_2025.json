@@ -1,0 +1,90 @@
+{
+  "team_name": "Mariners",
+  "contract_group": "Active 2025",
+  "contracts": [
+    {
+      "player_name": "J.P. Crawford",
+      "start_date": "2025-01-01",
+      "end_date": "2027-12-31",
+      "total_dollar_value": 10000000,
+      "details": {}
+    },
+    {
+      "player_name": "Julio Rodríguez",
+      "start_date": "2025-01-01",
+      "end_date": "2034-12-31",
+      "total_dollar_value": 210000000,
+      "details": {
+        "contract_type": "extension",
+        "guaranteed_years": 10,
+        "signing_bonus": 15000000,
+        "performance_bonuses": {
+          "mvp_award": 5000000,
+          "all_star": 1000000,
+          "gold_glove": 2000000,
+          "silver_slugger": 2000000
+        }
+      }
+    },
+    {
+      "player_name": "Luis Castillo",
+      "start_date": "2025-01-01",
+      "end_date": "2027-12-31",
+      "total_dollar_value": 60000000,
+      "details": {
+        "contract_type": "extension",
+        "guaranteed_years": 3,
+        "performance_bonuses": {
+          "cy_young_voting": 3000000,
+          "all_star": 1000000,
+          "innings_pitched": 2000000
+        }
+      }
+    },
+    {
+      "player_name": "Logan Gilbert",
+      "start_date": "2025-01-01",
+      "end_date": "2027-12-31",
+      "total_dollar_value": 45000000,
+      "details": {
+        "contract_type": "extension",
+        "guaranteed_years": 3,
+        "performance_bonuses": {
+          "cy_young_voting": 2000000,
+          "all_star": 1000000,
+          "innings_pitched": 1500000
+        }
+      }
+    },
+    {
+      "player_name": "Andrés Muñoz",
+      "start_date": "2025-01-01",
+      "end_date": "2027-12-31",
+      "total_dollar_value": 25000000,
+      "details": {
+        "contract_type": "extension",
+        "guaranteed_years": 3,
+        "performance_bonuses": {
+          "reliever_of_year": 2000000,
+          "all_star": 1000000,
+          "saves": 1500000
+        }
+      }
+    },
+    {
+      "player_name": "Cal Raleigh",
+      "start_date": "2025-01-01",
+      "end_date": "2027-12-31",
+      "total_dollar_value": 20000000,
+      "details": {
+        "contract_type": "extension",
+        "guaranteed_years": 3,
+        "performance_bonuses": {
+          "silver_slugger": 1000000,
+          "gold_glove": 1000000,
+          "all_star": 1000000
+        }
+      }
+    }
+  ]
+}
