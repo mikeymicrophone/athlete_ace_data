@@ -1,77 +1,236 @@
 {
-    "team_name": "Maple Leafs",
-    "players": [
-        {
-            "first_name": "Auston",
-            "last_name": "Matthews",
-            "current_position": "Center",
-            "birthdate": "1997-09-17",
-            "debut_year": 2016,
-            "draft_year": 2016,
-            "active": true,
-            "nicknames": ["Papi"],
-            "bio": "Auston Matthews is an American professional ice hockey center and captain of the Toronto Maple Leafs. He was selected first overall by the Maple Leafs in the 2016 NHL Entry Draft. Matthews became the first player in modern NHL history to score four goals in his NHL debut. He has won the Maurice 'Rocket' Richard Trophy as the NHL's leading goal-scorer multiple times.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8479318.jpg"]
-        },
-        {
-            "first_name": "Mitch",
-            "last_name": "Marner",
-            "current_position": "Right Wing",
-            "birthdate": "1997-05-05",
-            "debut_year": 2016,
-            "draft_year": 2015,
-            "active": true,
-            "nicknames": ["Marns", "Magic Mitch"],
-            "bio": "Mitchell Marner is a Canadian professional ice hockey right winger and alternate captain for the Toronto Maple Leafs. Marner was selected fourth overall by the Maple Leafs in the 2015 NHL Entry Draft. Known for his playmaking abilities and vision on the ice, he has been one of the Leafs' top scorers since joining the team.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8478483.jpg"]
-        },
-        {
-            "first_name": "William",
-            "last_name": "Nylander",
-            "current_position": "Right Wing",
-            "birthdate": "1996-05-01",
-            "debut_year": 2015,
-            "draft_year": 2014,
-            "active": true,
-            "nicknames": ["Willy"],
-            "bio": "William Nylander is a Swedish professional ice hockey player for the Toronto Maple Leafs. Nylander was selected by the Maple Leafs in the first round, eighth overall, of the 2014 NHL Entry Draft. Known for his smooth skating and skilled puck handling, Nylander has been a consistent offensive threat for the Maple Leafs.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477939.jpg"]
-        },
-        {
-            "first_name": "John",
-            "last_name": "Tavares",
-            "current_position": "Center",
-            "birthdate": "1990-09-20",
-            "debut_year": 2009,
-            "draft_year": 2009,
-            "active": true,
-            "nicknames": ["JT"],
-            "bio": "John Tavares is a Canadian professional ice hockey center and captain of the Toronto Maple Leafs. He was selected first overall by the New York Islanders in the 2009 NHL Entry Draft and served as their captain for five seasons before signing with his hometown Maple Leafs in 2018. Tavares is known for his leadership, scoring ability, and strong two-way play.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475166.jpg"]
-        },
-        {
-            "first_name": "Morgan",
-            "last_name": "Rielly",
-            "current_position": "Defenseman",
-            "birthdate": "1994-03-09",
-            "debut_year": 2013,
-            "draft_year": 2012,
-            "active": true,
-            "nicknames": ["Mo"],
-            "bio": "Morgan Rielly is a Canadian professional ice hockey defenceman and alternate captain for the Toronto Maple Leafs. Rielly was selected by the Maple Leafs in the first round, fifth overall, of the 2012 NHL Entry Draft. He is known for his offensive abilities from the blue line and has been a cornerstone of the Maple Leafs' defense for many years.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476853.jpg"]
-        },
-        {
-            "first_name": "Joseph",
-            "last_name": "Woll",
-            "current_position": "Goaltender",
-            "birthdate": "1998-07-12",
-            "debut_year": 2021,
-            "draft_year": 2016,
-            "active": true,
-            "nicknames": [],
-            "bio": "Joseph Woll is an American professional ice hockey goaltender for the Toronto Maple Leafs. Woll was selected by the Maple Leafs in the third round, 62nd overall, of the 2016 NHL Entry Draft. After playing college hockey at Boston College, Woll has been developing as one of the Maple Leafs' promising goaltending prospects.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8479361.jpg"]
-        }
-    ]
+  "team_name": "Maple Leafs",
+  "players": [
+    {
+      "first_name": "Nick",
+      "last_name": "Blankenburg",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1998-05-12",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4781550.png"
+      ]
+    },
+    {
+      "first_name": "Teddy",
+      "last_name": "Blueger",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1994-08-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3024916.png"
+      ]
+    },
+    {
+      "first_name": "Sergei",
+      "last_name": "Bobrovsky",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1988-09-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5571.png"
+      ]
+    },
+    {
+      "first_name": "Easton",
+      "last_name": "Cowan",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2005-05-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5149211.png"
+      ]
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Duhaime",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1997-05-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4197009.png"
+      ]
+    },
+    {
+      "first_name": "Oliver",
+      "last_name": "Ekman-Larsson",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1991-07-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5488.png"
+      ]
+    },
+    {
+      "first_name": "Bo",
+      "last_name": "Groulx",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2000-02-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4378685.png"
+      ]
+    },
+    {
+      "first_name": "Luke",
+      "last_name": "Haymes",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2003-07-28"
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Hellickson",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1998-03-21"
+    },
+    {
+      "first_name": "Zack",
+      "last_name": "MacEwen",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1996-07-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4063569.png"
+      ]
+    },
+    {
+      "first_name": "Kirill",
+      "last_name": "Marchenko",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2000-08-21",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4587996.png"
+      ]
+    },
+    {
+      "first_name": "Auston",
+      "last_name": "Matthews",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1997-09-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4024123.png"
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "McCabe",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1993-10-12",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3020803.png"
+      ]
+    },
+    {
+      "first_name": "Gavin",
+      "last_name": "McKenna",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2007-12-20"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Nylander",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1996-05-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3114736.png"
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Paul",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1995-03-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3042111.png"
+      ]
+    },
+    {
+      "first_name": "Darren",
+      "last_name": "Raddysh",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-02-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3149843.png"
+      ]
+    },
+    {
+      "first_name": "Morgan",
+      "last_name": "Rielly",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1994-03-09",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2976833.png"
+      ]
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Roslovic",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1997-01-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3904098.png"
+      ]
+    },
+    {
+      "first_name": "Colton",
+      "last_name": "Sissons",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1993-11-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2993474.png"
+      ]
+    },
+    {
+      "first_name": "Troy",
+      "last_name": "Stecher",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1994-04-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3096102.png"
+      ]
+    },
+    {
+      "first_name": "Anthony",
+      "last_name": "Stolarz",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1994-01-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3067313.png"
+      ]
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Tanev",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1989-12-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5592.png"
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "Tavares",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1990-09-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5160.png"
+      ]
+    }
+  ]
 }

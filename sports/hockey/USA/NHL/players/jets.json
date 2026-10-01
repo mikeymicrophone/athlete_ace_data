@@ -1,77 +1,272 @@
 {
-    "team_name": "Jets",
-    "players": [
-        {
-            "first_name": "Mark",
-            "last_name": "Scheifele",
-            "current_position": "Center",
-            "birthdate": "1993-03-15",
-            "debut_year": 2011,
-            "draft_year": 2011,
-            "active": true,
-            "nicknames": ["Scheif"],
-            "bio": "Mark Scheifele is a Canadian professional ice hockey center and alternate captain for the Winnipeg Jets. Scheifele was selected by the Jets in the first round, seventh overall, of the 2011 NHL Entry Draft. He was the first draft pick made by the Jets after the franchise relocated from Atlanta. Scheifele has developed into one of the Jets' top offensive players and a core piece of their roster.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476460.jpg"]
-        },
-        {
-            "first_name": "Kyle",
-            "last_name": "Connor",
-            "current_position": "Left Wing",
-            "birthdate": "1996-12-09",
-            "debut_year": 2016,
-            "draft_year": 2015,
-            "active": true,
-            "nicknames": ["KFC"],
-            "bio": "Kyle Connor is an American professional ice hockey left winger for the Winnipeg Jets. Connor was selected by the Jets in the first round, 17th overall, of the 2015 NHL Entry Draft. After playing college hockey at the University of Michigan, Connor has emerged as one of the NHL's most consistent goal scorers and a key offensive weapon for the Jets.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8478398.jpg"]
-        },
-        {
-            "first_name": "Josh",
-            "last_name": "Morrissey",
-            "current_position": "Defenseman",
-            "birthdate": "1995-03-28",
-            "debut_year": 2015,
-            "draft_year": 2013,
-            "active": true,
-            "nicknames": [],
-            "bio": "Josh Morrissey is a Canadian professional ice hockey defenseman and alternate captain for the Winnipeg Jets. Morrissey was selected by the Jets in the first round, 13th overall, of the 2013 NHL Entry Draft. He has developed into the Jets' top defenseman, known for his strong two-way play and leadership on the blue line.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477504.jpg"]
-        },
-        {
-            "first_name": "Nikolaj",
-            "last_name": "Ehlers",
-            "current_position": "Left Wing",
-            "birthdate": "1996-02-14",
-            "debut_year": 2015,
-            "draft_year": 2014,
-            "active": true,
-            "nicknames": ["Fly"],
-            "bio": "Nikolaj Ehlers is a Danish professional ice hockey left winger for the Winnipeg Jets. Ehlers was selected by the Jets in the first round, ninth overall, of the 2014 NHL Entry Draft. Known for his exceptional speed and skill, Ehlers has been a dynamic offensive force for the Jets since joining the team.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477940.jpg"]
-        },
-        {
-            "first_name": "Connor",
-            "last_name": "Hellebuyck",
-            "current_position": "Goaltender",
-            "birthdate": "1993-05-19",
-            "debut_year": 2015,
-            "draft_year": 2012,
-            "active": true,
-            "nicknames": ["Helly"],
-            "bio": "Connor Hellebuyck is an American professional ice hockey goaltender for the Winnipeg Jets. Hellebuyck was selected by the Jets in the fifth round, 130th overall, of the 2012 NHL Entry Draft. He has developed into one of the NHL's elite goaltenders, winning the Vezina Trophy as the league's best goaltender in 2020 and consistently ranking among the NHL's top netminders.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476945.jpg"]
-        },
-        {
-            "first_name": "Adam",
-            "last_name": "Lowry",
-            "current_position": "Center",
-            "birthdate": "1993-03-29",
-            "debut_year": 2014,
-            "draft_year": 2011,
-            "active": true,
-            "nicknames": [],
-            "bio": "Adam Lowry is a Canadian professional ice hockey center and captain of the Winnipeg Jets. Lowry was selected by the Jets in the third round, 67th overall, of the 2011 NHL Entry Draft. Known for his physical play, defensive responsibility, and leadership, Lowry has been a valuable member of the Jets' forward group throughout his career.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476392.jpg"]
-        }
-    ]
+  "team_name": "Jets",
+  "players": [
+    {
+      "first_name": "Morgan",
+      "last_name": "Barron",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1998-12-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4316970.png"
+      ]
+    },
+    {
+      "first_name": "Tyrel",
+      "last_name": "Bauer",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2002-03-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697648.png"
+      ]
+    },
+    {
+      "first_name": "Viggo",
+      "last_name": "Bjorck",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2008-03-12"
+    },
+    {
+      "first_name": "Garrett",
+      "last_name": "Brown",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2004-04-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5104207.png"
+      ]
+    },
+    {
+      "first_name": "Kyle",
+      "last_name": "Connor",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1996-12-09",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3899952.png"
+      ]
+    },
+    {
+      "first_name": "Dylan",
+      "last_name": "DeMelo",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1993-05-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2590861.png"
+      ]
+    },
+    {
+      "first_name": "Walker",
+      "last_name": "Duehr",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1997-11-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4319940.png"
+      ]
+    },
+    {
+      "first_name": "Mario",
+      "last_name": "Ferraro",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1998-09-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233884.png"
+      ]
+    },
+    {
+      "first_name": "Haydn",
+      "last_name": "Fleury",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-07-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3114735.png"
+      ]
+    },
+    {
+      "first_name": "Connor",
+      "last_name": "Hellebuyck",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1993-05-19",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3020225.png"
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Iafallo",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1993-12-21",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3652598.png"
+      ]
+    },
+    {
+      "first_name": "Cole",
+      "last_name": "Koepke",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1998-05-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4419679.png"
+      ]
+    },
+    {
+      "first_name": "Brad",
+      "last_name": "Lambert",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2003-12-19",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5080178.png"
+      ]
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Lowry",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1993-03-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2563066.png"
+      ]
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Morrissey",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1995-03-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3042016.png"
+      ]
+    },
+    {
+      "first_name": "Vladislav",
+      "last_name": "Namestnikov",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1992-11-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2562622.png"
+      ]
+    },
+    {
+      "first_name": "Nino",
+      "last_name": "Niederreiter",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1992-09-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5511.png"
+      ]
+    },
+    {
+      "first_name": "Cole",
+      "last_name": "Perfetti",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2002-01-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697392.png"
+      ]
+    },
+    {
+      "first_name": "Neal",
+      "last_name": "Pionk",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1995-07-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3988847.png"
+      ]
+    },
+    {
+      "first_name": "Isak",
+      "last_name": "Rosen",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2003-03-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4874731.png"
+      ]
+    },
+    {
+      "first_name": "Elias",
+      "last_name": "Salomonsson",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2004-08-31",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5080223.png"
+      ]
+    },
+    {
+      "first_name": "Dylan",
+      "last_name": "Samberg",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1999-01-24",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233878.png"
+      ]
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Scheifele",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1993-03-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2562632.png"
+      ]
+    },
+    {
+      "first_name": "Stuart",
+      "last_name": "Skinner",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1998-11-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4268767.png"
+      ]
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "St. Ivany",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1999-07-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4755690.png"
+      ]
+    },
+    {
+      "first_name": "Clay",
+      "last_name": "Stevenson",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1999-03-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5104602.png"
+      ]
+    },
+    {
+      "first_name": "Gabriel",
+      "last_name": "Vilardi",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1999-08-16",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233583.png"
+      ]
+    }
+  ]
 }

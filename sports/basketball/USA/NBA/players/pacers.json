@@ -1,4 +1,185 @@
 {
-    "team_name": "Pacers",
-    "players": []
+  "team_name": "Pacers",
+  "players": [
+    {
+      "first_name": "Kobe",
+      "last_name": "Brown",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2000-01-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4431752.png"
+      ]
+    },
+    {
+      "first_name": "Johnny",
+      "last_name": "Furphy",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2004-12-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5157066.png"
+      ]
+    },
+    {
+      "first_name": "Tyrese",
+      "last_name": "Haliburton",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2000-02-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4396993.png"
+      ]
+    },
+    {
+      "first_name": "Jay",
+      "last_name": "Huff",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1997-08-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4065731.png"
+      ]
+    },
+    {
+      "first_name": "Quenton",
+      "last_name": "Jackson",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1998-09-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4592829.png"
+      ]
+    },
+    {
+      "first_name": "James",
+      "last_name": "Johnson",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1987-02-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3999.png"
+      ]
+    },
+    {
+      "first_name": "T.J.",
+      "last_name": "McConnell",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1992-03-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/2530530.png"
+      ]
+    },
+    {
+      "first_name": "Larry",
+      "last_name": "Nance Jr.",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1993-01-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/2580365.png"
+      ]
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Nembhard",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2000-01-16",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4395712.png"
+      ]
+    },
+    {
+      "first_name": "Aaron",
+      "last_name": "Nesmith",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1999-10-16",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4396909.png"
+      ]
+    },
+    {
+      "first_name": "Kelly",
+      "last_name": "Oubre Jr.",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1995-12-09",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3133603.png"
+      ]
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Sheppard",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2001-07-16",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4433076.png"
+      ]
+    },
+    {
+      "first_name": "Pascal",
+      "last_name": "Siakam",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1994-04-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3149673.png"
+      ]
+    },
+    {
+      "first_name": "Jalen",
+      "last_name": "Slawson",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1999-10-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4398207.png"
+      ]
+    },
+    {
+      "first_name": "Braden",
+      "last_name": "Smith",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2003-07-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5105854.png"
+      ]
+    },
+    {
+      "first_name": "Obi",
+      "last_name": "Toppin",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1998-03-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4278355.png"
+      ]
+    },
+    {
+      "first_name": "Jarace",
+      "last_name": "Walker",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2003-09-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5106060.png"
+      ]
+    },
+    {
+      "first_name": "Ivica",
+      "last_name": "Zubac",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1997-03-18",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4017837.png"
+      ]
+    }
+  ]
 }

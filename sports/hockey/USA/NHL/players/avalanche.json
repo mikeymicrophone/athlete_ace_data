@@ -1,4 +1,252 @@
 {
-    "team_name": "Avalanche",
-    "players": []
+  "team_name": "Avalanche",
+  "players": [
+    {
+      "first_name": "Mackenzie",
+      "last_name": "Blackwood",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1996-12-09",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3904177.png"
+      ]
+    },
+    {
+      "first_name": "Brent",
+      "last_name": "Burns",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1985-03-09",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2300.png"
+      ]
+    },
+    {
+      "first_name": "T.J.",
+      "last_name": "Hughes",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2001-11-09"
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Juulsen",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1997-04-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3900504.png"
+      ]
+    },
+    {
+      "first_name": "Nazem",
+      "last_name": "Kadri",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1990-10-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5349.png"
+      ]
+    },
+    {
+      "first_name": "Parker",
+      "last_name": "Kelly",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1999-05-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4392309.png"
+      ]
+    },
+    {
+      "first_name": "Brett",
+      "last_name": "Kulak",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1994-01-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3068665.png"
+      ]
+    },
+    {
+      "first_name": "Zachary",
+      "last_name": "L'Heureux",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2003-05-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4874744.png"
+      ]
+    },
+    {
+      "first_name": "Gabriel",
+      "last_name": "Landeskog",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1992-11-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2562609.png"
+      ]
+    },
+    {
+      "first_name": "Artturi",
+      "last_name": "Lehkonen",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1995-07-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3042050.png"
+      ]
+    },
+    {
+      "first_name": "Nathan",
+      "last_name": "MacKinnon",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1995-09-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3041969.png"
+      ]
+    },
+    {
+      "first_name": "Cale",
+      "last_name": "Makar",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1998-10-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233563.png"
+      ]
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Makar",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2001-03-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4997080.png"
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Malinski",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1998-07-27",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5136735.png"
+      ]
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Manson",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1991-10-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2590829.png"
+      ]
+    },
+    {
+      "first_name": "Georgii",
+      "last_name": "Merkulov",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2000-10-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5103687.png"
+      ]
+    },
+    {
+      "first_name": "Trent",
+      "last_name": "Miner",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "2001-02-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4587836.png"
+      ]
+    },
+    {
+      "first_name": "Martin",
+      "last_name": "Necas",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1999-01-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233586.png"
+      ]
+    },
+    {
+      "first_name": "Brock",
+      "last_name": "Nelson",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1991-10-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5798.png"
+      ]
+    },
+    {
+      "first_name": "Logan",
+      "last_name": "O'Connor",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1996-08-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3988782.png"
+      ]
+    },
+    {
+      "first_name": "Nicolas",
+      "last_name": "Roy",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1997-02-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3943996.png"
+      ]
+    },
+    {
+      "first_name": "Jaden",
+      "last_name": "Schwartz",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1992-06-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5835.png"
+      ]
+    },
+    {
+      "first_name": "Fedor",
+      "last_name": "Svechkov",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2003-04-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4874736.png"
+      ]
+    },
+    {
+      "first_name": "Devon",
+      "last_name": "Toews",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1994-02-21",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3096249.png"
+      ]
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Wedgewood",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1992-08-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5622.png"
+      ]
+    }
+  ]
 }

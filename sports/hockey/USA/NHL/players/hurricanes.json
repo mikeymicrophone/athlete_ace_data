@@ -1,4 +1,232 @@
 {
-    "team_name": "Hurricanes",
-    "players": []
+  "team_name": "Hurricanes",
+  "players": [
+    {
+      "first_name": "Sebastian",
+      "last_name": "Aho",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1997-07-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3904173.png"
+      ]
+    },
+    {
+      "first_name": "Jackson",
+      "last_name": "Blake",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2003-08-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5103645.png"
+      ]
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Bussi",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1998-06-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4996097.png"
+      ]
+    },
+    {
+      "first_name": "William",
+      "last_name": "Carrier",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1994-12-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3042054.png"
+      ]
+    },
+    {
+      "first_name": "Jalen",
+      "last_name": "Chatfield",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-05-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4063449.png"
+      ]
+    },
+    {
+      "first_name": "Nicolas",
+      "last_name": "Deslauriers",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1991-02-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5193.png"
+      ]
+    },
+    {
+      "first_name": "Nikolaj",
+      "last_name": "Ehlers",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1996-02-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3114741.png"
+      ]
+    },
+    {
+      "first_name": "Shayne",
+      "last_name": "Gostisbehere",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1993-04-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3025662.png"
+      ]
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Hall",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1991-11-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5428.png"
+      ]
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Jankowski",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1994-09-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2976849.png"
+      ]
+    },
+    {
+      "first_name": "Seth",
+      "last_name": "Jarvis",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2002-02-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697396.png"
+      ]
+    },
+    {
+      "first_name": "Pyotr",
+      "last_name": "Kochetkov",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1999-06-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4565259.png"
+      ]
+    },
+    {
+      "first_name": "Jesperi",
+      "last_name": "Kotkaniemi",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2000-07-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4352692.png"
+      ]
+    },
+    {
+      "first_name": "Charles Alexis",
+      "last_name": "Legault",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2003-09-05"
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Martinook",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1992-07-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2989376.png"
+      ]
+    },
+    {
+      "first_name": "K'Andre",
+      "last_name": "Miller",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2000-01-21",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4352770.png"
+      ]
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Reilly",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1993-07-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2563077.png"
+      ]
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Robinson",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1995-06-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4319879.png"
+      ]
+    },
+    {
+      "first_name": "Jaccob",
+      "last_name": "Slavin",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1994-05-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3069836.png"
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Staal",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1988-09-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3541.png"
+      ]
+    },
+    {
+      "first_name": "Logan",
+      "last_name": "Stankoven",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2003-02-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4874899.png"
+      ]
+    },
+    {
+      "first_name": "Andrei",
+      "last_name": "Svechnikov",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2000-03-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4352683.png"
+      ]
+    },
+    {
+      "first_name": "Sean",
+      "last_name": "Walker",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1994-11-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4272905.png"
+      ]
+    }
+  ]
 }

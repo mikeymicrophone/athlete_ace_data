@@ -1,77 +1,242 @@
 {
-    "team_name": "Capitals",
-    "players": [
-        {
-            "first_name": "Alexander",
-            "last_name": "Ovechkin",
-            "current_position": "Left Wing",
-            "birthdate": "1985-09-17",
-            "debut_year": 2005,
-            "draft_year": 2004,
-            "active": true,
-            "nicknames": ["Ovi", "The Great Eight"],
-            "bio": "Alexander Ovechkin is a Russian professional ice hockey left winger and captain of the Washington Capitals. He was selected first overall in the 2004 NHL Entry Draft by the Capitals. Widely regarded as one of the greatest goal-scorers in NHL history, Ovechkin is pursuing Wayne Gretzky's all-time goal record. He led the Capitals to their first Stanley Cup championship in 2018.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8471214.jpg"]
-        },
-        {
-            "first_name": "John",
-            "last_name": "Carlson",
-            "current_position": "Defenseman",
-            "birthdate": "1990-01-10",
-            "debut_year": 2009,
-            "draft_year": 2008,
-            "active": true,
-            "nicknames": ["Carly"],
-            "bio": "John Carlson is an American professional ice hockey defenseman and alternate captain for the Washington Capitals. Carlson was selected by the Capitals in the first round, 27th overall, of the 2008 NHL Entry Draft. He has developed into one of the NHL's top offensive defensemen and was a key contributor to the Capitals' 2018 Stanley Cup championship.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8474590.jpg"]
-        },
-        {
-            "first_name": "Tom",
-            "last_name": "Wilson",
-            "current_position": "Right Wing",
-            "birthdate": "1994-03-29",
-            "debut_year": 2013,
-            "draft_year": 2012,
-            "active": true,
-            "nicknames": ["Willy"],
-            "bio": "Tom Wilson is a Canadian professional ice hockey right winger and alternate captain for the Washington Capitals. Wilson was selected by the Capitals in the first round, 16th overall, of the 2012 NHL Entry Draft. Known for his physical play and increasing offensive contributions, Wilson has evolved into a power forward and was part of the Capitals' 2018 Stanley Cup championship team.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8476880.jpg"]
-        },
-        {
-            "first_name": "Nicklas",
-            "last_name": "Backstrom",
-            "current_position": "Center",
-            "birthdate": "1987-11-23",
-            "debut_year": 2007,
-            "draft_year": 2006,
-            "active": true,
-            "nicknames": ["Backy"],
-            "bio": "Nicklas Backstrom is a Swedish professional ice hockey center for the Washington Capitals. Backstrom was selected fourth overall by the Capitals in the 2006 NHL Entry Draft. One of the premier playmakers in the NHL, Backstrom has been Alexander Ovechkin's primary setup man for much of their careers together and was instrumental in the Capitals' 2018 Stanley Cup victory.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8473563.jpg"]
-        },
-        {
-            "first_name": "Charlie",
-            "last_name": "Lindgren",
-            "current_position": "Goaltender",
-            "birthdate": "1993-12-18",
-            "debut_year": 2015,
-            "draft_year": null,
-            "active": true,
-            "nicknames": [],
-            "bio": "Charlie Lindgren is an American professional ice hockey goaltender for the Washington Capitals. Undrafted, Lindgren signed as a free agent with the Montreal Canadiens in 2016 after playing college hockey at St. Cloud State University. After stints with the Canadiens and St. Louis Blues organizations, he joined the Capitals where he has provided solid goaltending.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8479292.jpg"]
-        },
-        {
-            "first_name": "Dylan",
-            "last_name": "Strome",
-            "current_position": "Center",
-            "birthdate": "1997-03-07",
-            "debut_year": 2016,
-            "draft_year": 2015,
-            "active": true,
-            "nicknames": [],
-            "bio": "Dylan Strome is a Canadian professional ice hockey center for the Washington Capitals. Strome was selected third overall by the Arizona Coyotes in the 2015 NHL Entry Draft. After playing for the Coyotes and Chicago Blackhawks, Strome joined the Capitals where he has developed into a reliable offensive contributor.",
-            "photo_urls": ["https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8478440.jpg"]
-        }
-    ]
+  "team_name": "Capitals",
+  "players": [
+    {
+      "first_name": "Anthony",
+      "last_name": "Beauvillier",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1997-06-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3904107.png"
+      ]
+    },
+    {
+      "first_name": "Jakob",
+      "last_name": "Chychrun",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1998-03-31",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4024950.png"
+      ]
+    },
+    {
+      "first_name": "Vincent",
+      "last_name": "Desharnais",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-05-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4392260.png"
+      ]
+    },
+    {
+      "first_name": "Pierre-Luc",
+      "last_name": "Dubois",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1998-06-24",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4024833.png"
+      ]
+    },
+    {
+      "first_name": "Martin",
+      "last_name": "Fehervary",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1999-10-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4378677.png"
+      ]
+    },
+    {
+      "first_name": "Ethen",
+      "last_name": "Frank",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1998-02-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4996093.png"
+      ]
+    },
+    {
+      "first_name": "Cole",
+      "last_name": "Hutson",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2006-06-28"
+    },
+    {
+      "first_name": "Boone",
+      "last_name": "Jenner",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1993-06-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2563054.png"
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Kyrou",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1998-05-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4062251.png"
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Leonard",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2005-01-21",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5149172.png"
+      ]
+    },
+    {
+      "first_name": "Timothy",
+      "last_name": "Liljegren",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1999-04-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233618.png"
+      ]
+    },
+    {
+      "first_name": "Charlie",
+      "last_name": "Lindgren",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1993-12-18",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3095975.png"
+      ]
+    },
+    {
+      "first_name": "Dylan",
+      "last_name": "McIlrath",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1992-04-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2529256.png"
+      ]
+    },
+    {
+      "first_name": "Ivan",
+      "last_name": "Miroshnichenko",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2004-02-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5080168.png"
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Ovechkin",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1985-09-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3101.png"
+      ]
+    },
+    {
+      "first_name": "Aliaksei",
+      "last_name": "Protas",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2001-01-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4587943.png"
+      ]
+    },
+    {
+      "first_name": "Ilya",
+      "last_name": "Protas",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2006-07-18",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5229146.png"
+      ]
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Roy",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1995-03-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3942924.png"
+      ]
+    },
+    {
+      "first_name": "Rasmus",
+      "last_name": "Sandin",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2000-03-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4352803.png"
+      ]
+    },
+    {
+      "first_name": "Justin",
+      "last_name": "Sourdif",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2002-03-24",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697783.png"
+      ]
+    },
+    {
+      "first_name": "Dylan",
+      "last_name": "Strome",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1997-03-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3899933.png"
+      ]
+    },
+    {
+      "first_name": "Logan",
+      "last_name": "Thompson",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1997-02-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4272888.png"
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Tuch",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1996-05-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3114766.png"
+      ]
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Wilson",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1994-03-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2970615.png"
+      ]
+    }
+  ]
 }

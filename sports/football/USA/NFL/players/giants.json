@@ -1,0 +1,795 @@
+{
+  "team_name": "Giants",
+  "players": [
+    {
+      "first_name": "Paulson",
+      "last_name": "Adebo",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "1999-07-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4242547.png"
+      ]
+    },
+    {
+      "first_name": "Darius",
+      "last_name": "Alexander",
+      "active": true,
+      "current_position": "Defensive Tackle",
+      "birthdate": "2000-08-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4426542.png"
+      ]
+    },
+    {
+      "first_name": "Calvin",
+      "last_name": "Austin III",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "1999-03-24",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4243389.png"
+      ]
+    },
+    {
+      "first_name": "Deonte",
+      "last_name": "Banks",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2001-03-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4428328.png"
+      ]
+    },
+    {
+      "first_name": "Zaire",
+      "last_name": "Barnes",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "1999-09-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4362234.png"
+      ]
+    },
+    {
+      "first_name": "Odell",
+      "last_name": "Beckham Jr.",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "1992-11-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/16733.png"
+      ]
+    },
+    {
+      "first_name": "Jarrick",
+      "last_name": "Bernard-Converse",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2000-04-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4361834.png"
+      ]
+    },
+    {
+      "first_name": "Braxton",
+      "last_name": "Berrios",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "1995-10-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/3123075.png"
+      ]
+    },
+    {
+      "first_name": "Korie",
+      "last_name": "Black",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2002-06-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4429281.png"
+      ]
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Burns",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "1998-04-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4035631.png"
+      ]
+    },
+    {
+      "first_name": "Dalen",
+      "last_name": "Cambre",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "2001-04-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4570296.png"
+      ]
+    },
+    {
+      "first_name": "Elijah",
+      "last_name": "Campbell",
+      "active": true,
+      "current_position": "Safety",
+      "birthdate": "1995-08-24",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/3932901.png"
+      ]
+    },
+    {
+      "first_name": "Abdul",
+      "last_name": "Carter",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "2003-10-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4725996.png"
+      ]
+    },
+    {
+      "first_name": "Jaxson",
+      "last_name": "Dart",
+      "active": true,
+      "current_position": "Quarterback",
+      "birthdate": "2003-05-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4689114.png"
+      ]
+    },
+    {
+      "first_name": "J.C.",
+      "last_name": "Davis",
+      "active": true,
+      "current_position": "Offensive Tackle",
+      "birthdate": "2003-10-09",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/5082353.png"
+      ]
+    },
+    {
+      "first_name": "Thaddeus",
+      "last_name": "Dixon",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2002-02-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/5151880.png"
+      ]
+    },
+    {
+      "first_name": "Tremaine",
+      "last_name": "Edmunds",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "1998-05-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/3929950.png"
+      ]
+    },
+    {
+      "first_name": "Jermaine",
+      "last_name": "Eluemunor",
+      "active": true,
+      "current_position": "Offensive Tackle",
+      "birthdate": "1994-12-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/3115303.png"
+      ]
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Fidone II",
+      "active": true,
+      "current_position": "Tight End",
+      "birthdate": "2002-09-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4590292.png"
+      ]
+    },
+    {
+      "first_name": "Malachi",
+      "last_name": "Fields",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "2003-08-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4682648.png"
+      ]
+    },
+    {
+      "first_name": "Grant",
+      "last_name": "Finley",
+      "active": true,
+      "current_position": "Fullback",
+      "birthdate": "2003-08-19",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/5393270.png"
+      ]
+    },
+    {
+      "first_name": "Trace",
+      "last_name": "Ford",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "2001-01-24",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4427207.png"
+      ]
+    },
+    {
+      "first_name": "Chauncey",
+      "last_name": "Golston",
+      "active": true,
+      "current_position": "Defensive End",
+      "birthdate": "1998-02-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4036132.png"
+      ]
+    },
+    {
+      "first_name": "Jarrod",
+      "last_name": "Gray",
+      "active": true,
+      "current_position": "Offensive Tackle",
+      "birthdate": "2004-01-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/5360470.png"
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Haener",
+      "active": true,
+      "current_position": "Quarterback",
+      "birthdate": "1999-03-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4243322.png"
+      ]
+    },
+    {
+      "first_name": "Najee",
+      "last_name": "Harris",
+      "active": true,
+      "current_position": "Running Back",
+      "birthdate": "1998-03-09",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4241457.png"
+      ]
+    },
+    {
+      "first_name": "Shelby",
+      "last_name": "Harris",
+      "active": true,
+      "current_position": "Defensive Tackle",
+      "birthdate": "1991-08-11",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/16837.png"
+      ]
+    },
+    {
+      "first_name": "Malik",
+      "last_name": "Harrison",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "1998-03-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4040615.png"
+      ]
+    },
+    {
+      "first_name": "Jevon",
+      "last_name": "Holland",
+      "active": true,
+      "current_position": "Safety",
+      "birthdate": "2000-03-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4373809.png"
+      ]
+    },
+    {
+      "first_name": "Colton",
+      "last_name": "Hood",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2005-02-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4921249.png"
+      ]
+    },
+    {
+      "first_name": "Bryan",
+      "last_name": "Hudson",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2001-01-11",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4426489.png"
+      ]
+    },
+    {
+      "first_name": "Jalin",
+      "last_name": "Hyatt",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "2001-09-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4692590.png"
+      ]
+    },
+    {
+      "first_name": "DJ",
+      "last_name": "James",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2001-03-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4429891.png"
+      ]
+    },
+    {
+      "first_name": "Bobby",
+      "last_name": "Jamison-Travis",
+      "active": true,
+      "current_position": "Defensive Tackle",
+      "birthdate": "2001-04-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/5159928.png"
+      ]
+    },
+    {
+      "first_name": "Theo",
+      "last_name": "Johnson",
+      "active": true,
+      "current_position": "Tight End",
+      "birthdate": "2001-02-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4429148.png"
+      ]
+    },
+    {
+      "first_name": "Charlie",
+      "last_name": "Jones",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "1998-10-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4257188.png"
+      ]
+    },
+    {
+      "first_name": "Nic",
+      "last_name": "Jones",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2001-10-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4427636.png"
+      ]
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Kelly",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "2003-01-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4876380.png"
+      ]
+    },
+    {
+      "first_name": "Darian",
+      "last_name": "Kinnard",
+      "active": true,
+      "current_position": "Offensive Tackle",
+      "birthdate": "1999-12-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4362611.png"
+      ]
+    },
+    {
+      "first_name": "Raheem",
+      "last_name": "Layne",
+      "active": true,
+      "current_position": "Safety",
+      "birthdate": "1999-07-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4258237.png"
+      ]
+    },
+    {
+      "first_name": "Isaiah",
+      "last_name": "Likely",
+      "active": true,
+      "current_position": "Tight End",
+      "birthdate": "2000-04-18",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4361050.png"
+      ]
+    },
+    {
+      "first_name": "Phil",
+      "last_name": "Mafah",
+      "active": true,
+      "current_position": "Running Back",
+      "birthdate": "2002-10-24",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4431562.png"
+      ]
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Manhertz",
+      "active": true,
+      "current_position": "Tight End",
+      "birthdate": "1992-04-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/2531358.png"
+      ]
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Mann",
+      "active": true,
+      "current_position": "Long Snapper",
+      "birthdate": "2002-07-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4883114.png"
+      ]
+    },
+    {
+      "first_name": "Chandler",
+      "last_name": "Martin",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "2002-12-11",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4695086.png"
+      ]
+    },
+    {
+      "first_name": "Francis",
+      "last_name": "Mauigoa",
+      "active": true,
+      "current_position": "Offensive Tackle",
+      "birthdate": "2005-06-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4870914.png"
+      ]
+    },
+    {
+      "first_name": "Marcus",
+      "last_name": "Mbow",
+      "active": true,
+      "current_position": "Offensive Tackle",
+      "birthdate": "2003-04-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4686362.png"
+      ]
+    },
+    {
+      "first_name": "J.J.",
+      "last_name": "McCarthy",
+      "active": true,
+      "current_position": "Quarterback",
+      "birthdate": "2003-01-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4433970.png"
+      ]
+    },
+    {
+      "first_name": "Micah",
+      "last_name": "McFadden",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "2000-01-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4371961.png"
+      ]
+    },
+    {
+      "first_name": "Darnell",
+      "last_name": "Mooney",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "1997-10-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4040655.png"
+      ]
+    },
+    {
+      "first_name": "Malik",
+      "last_name": "Nabers",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "2003-07-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4595348.png"
+      ]
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Newsome II",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2000-05-18",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4361266.png"
+      ]
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Nubin",
+      "active": true,
+      "current_position": "Safety",
+      "birthdate": "2001-06-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4430261.png"
+      ]
+    },
+    {
+      "first_name": "CJ",
+      "last_name": "Okoye",
+      "active": true,
+      "current_position": "Defensive Tackle",
+      "birthdate": "2001-10-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/5144942.png"
+      ]
+    },
+    {
+      "first_name": "Gunner",
+      "last_name": "Olszewski",
+      "active": true,
+      "current_position": "Wide Receiver",
+      "birthdate": "1996-11-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4424106.png"
+      ]
+    },
+    {
+      "first_name": "Rico",
+      "last_name": "Payton",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "1999-11-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4368350.png"
+      ]
+    },
+    {
+      "first_name": "Dru",
+      "last_name": "Phillips",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2001-11-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4431321.png"
+      ]
+    },
+    {
+      "first_name": "Jason",
+      "last_name": "Pinnock",
+      "active": true,
+      "current_position": "Safety",
+      "birthdate": "1999-06-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4240706.png"
+      ]
+    },
+    {
+      "first_name": "C.J.",
+      "last_name": "Ravenell",
+      "active": true,
+      "current_position": "Defensive End",
+      "birthdate": "2000-07-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4700676.png"
+      ]
+    },
+    {
+      "first_name": "DJ",
+      "last_name": "Reader",
+      "active": true,
+      "current_position": "Defensive Tackle",
+      "birthdate": "1994-07-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/2977670.png"
+      ]
+    },
+    {
+      "first_name": "Nikko",
+      "last_name": "Reed",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2003-03-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4691043.png"
+      ]
+    },
+    {
+      "first_name": "Arvell",
+      "last_name": "Reese",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "2005-08-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4950400.png"
+      ]
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Ricard",
+      "active": true,
+      "current_position": "Fullback",
+      "birthdate": "1994-05-27",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/2975417.png"
+      ]
+    },
+    {
+      "first_name": "Roy",
+      "last_name": "Robertson-Harris",
+      "active": true,
+      "current_position": "Defensive Tackle",
+      "birthdate": "1993-07-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/2574891.png"
+      ]
+    },
+    {
+      "first_name": "Jaden",
+      "last_name": "Robinson",
+      "active": true,
+      "current_position": "Cornerback",
+      "birthdate": "2000-11-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4374032.png"
+      ]
+    },
+    {
+      "first_name": "Jon",
+      "last_name": "Runyan",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1997-08-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/3929936.png"
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Schernecke",
+      "active": true,
+      "current_position": "Offensive Tackle",
+      "birthdate": "2003-04-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/5344428.png"
+      ]
+    },
+    {
+      "first_name": "John Michael",
+      "last_name": "Schmitz Jr.",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1999-03-19",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4240771.png"
+      ]
+    },
+    {
+      "first_name": "Devin",
+      "last_name": "Singletary",
+      "active": true,
+      "current_position": "Running Back",
+      "birthdate": "1997-09-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4040761.png"
+      ]
+    },
+    {
+      "first_name": "Cam",
+      "last_name": "Skattebo",
+      "active": true,
+      "current_position": "Running Back",
+      "birthdate": "2002-02-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4696981.png"
+      ]
+    },
+    {
+      "first_name": "Aaron",
+      "last_name": "Stinnie",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1994-02-18",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/3049339.png"
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Stout",
+      "active": true,
+      "current_position": "Punter",
+      "birthdate": "1998-08-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4260224.png"
+      ]
+    },
+    {
+      "first_name": "Kayvon",
+      "last_name": "Thibodeaux",
+      "active": true,
+      "current_position": "Linebacker",
+      "birthdate": "2000-12-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4426326.png"
+      ]
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Thomas",
+      "active": true,
+      "current_position": "Offensive Tackle",
+      "birthdate": "1999-01-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4259566.png"
+      ]
+    },
+    {
+      "first_name": "Tyrone",
+      "last_name": "Tracy Jr.",
+      "active": true,
+      "current_position": "Running Back",
+      "birthdate": "1999-11-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4360516.png"
+      ]
+    },
+    {
+      "first_name": "Geno",
+      "last_name": "VanDeMark",
+      "active": true,
+      "current_position": "Offensive Lineman",
+      "birthdate": "2002-06-12",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4875981.png"
+      ]
+    },
+    {
+      "first_name": "Ar'Darius",
+      "last_name": "Washington",
+      "active": true,
+      "current_position": "Safety",
+      "birthdate": "1999-11-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/4362492.png"
+      ]
+    },
+    {
+      "first_name": "Jameis",
+      "last_name": "Winston",
+      "active": true,
+      "current_position": "Quarterback",
+      "birthdate": "1994-01-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/2969939.png"
+      ]
+    },
+    {
+      "first_name": "Dominic",
+      "last_name": "Zvada",
+      "active": true,
+      "current_position": "Place Kicker",
+      "birthdate": "2003-10-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nfl/players/full/5082424.png"
+      ]
+    }
+  ]
+}

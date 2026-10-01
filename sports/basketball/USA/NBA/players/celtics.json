@@ -1,170 +1,203 @@
 {
-    "team_name": "Celtics",
-    "players": [
-        {
-            "first_name": "Jayson",
-            "last_name": "Tatum",
-            "current_position": "Forward",
-            "birthdate": "1998-03-03",
-            "debut_year": 2017,
-            "draft_year": 2017,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png"],
-            "bio": ["3-time All-NBA selection", "5-time NBA All-Star", "Led Celtics to 2022 NBA Finals"]
-        },
-        {
-            "first_name": "Jaylen",
-            "last_name": "Brown",
-            "current_position": "Guard-Forward",
-            "birthdate": "1996-10-24",
-            "debut_year": 2016,
-            "draft_year": 2016,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png"],
-            "bio": ["2023 Eastern Conference Finals MVP", "3-time NBA All-Star", "2023 All-NBA Second Team"]
-        },
-        {
-            "first_name": "Kristaps",
-            "last_name": "Porzingis",
-            "current_position": "Center-Forward",
-            "birthdate": "1995-08-02",
-            "debut_year": 2015,
-            "draft_year": 2015,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1626171.png"],
-            "bio": ["2018 NBA All-Star", "2016 NBA All-Rookie First Team", "Nicknamed 'The Unicorn'"]
-        },
-        {
-            "first_name": "Jrue",
-            "last_name": "Holiday",
-            "current_position": "Guard",
-            "birthdate": "1990-06-12",
-            "debut_year": 2009,
-            "draft_year": 2009,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"],
-            "bio": ["2021 NBA Champion with Milwaukee Bucks", "2023 NBA All-Star", "5-time NBA All-Defensive Team"]
-        },
-        {
-            "first_name": "Derrick",
-            "last_name": "White",
-            "current_position": "Guard",
-            "birthdate": "1994-07-02",
-            "debut_year": 2017,
-            "draft_year": 2017,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png"],
-            "bio": ["2023 NBA All-Defensive Second Team", "Known for clutch playoff performances", "Acquired from Spurs in 2022"]
-        },
-        {
-            "first_name": "Al",
-            "last_name": "Horford",
-            "current_position": "Center-Forward",
-            "birthdate": "1986-06-03",
-            "debut_year": 2007,
-            "draft_year": 2007,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/201143.png"],
-            "bio": ["5-time NBA All-Star", "2011 NBA All-Defensive Second Team", "Oldest player on Celtics roster"]
-        },
-        {
-            "first_name": "Payton",
-            "last_name": "Pritchard",
-            "current_position": "Guard",
-            "birthdate": "1998-01-28",
-            "debut_year": 2020,
-            "draft_year": 2020,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.png"],
-            "bio": ["2021 NBA All-Rookie Second Team", "Known for his long-range shooting", "Oregon Ducks standout"]
-        },
-        {
-            "first_name": "Sam",
-            "last_name": "Hauser",
-            "current_position": "Forward",
-            "birthdate": "1997-12-08",
-            "debut_year": 2021,
-            "draft_year": 2021,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1630573.png"],
-            "bio": ["Elite three-point specialist", "Undrafted free agent", "Played college basketball at Virginia"]
-        },
-        {
-            "first_name": "Luke",
-            "last_name": "Kornet",
-            "current_position": "Center",
-            "birthdate": "1995-07-15",
-            "debut_year": 2017,
-            "draft_year": 2017,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1628436.png"],
-            "bio": ["7-foot-2 center", "Known for his 'Kornet Kontest' defensive technique", "Vanderbilt graduate"]
-        },
-        {
-            "first_name": "Xavier",
-            "last_name": "Tillman",
-            "current_position": "Forward-Center",
-            "birthdate": "1999-01-12",
-            "debut_year": 2020,
-            "draft_year": 2020,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1630214.png"],
-            "bio": ["Acquired from Grizzlies in 2024", "Michigan State standout", "Known for defensive versatility"]
-        },
-        {
-            "first_name": "Oshae",
-            "last_name": "Brissett",
-            "current_position": "Forward",
-            "birthdate": "1998-06-20",
-            "debut_year": 2019,
-            "draft_year": 2019,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1629052.png"],
-            "bio": ["Canadian basketball player", "Played for Syracuse in college", "Joined Celtics in 2023"]
-        },
-        {
-            "first_name": "Neemias",
-            "last_name": "Queta",
-            "current_position": "Center",
-            "birthdate": "1999-07-13",
-            "debut_year": 2021,
-            "draft_year": 2021,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1630243.png"],
-            "bio": ["First Portuguese player in NBA history", "7-footer with shot-blocking ability", "Played college basketball at Utah State"]
-        },
-        {
-            "first_name": "Svi",
-            "last_name": "Mykhailiuk",
-            "current_position": "Guard-Forward",
-            "birthdate": "1997-06-10",
-            "debut_year": 2018,
-            "draft_year": 2018,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1629004.png"],
-            "bio": ["Ukrainian basketball player", "Known for three-point shooting", "Kansas Jayhawks alum"]
-        },
-        {
-            "first_name": "Jordan",
-            "last_name": "Walsh",
-            "current_position": "Forward",
-            "birthdate": "2004-03-03",
-            "debut_year": 2024,
-            "draft_year": 2024,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1641706.png"],
-            "bio": ["2024 NBA Draft pick", "Played college basketball at Arkansas", "Athletic wing defender"]
-        },
-        {
-            "first_name": "JD",
-            "last_name": "Davison",
-            "current_position": "Guard",
-            "birthdate": "2002-10-03",
-            "debut_year": 2022,
-            "draft_year": 2022,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1631113.png"],
-            "bio": ["Athletic point guard", "Alabama Crimson Tide product", "Two-way contract player"]
-        }
-    ]
+  "team_name": "Celtics",
+  "players": [
+    {
+      "first_name": "Devin",
+      "last_name": "Carter",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2002-03-18",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4433188.png"
+      ]
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Cenac Jr.",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2007-02-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5142621.png"
+      ]
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Conley",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1987-10-11",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3195.png"
+      ]
+    },
+    {
+      "first_name": "Tucker",
+      "last_name": "DeVries",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2002-12-07"
+    },
+    {
+      "first_name": "Luka",
+      "last_name": "Garza",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1998-12-27",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4277951.png"
+      ]
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "George",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1990-05-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4251.png"
+      ]
+    },
+    {
+      "first_name": "Hugo",
+      "last_name": "Gonzalez",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2006-02-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5175647.png"
+      ]
+    },
+    {
+      "first_name": "Hayden",
+      "last_name": "Gray",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2003-05-11"
+    },
+    {
+      "first_name": "Ron",
+      "last_name": "Harper Jr.",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2000-04-12",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4397251.png"
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Hauser",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1997-12-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4065804.png"
+      ]
+    },
+    {
+      "first_name": "Gabe",
+      "last_name": "McGlothan",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1999-03-03"
+    },
+    {
+      "first_name": "Dillon",
+      "last_name": "Mitchell",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2003-10-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5106283.png"
+      ]
+    },
+    {
+      "first_name": "Payton",
+      "last_name": "Pritchard",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1998-01-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4066354.png"
+      ]
+    },
+    {
+      "first_name": "Neemias",
+      "last_name": "Queta",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1999-07-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4397424.png"
+      ]
+    },
+    {
+      "first_name": "Mitchell",
+      "last_name": "Robinson",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1998-04-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4351852.png"
+      ]
+    },
+    {
+      "first_name": "Baylor",
+      "last_name": "Scheierman",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2000-09-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4593841.png"
+      ]
+    },
+    {
+      "first_name": "Jayson",
+      "last_name": "Tatum",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1998-03-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4065648.png"
+      ]
+    },
+    {
+      "first_name": "Milos",
+      "last_name": "Uzan",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2002-12-26"
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Walsh",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2004-03-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4683689.png"
+      ]
+    },
+    {
+      "first_name": "Derrick",
+      "last_name": "White",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1994-07-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3078576.png"
+      ]
+    },
+    {
+      "first_name": "Amari",
+      "last_name": "Williams",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2002-01-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4702745.png"
+      ]
+    }
+  ]
 }

@@ -1,4 +1,255 @@
 {
-    "team_name": "Blues",
-    "players": []
+  "team_name": "Blues",
+  "players": [
+    {
+      "first_name": "Justin",
+      "last_name": "Barron",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2001-11-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697408.png"
+      ]
+    },
+    {
+      "first_name": "Jonatan",
+      "last_name": "Berggren",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2000-07-16",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4378660.png"
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Binnington",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1993-07-11",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2590874.png"
+      ]
+    },
+    {
+      "first_name": "Philip",
+      "last_name": "Broberg",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2001-06-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4565229.png"
+      ]
+    },
+    {
+      "first_name": "Pavel",
+      "last_name": "Buchnevich",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1995-04-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3042081.png"
+      ]
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Carlo",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-11-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3904175.png"
+      ]
+    },
+    {
+      "first_name": "Zach",
+      "last_name": "Dean",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2003-01-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4874747.png"
+      ]
+    },
+    {
+      "first_name": "Dillon",
+      "last_name": "Dube",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1998-07-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4063268.png"
+      ]
+    },
+    {
+      "first_name": "Dalibor",
+      "last_name": "Dvorsky",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2005-06-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5149178.png"
+      ]
+    },
+    {
+      "first_name": "Cam",
+      "last_name": "Fowler",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1991-12-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5495.png"
+      ]
+    },
+    {
+      "first_name": "Joel",
+      "last_name": "Hofer",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "2000-07-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4587909.png"
+      ]
+    },
+    {
+      "first_name": "Dylan",
+      "last_name": "Holloway",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2001-09-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697397.png"
+      ]
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Jiricek",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2006-06-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5216884.png"
+      ]
+    },
+    {
+      "first_name": "Ross",
+      "last_name": "Johnston",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1994-02-18",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3067822.png"
+      ]
+    },
+    {
+      "first_name": "Theo",
+      "last_name": "Lindstein",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2005-01-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5149212.png"
+      ]
+    },
+    {
+      "first_name": "Logan",
+      "last_name": "Mailloux",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2003-04-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4874748.png"
+      ]
+    },
+    {
+      "first_name": "Connor",
+      "last_name": "McMichael",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2001-01-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4565246.png"
+      ]
+    },
+    {
+      "first_name": "Mason",
+      "last_name": "McTavish",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2003-01-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4874718.png"
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Neighbours",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2002-03-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697409.png"
+      ]
+    },
+    {
+      "first_name": "Colton",
+      "last_name": "Parayko",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1993-05-12",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3069341.png"
+      ]
+    },
+    {
+      "first_name": "Jimmy",
+      "last_name": "Snuggerud",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2004-06-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5080171.png"
+      ]
+    },
+    {
+      "first_name": "Pius",
+      "last_name": "Suter",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1996-05-24",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4271732.png"
+      ]
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Thomas",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1999-07-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233637.png"
+      ]
+    },
+    {
+      "first_name": "Alexey",
+      "last_name": "Toropchenko",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1999-06-25",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4392454.png"
+      ]
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Tucker",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2000-03-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4587904.png"
+      ]
+    }
+  ]
 }

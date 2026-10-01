@@ -1,170 +1,195 @@
 {
-    "team_name": "Knicks",
-    "players": [
-        {
-            "first_name": "Jalen",
-            "last_name": "Brunson",
-            "current_position": "Guard",
-            "birthdate": "1996-08-31",
-            "debut_year": 2018,
-            "draft_year": 2018,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1628973.png"],
-            "bio": ["2024 NBA All-Star", "Villanova NCAA Champion", "Knicks franchise record holder for points in a playoff game"]
-        },
-        {
-            "first_name": "Julius",
-            "last_name": "Randle",
-            "current_position": "Forward",
-            "birthdate": "1994-11-29",
-            "debut_year": 2014,
-            "draft_year": 2014,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/203944.png"],
-            "bio": ["3-time NBA All-Star", "2021 NBA Most Improved Player", "2021 All-NBA Second Team"]
-        },
-        {
-            "first_name": "OG",
-            "last_name": "Anunoby",
-            "current_position": "Forward",
-            "birthdate": "1997-07-17",
-            "debut_year": 2017,
-            "draft_year": 2017,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png"],
-            "bio": ["2019 NBA Champion with Toronto", "Elite defensive wing", "Acquired by Knicks in 2023-24 season"]
-        },
-        {
-            "first_name": "Josh",
-            "last_name": "Hart",
-            "current_position": "Guard-Forward",
-            "birthdate": "1995-03-06",
-            "debut_year": 2017,
-            "draft_year": 2017,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.png"],
-            "bio": ["Villanova NCAA Champion", "Known for rebounding and hustle plays", "Reunited with college teammate Brunson in New York"]
-        },
-        {
-            "first_name": "Donte",
-            "last_name": "DiVincenzo",
-            "current_position": "Guard",
-            "birthdate": "1997-01-31",
-            "debut_year": 2018,
-            "draft_year": 2018,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png"],
-            "bio": ["Villanova NCAA Champion", "2021 NBA Champion with Milwaukee", "Known as 'The Big Ragu'"]
-        },
-        {
-            "first_name": "Mitchell",
-            "last_name": "Robinson",
-            "current_position": "Center",
-            "birthdate": "1998-04-01",
-            "debut_year": 2018,
-            "draft_year": 2018,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1629011.png"],
-            "bio": ["Elite shot blocker and offensive rebounder", "Knicks' longest-tenured player", "Known for high field goal percentage"]
-        },
-        {
-            "first_name": "Isaiah",
-            "last_name": "Hartenstein",
-            "current_position": "Center",
-            "birthdate": "1998-05-05",
-            "debut_year": 2018,
-            "draft_year": 2017,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1628392.png"],
-            "bio": ["Skilled passing big man", "German-American player", "Known for high basketball IQ"]
-        },
-        {
-            "first_name": "Miles",
-            "last_name": "McBride",
-            "current_position": "Guard",
-            "birthdate": "2000-09-08",
-            "debut_year": 2021,
-            "draft_year": 2021,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1630540.png"],
-            "bio": ["Defensive specialist", "West Virginia University standout", "Nicknamed 'Deuce'"]
-        },
-        {
-            "first_name": "Precious",
-            "last_name": "Achiuwa",
-            "current_position": "Forward-Center",
-            "birthdate": "1999-09-19",
-            "debut_year": 2020,
-            "draft_year": 2020,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.png"],
-            "bio": ["Nigerian basketball player", "Memphis Tigers standout", "Acquired from Toronto in OG Anunoby trade"]
-        },
-        {
-            "first_name": "Alec",
-            "last_name": "Burks",
-            "current_position": "Guard",
-            "birthdate": "1991-07-20",
-            "debut_year": 2011,
-            "draft_year": 2011,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/202692.png"],
-            "bio": ["Veteran scorer", "Second stint with Knicks", "Known for three-point shooting"]
-        },
-        {
-            "first_name": "Bojan",
-            "last_name": "Bogdanovic",
-            "current_position": "Forward",
-            "birthdate": "1989-04-18",
-            "debut_year": 2014,
-            "draft_year": 2011,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/202711.png"],
-            "bio": ["Croatian sharpshooter", "Acquired from Detroit in 2024", "Career 39% three-point shooter"]
-        },
-        {
-            "first_name": "Jericho",
-            "last_name": "Sims",
-            "current_position": "Center",
-            "birthdate": "1998-10-20",
-            "debut_year": 2021,
-            "draft_year": 2021,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1630579.png"],
-            "bio": ["Texas Longhorns product", "Known for athleticism and dunking ability", "Elite vertical leap"]
-        },
-        {
-            "first_name": "DaQuan",
-            "last_name": "Jeffries",
-            "current_position": "Guard-Forward",
-            "birthdate": "1997-08-30",
-            "debut_year": 2019,
-            "draft_year": 2019,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1629610.png"],
-            "bio": ["Athletic wing player", "Tulsa product", "Two-way contract player"]
-        },
-        {
-            "first_name": "Jacob",
-            "last_name": "Toppin",
-            "current_position": "Forward",
-            "birthdate": "2000-04-15",
-            "debut_year": 2023,
-            "draft_year": 2023,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1631205.png"],
-            "bio": ["Brother of NBA player Obi Toppin", "Kentucky Wildcats alum", "Two-way contract player"]
-        },
-        {
-            "first_name": "Charlie",
-            "last_name": "Brown Jr.",
-            "current_position": "Guard-Forward",
-            "birthdate": "1997-02-02",
-            "debut_year": 2019,
-            "draft_year": 2019,
-            "active": true,
-            "photo_urls": ["https://cdn.nba.com/headshots/nba/latest/1040x760/1629718.png"],
-            "bio": ["Defensive specialist", "Saint Joseph's product", "Two-way contract player"]
-        }
-    ]
+  "team_name": "Knicks",
+  "players": [
+    {
+      "first_name": "Ochai",
+      "last_name": "Agbaji",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2000-04-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4397018.png"
+      ]
+    },
+    {
+      "first_name": "Jose",
+      "last_name": "Alvarado",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1998-04-12",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4277869.png"
+      ]
+    },
+    {
+      "first_name": "OG",
+      "last_name": "Anunoby",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1997-07-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3934719.png"
+      ]
+    },
+    {
+      "first_name": "Mikal",
+      "last_name": "Bridges",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1996-08-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3147657.png"
+      ]
+    },
+    {
+      "first_name": "Bruce",
+      "last_name": "Brown",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1996-08-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4065670.png"
+      ]
+    },
+    {
+      "first_name": "Jalen",
+      "last_name": "Brunson",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1996-08-31",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3934672.png"
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Clarkson",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1992-06-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/2528426.png"
+      ]
+    },
+    {
+      "first_name": "Pacome",
+      "last_name": "Dadiet",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2005-07-27",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5211983.png"
+      ]
+    },
+    {
+      "first_name": "Mohamed",
+      "last_name": "Diawara",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2005-04-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5289900.png"
+      ]
+    },
+    {
+      "first_name": "Andre",
+      "last_name": "Drummond",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1993-08-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/6585.png"
+      ]
+    },
+    {
+      "first_name": "Drew",
+      "last_name": "Eubanks",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1997-02-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3914285.png"
+      ]
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Hart",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1995-03-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3062679.png"
+      ]
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Kolek",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2001-03-27",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4433225.png"
+      ]
+    },
+    {
+      "first_name": "Miles",
+      "last_name": "McBride",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2000-09-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4431823.png"
+      ]
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "McCullar Jr.",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2001-03-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4411057.png"
+      ]
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Nickel",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2003-09-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4838721.png"
+      ]
+    },
+    {
+      "first_name": "Landry",
+      "last_name": "Shamet",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1997-03-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3914044.png"
+      ]
+    },
+    {
+      "first_name": "Karl-Anthony",
+      "last_name": "Towns",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1995-11-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3136195.png"
+      ]
+    },
+    {
+      "first_name": "James",
+      "last_name": "Wiseman",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2001-03-31",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4432808.png"
+      ]
+    }
+  ]
 }

@@ -1,4 +1,199 @@
 {
-    "team_name": "Hornets",
-    "players": []
+  "team_name": "Hornets",
+  "players": [
+    {
+      "first_name": "Grayson",
+      "last_name": "Allen",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1995-10-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3135045.png"
+      ]
+    },
+    {
+      "first_name": "Christian",
+      "last_name": "Anderson",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2006-04-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5060701.png"
+      ]
+    },
+    {
+      "first_name": "Kylan",
+      "last_name": "Boswell",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2005-04-18"
+    },
+    {
+      "first_name": "Pat",
+      "last_name": "Connaughton",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1993-01-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/2578239.png"
+      ]
+    },
+    {
+      "first_name": "Moussa",
+      "last_name": "Diabate",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2002-01-21",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4433249.png"
+      ]
+    },
+    {
+      "first_name": "Wyatt",
+      "last_name": "Fricks",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2002-11-17"
+    },
+    {
+      "first_name": "PJ",
+      "last_name": "Hall",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2002-02-21",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4701225.png"
+      ]
+    },
+    {
+      "first_name": "Sion",
+      "last_name": "James",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2002-12-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4602025.png"
+      ]
+    },
+    {
+      "first_name": "Jarkel",
+      "last_name": "Joiner",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1999-05-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4278729.png"
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Kalkbrenner",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2002-01-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4576060.png"
+      ]
+    },
+    {
+      "first_name": "Kon",
+      "last_name": "Knueppel",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2005-08-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5061575.png"
+      ]
+    },
+    {
+      "first_name": "Liam",
+      "last_name": "McNeeley",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2005-10-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5239590.png"
+      ]
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Miller",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2002-11-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4433287.png"
+      ]
+    },
+    {
+      "first_name": "Royce",
+      "last_name": "O'Neale",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1993-06-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/2583632.png"
+      ]
+    },
+    {
+      "first_name": "Naz",
+      "last_name": "Reid",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1999-08-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4396971.png"
+      ]
+    },
+    {
+      "first_name": "Tidjane",
+      "last_name": "Salaun",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2005-08-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5211176.png"
+      ]
+    },
+    {
+      "first_name": "Dennis",
+      "last_name": "Schroder",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1993-09-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3032979.png"
+      ]
+    },
+    {
+      "first_name": "Hannes",
+      "last_name": "Steinbach",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2006-05-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5281370.png"
+      ]
+    },
+    {
+      "first_name": "Coby",
+      "last_name": "White",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2000-02-16",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4395651.png"
+      ]
+    },
+    {
+      "first_name": "Grant",
+      "last_name": "Williams",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1998-11-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4066218.png"
+      ]
+    }
+  ]
 }

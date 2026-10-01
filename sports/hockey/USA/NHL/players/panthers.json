@@ -1,4 +1,235 @@
 {
-    "team_name": "Panthers",
-    "players": []
+  "team_name": "Panthers",
+  "players": [
+    {
+      "first_name": "Uvis",
+      "last_name": "Balinskis",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-08-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5142461.png"
+      ]
+    },
+    {
+      "first_name": "Aleksander",
+      "last_name": "Barkov",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1995-09-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3041970.png"
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Bennett",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1996-06-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3114732.png"
+      ]
+    },
+    {
+      "first_name": "Aaron",
+      "last_name": "Ekblad",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-02-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3114717.png"
+      ]
+    },
+    {
+      "first_name": "Lars",
+      "last_name": "Eller",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1989-05-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3946.png"
+      ]
+    },
+    {
+      "first_name": "Gustav",
+      "last_name": "Forsling",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-06-12",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3151784.png"
+      ]
+    },
+    {
+      "first_name": "Jonah",
+      "last_name": "Gadjovich",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1998-10-12",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233890.png"
+      ]
+    },
+    {
+      "first_name": "Radko",
+      "last_name": "Gudas",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1990-06-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5502.png"
+      ]
+    },
+    {
+      "first_name": "Garnet",
+      "last_name": "Hathaway",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1991-11-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3149633.png"
+      ]
+    },
+    {
+      "first_name": "Bokondji",
+      "last_name": "Imama",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1996-08-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3939856.png"
+      ]
+    },
+    {
+      "first_name": "Seth",
+      "last_name": "Jones",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1994-10-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3041992.png"
+      ]
+    },
+    {
+      "first_name": "Dmitry",
+      "last_name": "Kulikov",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1990-10-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5328.png"
+      ]
+    },
+    {
+      "first_name": "Anton",
+      "last_name": "Lundell",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2001-10-03",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697395.png"
+      ]
+    },
+    {
+      "first_name": "Eetu",
+      "last_name": "Luostarinen",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1998-09-02",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233877.png"
+      ]
+    },
+    {
+      "first_name": "Brad",
+      "last_name": "Marchand",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1988-05-11",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3852.png"
+      ]
+    },
+    {
+      "first_name": "Jacob",
+      "last_name": "Markstrom",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1990-01-31",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5452.png"
+      ]
+    },
+    {
+      "first_name": "Niko",
+      "last_name": "Mikkola",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-04-27",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3942354.png"
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Reinhart",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1995-11-06",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3114722.png"
+      ]
+    },
+    {
+      "first_name": "Akira",
+      "last_name": "Schmid",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "2000-05-12",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4587845.png"
+      ]
+    },
+    {
+      "first_name": "Brady",
+      "last_name": "Tkachuk",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1999-09-16",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4319858.png"
+      ]
+    },
+    {
+      "first_name": "Matthew",
+      "last_name": "Tkachuk",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1997-12-11",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4024854.png"
+      ]
+    },
+    {
+      "first_name": "Carter",
+      "last_name": "Verhaeghe",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1995-08-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3042088.png"
+      ]
+    },
+    {
+      "first_name": "Sandis",
+      "last_name": "Vilmanis",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2004-01-23",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5103599.png"
+      ]
+    }
+  ]
 }

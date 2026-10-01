@@ -1,4 +1,196 @@
 {
-    "team_name": "Raptors",
-    "players": []
+  "team_name": "Raptors",
+  "players": [
+    {
+      "first_name": "Kyle",
+      "last_name": "Anderson",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1993-09-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/2993874.png"
+      ]
+    },
+    {
+      "first_name": "Scottie",
+      "last_name": "Barnes",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2001-08-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4433134.png"
+      ]
+    },
+    {
+      "first_name": "RJ",
+      "last_name": "Barrett",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2000-06-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4395625.png"
+      ]
+    },
+    {
+      "first_name": "Jamison",
+      "last_name": "Battle",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2001-05-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4431893.png"
+      ]
+    },
+    {
+      "first_name": "Nate",
+      "last_name": "Bittle",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2003-06-03"
+    },
+    {
+      "first_name": "Jaden",
+      "last_name": "Bradley",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2003-09-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4432737.png"
+      ]
+    },
+    {
+      "first_name": "Allen",
+      "last_name": "Graves",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2006-07-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5149115.png"
+      ]
+    },
+    {
+      "first_name": "Chucky",
+      "last_name": "Hepburn",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2003-02-09",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4590360.png"
+      ]
+    },
+    {
+      "first_name": "Andre",
+      "last_name": "Jackson Jr.",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2001-11-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4432190.png"
+      ]
+    },
+    {
+      "first_name": "Trayce",
+      "last_name": "Jackson-Davis",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2000-02-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4431684.png"
+      ]
+    },
+    {
+      "first_name": "Trey",
+      "last_name": "Jemison III",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1999-11-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4395623.png"
+      ]
+    },
+    {
+      "first_name": "Tyreke",
+      "last_name": "Key",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1998-10-29"
+    },
+    {
+      "first_name": "Kawhi",
+      "last_name": "Leonard",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "1991-06-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/6450.png"
+      ]
+    },
+    {
+      "first_name": "Alijah",
+      "last_name": "Martin",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2001-12-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4702656.png"
+      ]
+    },
+    {
+      "first_name": "Collin",
+      "last_name": "Murray-Boyles",
+      "active": true,
+      "current_position": "Forward",
+      "birthdate": "2005-06-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/5093267.png"
+      ]
+    },
+    {
+      "first_name": "Jakob",
+      "last_name": "Poeltl",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1995-10-15",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/3134908.png"
+      ]
+    },
+    {
+      "first_name": "Immanuel",
+      "last_name": "Quickley",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1999-06-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4395724.png"
+      ]
+    },
+    {
+      "first_name": "Jamal",
+      "last_name": "Shead",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2002-07-24",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4432241.png"
+      ]
+    },
+    {
+      "first_name": "Malachi",
+      "last_name": "Smith",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "1999-12-06"
+    },
+    {
+      "first_name": "Ja'Kobe",
+      "last_name": "Walter",
+      "active": true,
+      "current_position": "Guard",
+      "birthdate": "2004-09-04",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nba/players/full/4684272.png"
+      ]
+    }
+  ]
 }

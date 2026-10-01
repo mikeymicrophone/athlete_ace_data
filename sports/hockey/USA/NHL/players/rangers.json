@@ -1,4 +1,259 @@
 {
-    "team_name": "Rangers",
-    "players": []
+  "team_name": "Rangers",
+  "players": [
+    {
+      "first_name": "Oliver",
+      "last_name": "Bjorkstrand",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1995-04-10",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3042095.png"
+      ]
+    },
+    {
+      "first_name": "Jaroslav",
+      "last_name": "Chmelar",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2003-07-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5188348.png"
+      ]
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Cuylle",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2002-02-05",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697468.png"
+      ]
+    },
+    {
+      "first_name": "Pavel",
+      "last_name": "Dorofeyev",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2000-10-26",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4587588.png"
+      ]
+    },
+    {
+      "first_name": "Sean",
+      "last_name": "Durzi",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1998-10-21",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4378683.png"
+      ]
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Fox",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1998-02-17",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4197146.png"
+      ]
+    },
+    {
+      "first_name": "Vladislav",
+      "last_name": "Gavrikov",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1995-11-21",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3942292.png"
+      ]
+    },
+    {
+      "first_name": "Vincent",
+      "last_name": "Iorio",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2002-11-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4874915.png"
+      ]
+    },
+    {
+      "first_name": "Tye",
+      "last_name": "Kartye",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2001-04-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4588750.png"
+      ]
+    },
+    {
+      "first_name": "Joonas",
+      "last_name": "Korpisalo",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1994-04-28",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3069266.png"
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Laba",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2003-08-04"
+    },
+    {
+      "first_name": "Alexis",
+      "last_name": "Lafreniere",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2001-10-11",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697382.png"
+      ]
+    },
+    {
+      "first_name": "J.T.",
+      "last_name": "Miller",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "1993-03-14",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2590852.png"
+      ]
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Morrow",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2002-11-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4874882.png"
+      ]
+    },
+    {
+      "first_name": "Gabe",
+      "last_name": "Perreault",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "2005-05-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5149204.png"
+      ]
+    },
+    {
+      "first_name": "Marcus",
+      "last_name": "Pettersson",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1996-05-08",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3114995.png"
+      ]
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Rempe",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2002-06-29",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697820.png"
+      ]
+    },
+    {
+      "first_name": "Matthew",
+      "last_name": "Robertson",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2001-03-09",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4565272.png"
+      ]
+    },
+    {
+      "first_name": "Braden",
+      "last_name": "Schneider",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2001-09-20",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4697402.png"
+      ]
+    },
+    {
+      "first_name": "Igor",
+      "last_name": "Shesterkin",
+      "active": true,
+      "current_position": "Goaltender",
+      "birthdate": "1995-12-30",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/3151297.png"
+      ]
+    },
+    {
+      "first_name": "Alberts",
+      "last_name": "Smits",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "2007-12-02"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Sykora",
+      "active": true,
+      "current_position": "Left Wing",
+      "birthdate": "2004-09-07",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/5080232.png"
+      ]
+    },
+    {
+      "first_name": "Eeli",
+      "last_name": "Tolvanen",
+      "active": true,
+      "current_position": "Right Wing",
+      "birthdate": "1999-04-22",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233720.png"
+      ]
+    },
+    {
+      "first_name": "Urho",
+      "last_name": "Vaakanainen",
+      "active": true,
+      "current_position": "Defense",
+      "birthdate": "1999-01-01",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4233619.png"
+      ]
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Veleno",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "2000-01-13",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/4352804.png"
+      ]
+    },
+    {
+      "first_name": "Mika",
+      "last_name": "Zibanejad",
+      "active": true,
+      "current_position": "Center",
+      "birthdate": "1993-04-18",
+      "photo_urls": [
+        "https://a.espncdn.com/i/headshots/nhl/players/full/2562637.png"
+      ]
+    }
+  ]
 }
