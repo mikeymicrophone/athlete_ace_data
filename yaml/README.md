@@ -53,7 +53,9 @@ Annual display name, territory, mascot, and abbreviation belong to Campaign. The
 
 Country jurisdiction references follow the current JSON catalog's United States/United Kingdom scope. They do not assert exclusive participation geography or conflate the English football pyramid with all UK football. No stadium, city, division, conference, logo, or contract facts have been invented to fill missing fields.
 
-`entity_sequences.yaml` is a standalone, exactly two-level registry. Its string keys `"01"`/`"10"` form external sequence `01_10`; zero padding is preserved. The initial sequence is `[Sport, League, Conference, Division, Year, Team]`, with smaller profiles added for optional scoped lookup. Canonical definition codes are issued references and are not pure positional sequence strings, so this pilot does not apply `entity_sequence` annotations to them. Underscores stay inside components such as `HART_JOSH` and `SEASON_2022_2023`; dashes separate components.
+`entity_sequences.yaml` keeps numeric recipes in exactly two levels. Its string keys `"01"`/`"10"` form external sequence `01_10`; zero padding is preserved. Optional `terminology` names the numbers: family `athletes` is 5 and member `season_roster` is 22, so the named pair resolves to `05_22`. Member names are scoped to their family. The initial sequence is `[Sport, League, Conference, Division, Year, Team]`, with smaller profiles added for optional scoped lookup. Canonical definition codes are issued references and are not pure positional sequence strings, so this pilot does not apply `entity_sequence` annotations to them. Underscores stay inside components such as `HART_JOSH` and `SEASON_2022_2023`; dashes separate components.
+
+For subsequent manifests, `entity_sequence: "05_22"`, `[5, 22]`, and `[athletes, season_roster]` select the same lookup. Alternatively set a family at file scope (`entity_sequence: athletes`) and members in groups (`entity_sequence: season_roster`). A member must be selected before records are defined. Names do not change the issued code or recipe meaning.
 
 ## Evidence and replay boundary
 
