@@ -1,0 +1,7 @@
+"01":
+  "10": [Sport, League, Conference, Division, Year, Team]
+  "11": [Sport, League, Year, Team]
+  "12": [Sport, League, Year]
+  "13": [Sport, League, Team]
+"05":
+  "22": [Sport, League, Team, Year, Player]
