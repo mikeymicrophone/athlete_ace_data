@@ -1718,6 +1718,16 @@
                     }
                   ]
                 },
+                "text_color": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
                 "url": {
                   "anyOf": [
                     {
