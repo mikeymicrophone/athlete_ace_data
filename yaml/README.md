@@ -1,10 +1,24 @@
 # YAML seasonal catalog pilot
 
-This is a sourced sample for `micharisma-seeds/v1`, namespace `MIC`, catalog `ALA`. It adds new YAML files alongside the existing JSON library. It is not a complete roster catalog or an assertion that all four leagues are ready for launch.
+This is a sourced catalog for `micharisma-seeds/v1`, namespace `MIC`, catalog `ALA`. It adds YAML files alongside the existing JSON library. The original small pilot is retained, with latest completed-season team/player coverage under `coverage_2025/`.
 
 The ten completed main-league seasons are NBA, NHL, and EPL `2016_2017` through `2025_2026`, plus NFL `2016` through `2025`. One additional Championship season supports Fulham's promotion example. `Season.label` preserves the complete label. Its `year` reference is the starting calendar year; an NFL label uses that season's designated year. Calendar dates are omitted rather than inferred.
 
 ## Coverage
+
+The expansion supplies all 114 teams for NBA/NHL/EPL `2025_2026` and NFL `2025`: 30 NBA, 32 NFL, 32 NHL, and 20 EPL. Every team has at least two source-listed players in that season's Campaign. The Knicks and 49ers have every name in their captured official roster listings; the Blues have every skater/goalie with a regular-season appearance in the official archive. The base `coverage_2025/` manifests select two players for other teams. The [Play supplement](play_roster_expansion/README.md) adds the remaining captured NBA and NHL lists, so their teams have full captured source coverage when the whole library is imported. NFL and EPL retain their original sampling boundaries. Campaign `details.roster_coverage` distinguishes `complete_source_listing` from `two_player_sample`.
+
+The October 5 capture selects 18 Knicks, 101 49ers, and 35 Blues players. The latest-season groups contain 376 memberships. Before the participation extension, coverage and pilot history together contain 361 distinct Players, 124 Campaigns, 382 Activations, and 1,048 code bindings across 1,043 definitions.
+
+See [the capture and generator instructions](../sources/README.md) for source boundaries, offline regeneration, and refresh. A captured NBA roster, NFL roster sitemap, NHL season appearance list, and EPL senior registration list have different meanings; complete source coverage does not imply identical eligibility or appearance claims. This expansion does not supply complete rosters for all ten historical seasons.
+
+`participation/` adds 114 sporting-club Organizations and primary-team affiliations, 82 NBA/NFL/EPL roster observations with 279 entries, and a sourced NHL history sample. Organization names represent sporting clubs and do not assert corporate ownership. Affiliation dates are unknown; minor affiliate coverage is still to be supplied.
+
+The Leddy sample adds the March 2022 trade and assignment, July contract extension, a real March 22 game with his statistics, and a partial two-player October opening-night roster. The precise contract dates, stint end, and starter status remain unknown. Its 2022 extension is not treated as the original contract for the earlier stint. The trade's movement coverage is explicitly partial. NHL season-statistics participants remain Activations; they do not become invented roster observations or games.
+
+The full recursive catalog now has 23 manifests, 4,534 definitions, and 4,539 code bindings: 114 Teams, 1,766 Players, 126 Campaigns, 1,864 Activations, 114 Organizations, 114 affiliations, 83 Rosters, 281 entries, one Contract, two Transactions and player movements, one Stint, one game Contest, two Contestants, and one Appearance, plus the original geography/sport/season anchors.
+
+The original root-level pilot has these counts:
 
 | Records | Count | Coverage |
 | --- | ---: | --- |
@@ -65,4 +79,4 @@ The membership examples cite the [Knicks Hart announcement](https://www.nba.com/
 
 Ordinary replay must create missing records, retain existing values and memberships, add conflict-free aliases, and report differences. An omitted player is not a deletion instruction. The source-backed files support a preservation-oriented importer; the data alone does not make the legacy JSON seeders preservation-safe, reconcile duplicate live franchises, or alter existing database associations.
 
-The AthleteAce integration tests import this whole pilot into the test database and verify replay, file relocation, preserved edits, missing-row reconstruction with changed numeric IDs, and the sample seasonal relationships. The development and deployed databases are not altered by those tests. See AthleteAce's `docs/yaml-seed-library.md` for import commands and remaining launch work.
+The AthleteAce integration tests import the original root-level pilot and verify replay, file relocation, preserved edits, missing-row reconstruction with changed numeric IDs, and the sample seasonal relationships. Expanded-catalog tests import every manifest recursively and verify all team counts, selected memberships against the capture, complete coverage for the three chosen teams, and reversed-order replay. These tests use the test database. See AthleteAce's `docs/yaml-seed-library.md` for import commands and remaining launch work.
