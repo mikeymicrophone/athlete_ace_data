@@ -32,3 +32,9 @@ Refresh requires network access and Nokogiri from AthleteAce's bundle. It reject
 `yaml/participation/nhl_leddy_history.yaml` is a hand-reviewed historical sample using the Blues' March 21, 2022 trade announcement, July 13 contract-extension announcement, and October 11 opening-night roster announcement. Those primary source URLs and publication dates are kept in the manifest. The trade's player movement coverage is partial; omitted trade participants are not deletion instructions. The contract's exact legal date bounds are not inferred from its announcement.
 
 `leddy_game_20220322.json` captures the relevant facts from the NHL's archived gamecenter boxscore for game 2021021008. It stores the official game date, season/type, teams/scores, and Leddy's player statistics. The manifest selects his goals, assists, points, shots, time on ice, and jersey number. Unknown starter status is left unset. It does not expand season statistics into game appearances.
+
+## Player photo references
+
+`nba_player_photos.json` records 17 official NBA headshot URLs for players in the captured Knicks roster. Provider IDs come from `coverage_2025.json`. The headshot URL pattern was observed on the [official Jalen Brunson page](https://www.nba.com/player/1628973/jalen-brunson), and each saved URL returned an image content type to a HEAD request on the capture date. No image files are downloaded. The coverage generator applies these URLs to existing Player definitions with per-record source metadata. These references add no current-team assignments or eligibility claims.
+
+Offline regeneration uses `scripts/build_coverage_2025.rb`. The source JSON retains the verified URLs so seed replay does not make network requests. Reverify URLs before updating that capture; remote latest headshots can change and do not establish historical jersey details.

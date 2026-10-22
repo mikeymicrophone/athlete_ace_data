@@ -183,6 +183,8 @@ class Coverage2025
   def run
     capture if ARGV.include?("--refresh")
     document = JSON.parse(File.read(CAPTURE))
+    photo_capture = JSON.parse(File.read(File.join(ROOT, "sources/nba_player_photos.json")))
+    photos = photo_capture.fetch("players").to_h { |player| [player.fetch("source_key"), player] }
     existing = Dir.glob(File.join(ROOT, "yaml/*.yaml")).reject { |path| path.end_with?("entity_sequences.yaml") }.flat_map do |path|
       YAML.safe_load_file(path).fetch("groups").flat_map { |group| group.fetch("records", []) }
     end
@@ -221,8 +223,14 @@ class Coverage2025
           identities[alias_code] = identity
           player_code = known.fetch(alias_code, alias_code)
           unless known.key?(alias_code)
-            records << { "type" => "Player", "code" => player_code,
+            record = { "type" => "Player", "code" => player_code,
               "attributes" => player.slice("first_name", "last_name", "birthdate"), "references" => { "sport" => "SPORT-#{config.fetch(:sport)}" } }
+            if league == "NBA" && (photo = photos[player.fetch("source_key")])
+              record.fetch("attributes")["photo_urls"] = [photo.fetch("photo_url")]
+              record["source"] = {"url" => photo.fetch("profile_url"), "captured_on" => photo_capture.fetch("captured_on"),
+                "note" => "Official NBA photo URL verified as an image response. Player identity comes from the recorded NBA source_key."}
+            end
+            records << record
             known[alias_code] = player_code
           end
           records << { "type" => "Activation", "code" => "#{campaign_code}-PLAYER-#{alias_code.split('-PLAYER-').last}",
