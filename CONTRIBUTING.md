@@ -18,3 +18,9 @@ To check particular files, pass their paths to the last command. The PR workflow
 The [published schemas](schemas/README.md) provide field completion, descriptions, and structural checks for YAML and JSON. VS Code associations are included; YAML support requires the Red Hat YAML extension. The same schema files work with other JSON Schema 2020-12 tools. Source data need not contain a `$schema` property (the seed reader rejects unknown envelope fields).
 
 Passing these checks verifies document structure, catalog field names/types, and code syntax. It does not establish factual accuracy, resolve references or people, apply inherited defaults, validate staged sequence choices, or prove replay behavior. Maintainers run the application's semantic validation and import tests before accepting changes that affect those rules.
+
+## Curated player groups
+
+Use `PlayerGroup` for a named list and `PlayerGroupMembership` for each explicit player. See [the Brunson/Hart example](yaml/player_groups/knicks_names.yaml). References use `player_group` and `player` codes. Members can be inactive or belong to different teams or sports. Groups do not evaluate queries or infer starter status.
+
+Import replay preserves edited group fields, adds missing memberships, and does not remove memberships omitted from a manifest. Removing a seeded member requires both a manifest edit and an explicit removal from the application.

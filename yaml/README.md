@@ -16,7 +16,7 @@ See [the capture and generator instructions](../sources/README.md) for source bo
 
 The Leddy sample adds the March 2022 trade and assignment, July contract extension, a real March 22 game with his statistics, and a partial two-player October opening-night roster. The precise contract dates, stint end, and starter status remain unknown. Its 2022 extension is not treated as the original contract for the earlier stint. The trade's movement coverage is explicitly partial. NHL season-statistics participants remain Activations; they do not become invented roster observations or games.
 
-The full recursive catalog now has 23 manifests, 4,534 definitions, and 4,539 code bindings: 114 Teams, 1,766 Players, 126 Campaigns, 1,864 Activations, 114 Organizations, 114 affiliations, 83 Rosters, 281 entries, one Contract, two Transactions and player movements, one Stint, one game Contest, two Contestants, and one Appearance, plus the original geography/sport/season anchors.
+The full recursive catalog now has 24 manifests, 4,537 definitions, and 4,542 code bindings: 114 Teams, 1,766 Players, 126 Campaigns, 1,864 Activations, 114 Organizations, 114 affiliations, 83 Rosters, 281 entries, one Contract, two Transactions and player movements, one Stint, one game Contest, two Contestants, and one Appearance, plus the original geography/sport/season anchors.
 
 The original root-level pilot has these counts:
 

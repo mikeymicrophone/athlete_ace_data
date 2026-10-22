@@ -764,6 +764,36 @@
         "team"
       ]
     },
+    "PlayerGroup": {
+      "attributes": {
+        "description": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "details": {},
+        "name": {
+          "type": "string"
+        },
+        "source": {}
+      },
+      "references": []
+    },
+    "PlayerGroupMembership": {
+      "attributes": {
+        "details": {},
+        "source": {}
+      },
+      "references": [
+        "player",
+        "player_group"
+      ]
+    },
     "Roster": {
       "attributes": {
         "coverage": {
