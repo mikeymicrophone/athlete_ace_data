@@ -1,5 +1,7 @@
 # Contributing seed data
 
+The `pseudo` branch also includes a [generated fictional league bundle](pseudo/README.md). It is selected explicitly and has separate validation commands.
+
 Prefer `.yml` for new maintained seeds. `.yaml` and `.json` are equally accepted inputs using the same `micharisma-seeds/v1` structure. Add manifests beneath `yaml/`; directory and file names only organize input, never determine entity identity. Existing legacy JSON files elsewhere are a separate format and are not checked by this workflow.
 
 Use `scope` once per file or nested group for shared context. Use semantic codes in `references`, not numeric database IDs. URLs and timestamps are optional. Do not add ERB, custom YAML tags, aliases/merge keys, duplicate mapping keys, or multiple YAML documents. Quote date/identifier strings when their interpretation could be ambiguous.
