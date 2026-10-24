@@ -1,0 +1,209 @@
+{
+  "type": "object",
+  "properties": {
+    "format": {
+      "const": "micharisma-seeds/v1"
+    },
+    "namespace": {
+      "$ref": "#/$defs/token"
+    },
+    "catalog": {
+      "$ref": "#/$defs/token"
+    },
+    "scope": {
+      "$ref": "#/$defs/scope"
+    },
+    "source": {
+      "$ref": "#/$defs/source"
+    },
+    "entity_sequence": {
+      "$ref": "#/$defs/sequence"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/record"
+      }
+    },
+    "groups": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/group"
+      }
+    }
+  },
+  "required": [
+    "format",
+    "namespace",
+    "catalog"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/mikeymicrophone/athlete_ace_data/main/schemas/v1/manifest.schema.json",
+  "$defs": {
+    "code": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_]+(?:-[A-Za-z0-9_]+)*$(?![\\s\\S])"
+    },
+    "token": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_]+$(?![\\s\\S])"
+    },
+    "scope": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[A-Za-z][A-Za-z0-9_]*$(?![\\s\\S])"
+      },
+      "additionalProperties": {
+        "anyOf": [
+          {
+            "type": "string",
+            "pattern": "\\S"
+          },
+          {
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    "source": {
+      "type": "object",
+      "description": "Optional source metadata; URLs and timestamps are not required."
+    },
+    "sequence": {
+      "description": "Numeric or named selection; staged family/member choices are interpreted by the reader.",
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 99
+        },
+        {
+          "type": "string",
+          "pattern": "^(?:[0-9]{1,2}_[0-9]{1,2}|[A-Za-z][A-Za-z0-9_]*)$(?![\\s\\S])"
+        },
+        {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 2,
+          "items": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 99
+              },
+              {
+                "type": "string",
+                "pattern": "^(?:[0-9]{1,2}|[A-Za-z][A-Za-z0-9_]*)$(?![\\s\\S])"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "reference": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/code"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "code": {
+              "$ref": "#/$defs/code"
+            },
+            "entity_sequence": {
+              "$ref": "#/$defs/sequence"
+            },
+            "scope": {
+              "$ref": "#/$defs/scope"
+            },
+            "namespace": {
+              "$ref": "#/$defs/token"
+            },
+            "catalog": {
+              "$ref": "#/$defs/token"
+            }
+          },
+          "required": [
+            "code"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "record": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]*$(?![\\s\\S])"
+        },
+        "code": {
+          "$ref": "#/$defs/code"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/code"
+          },
+          "uniqueItems": true
+        },
+        "attributes": {
+          "type": "object"
+        },
+        "references": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/reference"
+          }
+        },
+        "scope": {
+          "$ref": "#/$defs/scope"
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "entity_sequence": {
+          "$ref": "#/$defs/sequence"
+        }
+      },
+      "required": [
+        "type",
+        "code"
+      ],
+      "additionalProperties": false
+    },
+    "group": {
+      "type": "object",
+      "properties": {
+        "scope": {
+          "$ref": "#/$defs/scope"
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "entity_sequence": {
+          "$ref": "#/$defs/sequence"
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/record"
+          }
+        },
+        "groups": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/group"
+          }
+        }
+      },
+      "required": [],
+      "additionalProperties": false
+    }
+  },
+  "title": "MICharisma seed manifest v1",
+  "description": "YAML and JSON input contract. Scope may be inherited; relationships and replay policy require application validation."
+}

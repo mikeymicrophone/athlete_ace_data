@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/mikeymicrophone/athlete_ace_data/main/schemas/v1/entity-sequences.schema.json",
+  "title": "Entity sequence registry v1",
+  "type": "object",
+  "additionalProperties": false,
+  "patternProperties": {
+    "^[0-9]{1,2}$(?![\\s\\S])": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^[0-9]{1,2}$(?![\\s\\S])": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]*$(?![\\s\\S])"
+          }
+        }
+      }
+    }
+  },
+  "properties": {
+    "terminology": {
+      "type": "object",
+      "properties": {
+        "families": {
+          "type": "object",
+          "propertyNames": {
+            "pattern": "^[A-Za-z][A-Za-z0-9_]*$(?![\\s\\S])"
+          },
+          "additionalProperties": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 99
+              },
+              {
+                "type": "string",
+                "pattern": "^[0-9]{1,2}$(?![\\s\\S])"
+              }
+            ]
+          }
+        },
+        "sequences": {
+          "type": "object",
+          "additionalProperties": false,
+          "patternProperties": {
+            "^[0-9]{1,2}$(?![\\s\\S])": {
+              "type": "object",
+              "propertyNames": {
+                "pattern": "^[A-Za-z][A-Za-z0-9_]*$(?![\\s\\S])"
+              },
+              "additionalProperties": {
+                "anyOf": [
+                  {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 99
+                  },
+                  {
+                    "type": "string",
+                    "pattern": "^[0-9]{1,2}$(?![\\s\\S])"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "required": [],
+      "additionalProperties": false
+    }
+  }
+}
