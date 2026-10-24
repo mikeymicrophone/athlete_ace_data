@@ -24,10 +24,10 @@ class PseudoCatalogTest(unittest.TestCase):
         expected = {"League": 3, "Season": 9, "Team": 24, "Conference": 6,
                     "Division": 12, "Campaign": 72, "Player": 472,
                     "Contract": 1416, "Activation": 1416, "Stint": 1416,
-                    "Game": 567, "ContestGame": 567, "TitleAward": 18}
+                    "Game": 567, "ContestGame": 567, "TitleAward": 18,
+                    "Roster": 390, "RosterEntry": 4680, "Appearance": 3510}
         for kind, count in expected.items():
             self.assertEqual(len(self.by_type[kind]), count, kind)
-        self.assertNotIn("Appearance", self.by_type)
         for record in self.records:
             for reference in record["references"].values():
                 self.assertIn(reference, self.by_code, record["code"])
@@ -100,6 +100,94 @@ class PseudoCatalogTest(unittest.TestCase):
         for award in self.by_type["TitleAward"]:
             winner = self.by_code[award["references"]["winner"]]
             self.assertEqual(winner["references"]["contest"], award["references"]["contest"])
+
+
+    def test_game_rosters_match_the_assignment_player_and_game_date(self):
+        rosters = {r["code"]: r for r in self.by_type["Roster"]}
+        by_roster = defaultdict(list)
+        for entry in self.by_type["RosterEntry"]:
+            refs = entry["references"]
+            roster = rosters[refs["roster"]]
+            stint = self.by_code[refs["stint"]]
+            self.assertEqual(refs["player"], stint["references"]["player"])
+            campaign = self.by_code[roster["references"]["campaign"]]
+            self.assertEqual(campaign["references"]["team"], stint["references"]["team"])
+            date_on = roster["attributes"]["effective_on"]
+            self.assertLessEqual(stint["attributes"]["start_date"], date_on)
+            self.assertGreaterEqual(stint["attributes"]["end_date"], date_on)
+            by_roster[roster["code"]].append(entry)
+        for roster in rosters.values():
+            details = roster["attributes"]["details"]
+            contestant = self.by_code[details["contestant_code"]]
+            game = self.by_code[details["game_code"]]
+            self.assertEqual(contestant["references"]["contest"], game["code"])
+            self.assertEqual(contestant["references"]["campaign"], roster["references"]["campaign"])
+            self.assertEqual(game["attributes"]["begin_date"], roster["attributes"]["effective_on"])
+            entries = by_roster[roster["code"]]
+            self.assertEqual(len(entries), 12)
+            self.assertEqual(len({e["references"]["player"] for e in entries}), 12)
+            self.assertEqual(Counter(e["attributes"]["status"] for e in entries), {"active": 10, "inactive": 2})
+
+    def test_box_scores_match_rosters_points_minutes_and_starters(self):
+        appearances = defaultdict(list)
+        for appearance in self.by_type["Appearance"]:
+            appearances[appearance["references"]["contestant"]].append(appearance)
+            stats = appearance["attributes"]["statistics"]
+            self.assertTrue(all(isinstance(value, int) and value >= 0 for value in stats.values()))
+            self.assertGreater(stats["minutes"], 0)
+            self.assertLessEqual(stats["minutes"], 48)
+            for made, attempted in (("field_goals_made", "field_goals_attempted"),
+                                    ("three_pointers_made", "three_pointers_attempted"),
+                                    ("free_throws_made", "free_throws_attempted")):
+                self.assertLessEqual(stats[made], stats[attempted])
+            self.assertLessEqual(stats["three_pointers_made"], stats["field_goals_made"])
+            self.assertLessEqual(stats["three_pointers_attempted"], stats["field_goals_attempted"])
+            self.assertLessEqual(stats["field_goals_made"] - stats["three_pointers_made"],
+                                 stats["field_goals_attempted"] - stats["three_pointers_attempted"])
+            self.assertEqual(stats["points"], 2 * stats["field_goals_made"] +
+                             stats["three_pointers_made"] + stats["free_throws_made"])
+        entries = defaultdict(list)
+        for entry in self.by_type["RosterEntry"]:
+            entries[entry["references"]["roster"]].append(entry)
+        for roster in self.by_type["Roster"]:
+            contestant_code = roster["attributes"]["details"]["contestant_code"]
+            actual = appearances[contestant_code]
+            self.assertEqual(len(actual), 9)
+            self.assertEqual(sum(a["attributes"]["starter"] for a in actual), 5)
+            self.assertEqual(sum(a["attributes"]["statistics"]["minutes"] for a in actual), 240)
+            self.assertEqual(sum(a["attributes"]["statistics"]["points"] for a in actual),
+                             self.by_code[contestant_code]["attributes"]["tiebreakers"]["score"])
+            players = {a["references"]["player"]: a for a in actual}
+            dnp_count = 0
+            for entry in entries[roster["code"]]:
+                player = entry["references"]["player"]
+                if player in players:
+                    self.assertEqual(entry["attributes"]["status"], "active")
+                    self.assertEqual(entry["attributes"]["details"]["participation"], "played")
+                    self.assertEqual(entry["references"]["stint"], players[player]["references"]["stint"])
+                    self.assertEqual(entry["attributes"]["jersey_number"], players[player]["attributes"]["jersey_number"])
+                else:
+                    self.assertEqual(entry["attributes"]["details"]["participation"], "did_not_play")
+                    dnp_count += entry["attributes"]["status"] == "active"
+            self.assertEqual(dnp_count, 1)
+        self.assertEqual(len(appearances), 390)
+
+    def test_injured_players_return_under_the_same_contract_and_stint(self):
+        timelines = defaultdict(list)
+        for entry in self.by_type["RosterEntry"]:
+            roster = self.by_code[entry["references"]["roster"]]
+            timelines[entry["references"]["stint"]].append((roster["attributes"]["effective_on"], entry))
+        returned = 0
+        for stint, timeline in timelines.items():
+            injured = [day for day, entry in timeline
+                       if entry["attributes"]["details"].get("reason") == "ankle_soreness"]
+            if injured:
+                played = [day for day, entry in timeline
+                          if entry["attributes"]["details"]["participation"] == "played"]
+                if played and max(played) > min(injured):
+                    self.assertIn("contract", self.by_code[stint]["references"])
+                    returned += 1
+        self.assertGreaterEqual(returned, 200)
 
 
 if __name__ == "__main__":
