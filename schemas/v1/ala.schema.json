@@ -543,6 +543,7 @@
                     }
                   ]
                 },
+                "format_rules": {},
                 "kind": {
                   "anyOf": [
                     {
@@ -577,6 +578,34 @@
                   "$ref": "#/$defs/reference"
                 },
                 "season": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
+              "const": "ContestGame"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "metadata": {}
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "contest": {
+                  "$ref": "#/$defs/reference"
+                },
+                "game": {
                   "$ref": "#/$defs/reference"
                 }
               },
@@ -802,6 +831,170 @@
               "type": "object",
               "properties": {
                 "conference": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
+              "const": "Federation"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "abbreviation": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "description": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "logo_url": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "name": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "url": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {},
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
+              "const": "Game"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "begin_date": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "comments": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "description": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "details": {},
+                "end_date": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "format_rules": {},
+                "kind": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "name": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "champion": {
+                  "$ref": "#/$defs/reference"
+                },
+                "context": {
+                  "$ref": "#/$defs/reference"
+                },
+                "season": {
                   "$ref": "#/$defs/reference"
                 }
               },
@@ -1867,6 +2060,52 @@
                   "$ref": "#/$defs/reference"
                 },
                 "stadium": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
+              "const": "TitleAward"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "awarded_on": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "details": {},
+                "key": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "source": {}
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "contest": {
+                  "$ref": "#/$defs/reference"
+                },
+                "winner": {
                   "$ref": "#/$defs/reference"
                 }
               },

@@ -261,6 +261,7 @@
             }
           ]
         },
+        "format_rules": {},
         "kind": {
           "anyOf": [
             {
@@ -286,6 +287,15 @@
         "champion",
         "context",
         "season"
+      ]
+    },
+    "ContestGame": {
+      "attributes": {
+        "metadata": {}
+      },
+      "references": [
+        "contest",
+        "game"
       ]
     },
     "Contestant": {
@@ -439,6 +449,134 @@
       },
       "references": [
         "conference"
+      ]
+    },
+    "Federation": {
+      "attributes": {
+        "abbreviation": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "description": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "logo_url": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "name": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "url": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "references": []
+    },
+    "Game": {
+      "attributes": {
+        "begin_date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "comments": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "description": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "details": {},
+        "end_date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "format_rules": {},
+        "kind": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "name": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "references": [
+        "champion",
+        "context",
+        "season"
       ]
     },
     "JerseyNumberAssignment": {
@@ -1219,6 +1357,33 @@
       "references": [
         "league",
         "stadium"
+      ]
+    },
+    "TitleAward": {
+      "attributes": {
+        "awarded_on": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "details": {},
+        "key": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "source": {}
+      },
+      "references": [
+        "contest",
+        "winner"
       ]
     },
     "Transaction": {
