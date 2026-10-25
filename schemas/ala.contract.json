@@ -782,6 +782,18 @@
         "team"
       ]
     },
+    "Person": {
+      "attributes": {
+        "details": {},
+        "name": {
+          "type": "string"
+        },
+        "source": {}
+      },
+      "references": [
+        "player"
+      ]
+    },
     "Player": {
       "attributes": {
         "active": {
@@ -1177,6 +1189,51 @@
       },
       "references": [
         "city"
+      ]
+    },
+    "StaffTenure": {
+      "attributes": {
+        "details": {},
+        "end_date": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "ongoing": {
+          "type": "boolean"
+        },
+        "role": {
+          "type": "string",
+          "enum": [
+            "coach",
+            "staff",
+            "broadcaster"
+          ]
+        },
+        "source": {},
+        "start_date": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string"
+        }
+      },
+      "references": [
+        "organization",
+        "person",
+        "team"
       ]
     },
     "State": {

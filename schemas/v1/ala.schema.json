@@ -1283,6 +1283,35 @@
         {
           "properties": {
             "type": {
+              "const": "Person"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "details": {},
+                "name": {
+                  "type": "string"
+                },
+                "source": {}
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "player": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
               "const": "Player"
             },
             "attributes": {
@@ -1819,6 +1848,72 @@
               "type": "object",
               "properties": {
                 "city": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
+              "const": "StaffTenure"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "details": {},
+                "end_date": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "ongoing": {
+                  "type": "boolean"
+                },
+                "role": {
+                  "type": "string",
+                  "enum": [
+                    "coach",
+                    "staff",
+                    "broadcaster"
+                  ]
+                },
+                "source": {},
+                "start_date": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "title": {
+                  "type": "string"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "organization": {
+                  "$ref": "#/$defs/reference"
+                },
+                "person": {
+                  "$ref": "#/$defs/reference"
+                },
+                "team": {
                   "$ref": "#/$defs/reference"
                 }
               },
