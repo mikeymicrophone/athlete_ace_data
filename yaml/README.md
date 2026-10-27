@@ -2,6 +2,8 @@
 
 This is a sourced catalog for `micharisma-seeds/v1`, namespace `MIC`, catalog `ALA`. It adds YAML files alongside the existing JSON library. The original small pilot is retained, with latest completed-season team/player coverage under `coverage_2025/`.
 
+`coverage_2026/` adds seven current competition datasets, three historical NBA participant datasets, the NHL schedule, persistent numbers, and visual assets. See the [current capture report](../sources/coverage_2026/report.json), [source boundaries](../sources/coverage_2026/README.md), and [application workflow](../../../../docs/seed-library-2026.md). The counts below describe the earlier pilot and its 2025 coverage.
+
 The ten completed main-league seasons are NBA, NHL, and EPL `2016_2017` through `2025_2026`, plus NFL `2016` through `2025`. One additional Championship season supports Fulham's promotion example. `Season.label` preserves the complete label. Its `year` reference is the starting calendar year; an NFL label uses that season's designated year. Calendar dates are omitted rather than inferred.
 
 ## Coverage
@@ -16,7 +18,7 @@ See [the capture and generator instructions](../sources/README.md) for source bo
 
 The Leddy sample adds the March 2022 trade and assignment, July contract extension, a real March 22 game with his statistics, and a partial two-player October opening-night roster. The precise contract dates, stint end, and starter status remain unknown. Its 2022 extension is not treated as the original contract for the earlier stint. The trade's movement coverage is explicitly partial. NHL season-statistics participants remain Activations; they do not become invented roster observations or games.
 
-The full recursive catalog now has 24 manifests, 4,537 definitions, and 4,542 code bindings: 114 Teams, 1,766 Players, 126 Campaigns, 1,864 Activations, 114 Organizations, 114 affiliations, 83 Rosters, 281 entries, one Contract, two Transactions and player movements, one Stint, one game Contest, two Contestants, and one Appearance, plus the original geography/sport/season anchors.
+The earlier documented recursive snapshot had 24 manifests, 4,537 definitions, and 4,542 code bindings: 114 Teams, 1,766 Players, 126 Campaigns, 1,864 Activations, 114 Organizations, 114 affiliations, 83 Rosters, 281 entries, one Contract, two Transactions and player movements, one Stint, one game Contest, two Contestants, and one Appearance, plus the original geography/sport/season anchors.
 
 The original root-level pilot has these counts:
 
@@ -41,7 +43,7 @@ An Activation asserts membership in that team's season, even when the player dep
 
 `foundation.yaml`, `years.yaml`, `seasons_*.yaml`, `teams.yaml`, and `players.yaml` define shared anchors. The five named sample files define Campaigns and membership observations. The importer indexes definitions across the selected files before resolving dependencies; filename order must not determine identity.
 
-Each catalog file declares `format`, `namespace`, `catalog`, `source`, `scope`, and `groups`. Each group declares a scope and records. A record declares `type`, a full catalog-relative `code`, an `attributes` mapping, and a `references` mapping. It may additionally declare aliases or override its inherited source. There are no local database IDs in these references.
+The original pilot files declare `format`, `namespace`, `catalog`, `source`, `scope`, and `groups`. Each group declares a scope and records. The 2026 extension also uses top-level `records`. A record declares `type`, a full catalog-relative `code`, an `attributes` mapping, and a `references` mapping. It may additionally declare aliases or override its inherited source. There are no local database IDs in these references.
 
 File scope and group scope provide relationship context; a group's explicit value replaces the corresponding inherited value. Records remain individually coded. For example:
 
@@ -73,10 +75,10 @@ For subsequent manifests, `entity_sequence: "05_22"`, `[5, 22]`, and `[athletes,
 
 ## Evidence and replay boundary
 
-Every record inherits an official source URL or carries its own. Known publication dates are strings under `source.published_on`; undated pages omit that field. Source notes identify the sample and season-union meaning. Primary sources include the [NBA season index](https://www.nba.com/news/history-season-recaps-index), [NFL historical standings](https://www.nfl.com/standings/league/2025/REG), [NHL records](https://records.nhl.com/standings/all-time-standings), and [Premier League season history](https://www.premierleague.com/en/premier-league-explained).
+The earlier official-source pilot attaches an inherited or per-record source URL to each record. The [2026 source boundaries](../sources/coverage_2026/README.md) also cover ESPN, Basketball Reference, and authored schematic representations. Known publication dates are strings under `source.published_on`; undated pages omit that field. Source notes identify the sample and season-union meaning. Primary pilot sources include the [NBA season index](https://www.nba.com/news/history-season-recaps-index), [NFL historical standings](https://www.nfl.com/standings/league/2025/REG), [NHL records](https://records.nhl.com/standings/all-time-standings), and [Premier League season history](https://www.premierleague.com/en/premier-league-explained).
 
 The membership examples cite the [Knicks Hart announcement](https://www.nba.com/knicks/news/new-york-knicks-acquire-josh-hart), [Broncos Sanders announcement](https://www.denverbroncos.com/news/broncos-agree-trade-emmanuel-sanders-to-49ers-draft-picks), and [Blues Leddy announcement](https://www.nhl.com/blues/news/blues-acquire-leddy-witkowski-from-red-wings-332085830). The separate annual histories cite the [official Raiders relocation announcement](https://www.raiders.com/news/las-vegas-raiders-silver-and-black-officially-welcomed-to-the-silver-state) and [Fulham promotion announcement](https://www.premierleague.com/en/news/2567479).
 
 Ordinary replay must create missing records, retain existing values and memberships, add conflict-free aliases, and report differences. An omitted player is not a deletion instruction. The source-backed files support a preservation-oriented importer; the data alone does not make the legacy JSON seeders preservation-safe, reconcile duplicate live franchises, or alter existing database associations.
 
-The AthleteAce integration tests import the original root-level pilot and verify replay, file relocation, preserved edits, missing-row reconstruction with changed numeric IDs, and the sample seasonal relationships. Expanded-catalog tests import every manifest recursively and verify all team counts, selected memberships against the capture, complete coverage for the three chosen teams, and reversed-order replay. These tests use the test database. See AthleteAce's `docs/yaml-seed-library.md` for import commands and remaining launch work.
+The AthleteAce integration tests import the original root-level pilot and verify replay, file relocation, preserved edits, missing-row reconstruction with changed numeric IDs, and the sample seasonal relationships. The 2025 catalog regression selection imports the pre-extension manifests recursively and verifies team counts, selected memberships against that capture, complete coverage for the three chosen teams, and reversed-order replay. Separate `current_coverage_spec.rb` checks cover the 2026 captures, historical NBA participants, schedule, numbers, shared club identities, and provider bindings. Model and importer tests use the test database. See AthleteAce's `docs/seed-library-2026.md` for the current workflow and `docs/yaml-seed-library.md` for the earlier pilot.

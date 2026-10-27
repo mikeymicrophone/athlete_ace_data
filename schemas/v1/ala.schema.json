@@ -284,6 +284,50 @@
         {
           "properties": {
             "type": {
+              "const": "AssetRepresentation"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "byte_size": {
+                  "type": "integer"
+                },
+                "canonical_path": {
+                  "type": "string"
+                },
+                "content_type": {
+                  "type": "string"
+                },
+                "details": {},
+                "file_format": {
+                  "type": "string"
+                },
+                "sha256": {
+                  "type": "string"
+                },
+                "source": {},
+                "view": {
+                  "type": "string"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "subject": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
               "const": "Campaign"
             },
             "attributes": {
@@ -1142,13 +1186,74 @@
             "references": {
               "type": "object",
               "properties": {
-                "country": {
-                  "$ref": "#/$defs/reference"
-                },
                 "jurisdiction": {
                   "$ref": "#/$defs/reference"
                 },
                 "sport": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
+              "const": "Logo"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "details": {},
+                "end_date": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "name": {
+                  "type": "string"
+                },
+                "ongoing": {
+                  "type": "boolean"
+                },
+                "role": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "source": {},
+                "start_date": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "team": {
                   "$ref": "#/$defs/reference"
                 }
               },
@@ -2277,6 +2382,125 @@
                   "$ref": "#/$defs/reference"
                 },
                 "to_team": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
+              "const": "Uniform"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "details": {},
+                "end_date": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "name": {
+                  "type": "string"
+                },
+                "ongoing": {
+                  "type": "boolean"
+                },
+                "role": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "source": {},
+                "start_date": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "team": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
+              "const": "UniformCampaign"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {},
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "campaign": {
+                  "$ref": "#/$defs/reference"
+                },
+                "uniform": {
+                  "$ref": "#/$defs/reference"
+                }
+              },
+              "required": [],
+              "additionalProperties": false
+            }
+          }
+        },
+        {
+          "properties": {
+            "type": {
+              "const": "UniformPiece"
+            },
+            "attributes": {
+              "type": "object",
+              "properties": {
+                "details": {},
+                "name": {
+                  "type": "string"
+                },
+                "source": {}
+              },
+              "required": [],
+              "additionalProperties": false
+            },
+            "references": {
+              "type": "object",
+              "properties": {
+                "uniform": {
                   "$ref": "#/$defs/reference"
                 }
               },

@@ -6,9 +6,15 @@ root = File.expand_path("../pseudo", __dir__)
 check = ARGV.delete("--check")
 abort "Usage: ruby scripts/build_pseudo_games.rb [--check]" unless ARGV.empty?
 counts = Hash.new(0)
+number_periods = Hash.new { |hash, key| hash[key] = [] }
 (2022..2024).each do |year|
   input = YAML.safe_load_file(File.join(root, "hbl_#{year}.yml"))
   definitions = input.fetch("records")
+  definitions.select { |record| record.fetch("type") == "Stint" }.each do |stint|
+    refs = stint.fetch("references")
+    number = format("%02d", stint.fetch("code").split("-").last.to_i)
+    number_periods[[refs.fetch("team"), refs.fetch("player"), number]] << stint.fetch("attributes").slice("start_date", "end_date")
+  end
   games = definitions.select { |record| record.fetch("type") == "Game" }.to_h { |record| [record.fetch("code"), record] }
   activations = definitions.select { |record| record.fetch("type") == "Activation" }.group_by { |record| record.fetch("references").fetch("campaign") }
   entries = definitions.select { |record| record.fetch("type") == "Contestant" && games.key?(record.fetch("references").fetch("contest")) }
@@ -36,13 +42,12 @@ counts = Hash.new(0)
       player = activation.fetch("references").fetch("player")
       slot = activation.fetch("code").split("-").last
       stint = "#{campaign}-STINT-#{slot}"
-      number = format("%02d", slot.to_i)
       status = index < 10 ? "active" : "inactive"
       reason = { 9 => "coach_decision", 10 => "ankle_soreness", 11 => "rest" }[index]
       details = { "participation" => index < 9 ? "played" : "did_not_play" }
       details["reason"] = reason if reason
       records << { "type" => "RosterEntry", "code" => "#{roster_code}-PLAYER-#{slot}",
-        "attributes" => { "status" => status, "jersey_number" => number, "details" => details },
+        "attributes" => { "status" => status, "details" => details },
         "references" => { "roster" => roster_code, "player" => player, "stint" => stint } }
       next unless index < 9
 
@@ -60,7 +65,7 @@ counts = Hash.new(0)
         "rebounds" => (rotation + index * 3) % 10, "assists" => (rotation + index * 2) % 8,
         "steals" => index % 3, "blocks" => (index + 1) % 3, "turnovers" => index % 4, "personal_fouls" => 1 + index % 4 }
       records << { "type" => "Appearance", "code" => "#{entry.fetch('code')}-APPEARANCE-#{slot}",
-        "attributes" => { "starter" => index < 5, "jersey_number" => number, "statistics" => statistics },
+        "attributes" => { "starter" => index < 5, "statistics" => statistics },
         "references" => { "player" => player, "contestant" => entry.fetch("code"), "stint" => stint } }
     end
   end
@@ -76,4 +81,28 @@ counts = Hash.new(0)
   end
   records.each { |record| counts[record.fetch("type")] += 1 }
 end
+numbers = number_periods.sort.flat_map do |(team, player, number), periods|
+  merged = []
+  periods.sort_by { |period| period.fetch("start_date") }.each do |period|
+    if merged.last && Date.iso8601(merged.last.fetch("end_date")) + 1 == Date.iso8601(period.fetch("start_date"))
+      merged.last["end_date"] = period.fetch("end_date")
+    else
+      merged << period.dup
+    end
+  end
+  merged.map do |period|
+    { "type" => "JerseyNumberAssignment", "code" => "#{team}-NUMBER-#{player}-FROM_#{period.fetch('start_date').tr('-', '_')}",
+      "attributes" => period.merge("number" => number), "references" => { "team" => team, "player" => player } }
+  end
+end
+document = { "format" => "micharisma-seeds/v1", "namespace" => "MIC", "catalog" => "ALA",
+  "source" => { "note" => "Fictional persistent basketball number assignments generated from the simulated team stints. Adjacent periods with the same number are merged across seasons." }, "records" => numbers }
+path = File.join(root, "hbl_numbers.yml")
+contents = YAML.dump(document)
+if check
+  abort "Generated file differs: #{path}" unless File.file?(path) && File.read(path) == contents
+else
+  File.write(path, contents)
+end
+counts["JerseyNumberAssignment"] = numbers.size
 puts JSON.pretty_generate(counts.sort.to_h)

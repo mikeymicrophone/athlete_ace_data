@@ -66,6 +66,33 @@
         "stint"
       ]
     },
+    "AssetRepresentation": {
+      "attributes": {
+        "byte_size": {
+          "type": "integer"
+        },
+        "canonical_path": {
+          "type": "string"
+        },
+        "content_type": {
+          "type": "string"
+        },
+        "details": {},
+        "file_format": {
+          "type": "string"
+        },
+        "sha256": {
+          "type": "string"
+        },
+        "source": {},
+        "view": {
+          "type": "string"
+        }
+      },
+      "references": [
+        "subject"
+      ]
+    },
     "Campaign": {
       "attributes": {
         "abbreviation": {
@@ -688,9 +715,55 @@
         }
       },
       "references": [
-        "country",
         "jurisdiction",
         "sport"
+      ]
+    },
+    "Logo": {
+      "attributes": {
+        "details": {},
+        "end_date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "name": {
+          "type": "string"
+        },
+        "ongoing": {
+          "type": "boolean"
+        },
+        "role": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "source": {},
+        "start_date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "references": [
+        "team"
       ]
     },
     "Organization": {
@@ -1475,6 +1548,72 @@
         "player",
         "to_organization",
         "to_team"
+      ]
+    },
+    "Uniform": {
+      "attributes": {
+        "details": {},
+        "end_date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "name": {
+          "type": "string"
+        },
+        "ongoing": {
+          "type": "boolean"
+        },
+        "role": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "source": {},
+        "start_date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "references": [
+        "team"
+      ]
+    },
+    "UniformCampaign": {
+      "attributes": {},
+      "references": [
+        "campaign",
+        "uniform"
+      ]
+    },
+    "UniformPiece": {
+      "attributes": {
+        "details": {},
+        "name": {
+          "type": "string"
+        },
+        "source": {}
+      },
+      "references": [
+        "uniform"
       ]
     },
     "Year": {

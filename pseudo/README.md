@@ -24,6 +24,8 @@ The top four teams enter June playoffs, seeded first versus fourth and second ve
 
 The basketball supplement adds 390 game availability observations, 4,680 RosterEntries, and 3,510 Appearances across all 195 HBL games. Hockey and soccer have no appearances yet. Each basketball team lists all 12 contracted players for that game: ten active, one inactive with ankle soreness, and one inactive for rest. Nine active players enter the game, including five starters. The tenth active player is a coach-decision DNP and has no Appearance. Slots rotate between games, so players become unavailable and return under the same Contract and Stint.
 
+`hbl_numbers.yml` stores 128 independent player/team number periods. Adjacent periods with the same number merge across seasons. Game roster entries and appearances do not repeat these numbers.
+
 Each team totals 240 player-minutes for a 48-minute game without overtime. Individual points add up to the existing team score. Field goals, three-pointers, and free throws reconcile to each player's points. Other individual statistics provide varied simulated lines; this generator does not reconstruct possessions, shot locations, lineup substitutions, or cross-team event totals.
 
 Roster `kind: game_availability` means an observation of the full candidate roster, including unavailable players. `coverage: complete` refers to those 12 players, not twelve dressed players. Each Roster identifies its Game and Contestant through `details.game_code` and `details.contestant_code`. Those semantic codes are an interim seed convention checked by the dataset tests, not foreign-key associations. Its actual relational parent remains Campaign. Each Appearance directly references the existing Game Contestant and a matching dated Stint.
@@ -43,7 +45,7 @@ python -m unittest discover -s tools -p 'test_*.py'
 python tools/validate_seeds.py pseudo --registry pseudo/entity_sequences.yaml
 ```
 
-Use a Python environment installed with `tools/requirements.txt`, as described in [Contributing seed data](../CONTRIBUTING.md). Generation prints record counts. `--check` exits nonzero if any generated file differs or is missing. Unit checks must report 15 tests and `OK`; failures return nonzero. Schema validation must report 16 manifests and zero failures. Schema validation does not resolve references or exercise database constraints.
+Use a Python environment installed with `tools/requirements.txt`, as described in [Contributing seed data](../CONTRIBUTING.md). Generation prints record counts. `--check` exits nonzero if any generated file differs or is missing. Unit checks must report 16 tests and `OK`; failures return nonzero. Schema validation must report 17 manifests and zero failures. Schema validation does not resolve references or exercise database constraints.
 
 From the AthleteAce application checkout, validate and import this bundle with:
 
@@ -52,4 +54,4 @@ SEED_LIBRARY_ROOT="$PWD/db/seeds/athlete_ace_data/pseudo" mise exec -- ruby -S b
 SEED_LIBRARY_ROOT="$PWD/db/seeds/athlete_ace_data/pseudo" mise exec -- ruby -S bundle exec rails seeds:import
 ```
 
-Both commands return nonzero on failure. Preflight must report 15,893 records, 15,893 codes, and 16 files. Import creates missing records and preserves existing values. Its report must have zero conflicts for an unedited bundle. Repeating the import must create zero records with zero conflicts. Selecting this bundle does not clear existing catalog data. Use `seeds:import` directly to exercise the library without running the default `db:seed` orchestration.
+Both commands return nonzero on failure. Preflight must report 16,021 records, 16,021 codes, and 17 files. Import creates missing records and preserves existing values. Its report must have zero conflicts for an unedited bundle. Repeating the import must create zero records with zero conflicts. Selecting this bundle does not clear existing catalog data. Use `seeds:import` directly to exercise the library without running the default `db:seed` orchestration.

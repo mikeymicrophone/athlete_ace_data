@@ -25,7 +25,8 @@ class PseudoCatalogTest(unittest.TestCase):
                     "Division": 12, "Campaign": 72, "Player": 472,
                     "Contract": 1416, "Activation": 1416, "Stint": 1416,
                     "Game": 567, "ContestGame": 567, "TitleAward": 18,
-                    "Roster": 390, "RosterEntry": 4680, "Appearance": 3510}
+                    "Roster": 390, "RosterEntry": 4680, "Appearance": 3510,
+                    "JerseyNumberAssignment": 128}
         for kind, count in expected.items():
             self.assertEqual(len(self.by_type[kind]), count, kind)
         for record in self.records:
@@ -165,12 +166,30 @@ class PseudoCatalogTest(unittest.TestCase):
                     self.assertEqual(entry["attributes"]["status"], "active")
                     self.assertEqual(entry["attributes"]["details"]["participation"], "played")
                     self.assertEqual(entry["references"]["stint"], players[player]["references"]["stint"])
-                    self.assertEqual(entry["attributes"]["jersey_number"], players[player]["attributes"]["jersey_number"])
+                    self.assertNotIn("jersey_number", entry["attributes"])
+                    self.assertNotIn("jersey_number", players[player]["attributes"])
                 else:
                     self.assertEqual(entry["attributes"]["details"]["participation"], "did_not_play")
                     dnp_count += entry["attributes"]["status"] == "active"
             self.assertEqual(dnp_count, 1)
         self.assertEqual(len(appearances), 390)
+
+    def test_jersey_numbers_persist_across_seasons_without_game_copies(self):
+        periods = defaultdict(list)
+        for assignment in self.by_type["JerseyNumberAssignment"]:
+            refs = assignment["references"]
+            periods[(refs["team"], refs["player"])].append(assignment["attributes"])
+        for entry in self.by_type["RosterEntry"]:
+            roster = self.by_code[entry["references"]["roster"]]
+            campaign = self.by_code[roster["references"]["campaign"]]
+            key = (campaign["references"]["team"], entry["references"]["player"])
+            observed_on = roster["attributes"]["effective_on"]
+            matching = [period for period in periods[key]
+                        if period["start_date"] <= observed_on <= period["end_date"]]
+            self.assertEqual(len(matching), 1, entry["code"])
+            self.assertIsInstance(matching[0]["number"], str)
+        self.assertTrue(any(period["start_date"] == "2022-01-01" and period["end_date"] == "2024-12-31"
+                            for group in periods.values() for period in group))
 
     def test_injured_players_return_under_the_same_contract_and_stint(self):
         timelines = defaultdict(list)
