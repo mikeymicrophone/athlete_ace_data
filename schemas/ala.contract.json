@@ -766,6 +766,46 @@
         "team"
       ]
     },
+    "Membership": {
+      "attributes": {
+        "active": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "end_date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "start_date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "references": [
+        "division",
+        "team"
+      ]
+    },
     "Organization": {
       "attributes": {
         "abbreviation": {
