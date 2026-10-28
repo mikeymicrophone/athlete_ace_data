@@ -11,6 +11,14 @@ class Sports2026Builder
     "NBA" => { "NY" => "NYK", "NO" => "NOP", "GS" => "GSW", "SA" => "SAS", "UTAH" => "UTA", "WSH" => "WAS", "BRK" => "BKN", "CHO" => "CHA", "PHO" => "PHX" },
     "NFL" => { "WSH" => "WAS" }, "EPL" => { "MAN" => "MUN", "MNC" => "MCI" }
   }.freeze
+  SOCCER = %w[EPL MLS UCL].freeze
+  # The MLB source gives the ballpark city and a short nickname; these teams
+  # play under a different place or club name.
+  MLB_NAMES = {
+    "AZ" => [ "Arizona", "Diamondbacks" ], "TEX" => [ "Texas", "Rangers" ], "COL" => [ "Colorado", "Rockies" ],
+    "MIN" => [ "Minnesota", "Twins" ], "TB" => [ "Tampa Bay", "Rays" ], "NYY" => [ "New York", "Yankees" ],
+    "NYM" => [ "New York", "Mets" ], "LAA" => [ "Los Angeles", "Angels" ], "ATH" => [ "Oakland", "Athletics" ]
+  }.freeze
 
   def initialize(check: false)
     @check = check
@@ -130,11 +138,19 @@ class Sports2026Builder
     unless code
       code = league == "UCL" ? "SOC-CLUB-ESPN_#{team.fetch('source_id')}" : "#{sport}-#{league}-TEAM-#{abbreviation}"
       raise "Historical NBA team lacks a catalog identity: #{team.inspect}" if capture.fetch("provider") == "basketball_reference"
-      add("Team", code, { "territory" => team.fetch("territory"), "mascot" => team.fetch("mascot"), "abbreviation" => abbreviation },
+      add("Team", code, team_names(league, team, abbreviation).merge("abbreviation" => abbreviation),
         { "league" => "#{sport}-LEAGUE-#{league}" }, source: source_for(capture, team))
     end
     @team_ids[key] = code
     code
+  end
+
+  # Clubs are known by their full name, without a separate place.
+  def team_names(league, team, abbreviation)
+    return { "mascot" => team.fetch("name") } if SOCCER.include?(league)
+
+    territory, mascot = league == "MLB" ? MLB_NAMES.fetch(abbreviation, [ team.fetch("territory"), team.fetch("mascot") ]) : [ team.fetch("territory"), team.fetch("mascot") ]
+    { "territory" => territory, "mascot" => mascot }
   end
 
   def build_capture(name)

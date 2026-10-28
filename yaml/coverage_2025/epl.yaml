@@ -18,8 +18,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-ARS
     attributes:
-      territory: Arsenal
-      mascot:
+      mascot: Arsenal
       abbreviation: ARS
     references: {}
   - type: Campaign
@@ -67,8 +66,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-AVL
     attributes:
-      territory: Aston
-      mascot: Villa
+      mascot: Aston Villa
       abbreviation: AVL
     references: {}
   - type: Campaign
@@ -116,8 +114,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-BHA
     attributes:
-      territory: Brighton & Hove
-      mascot: Albion
+      mascot: Brighton & Hove Albion
       abbreviation: BHA
     references: {}
   - type: Campaign
@@ -165,8 +162,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-BOU
     attributes:
-      territory: AFC
-      mascot: Bournemouth
+      mascot: AFC Bournemouth
       abbreviation: BOU
     references: {}
   - type: Campaign
@@ -214,8 +210,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-BRE
     attributes:
-      territory: Brentford
-      mascot:
+      mascot: Brentford
       abbreviation: BRE
     references: {}
   - type: Campaign
@@ -263,8 +258,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-BUR
     attributes:
-      territory: Burnley
-      mascot:
+      mascot: Burnley
       abbreviation: BUR
     references: {}
   - type: Campaign
@@ -312,8 +306,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-CHE
     attributes:
-      territory: Chelsea
-      mascot:
+      mascot: Chelsea
       abbreviation: CHE
     references: {}
   - type: Campaign
@@ -361,8 +354,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-CRY
     attributes:
-      territory: Crystal
-      mascot: Palace
+      mascot: Crystal Palace
       abbreviation: CRY
     references: {}
   - type: Campaign
@@ -410,8 +402,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-EVE
     attributes:
-      territory: Everton
-      mascot:
+      mascot: Everton
       abbreviation: EVE
     references: {}
   - type: Campaign
@@ -501,8 +492,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-LEE
     attributes:
-      territory: Leeds
-      mascot: United
+      mascot: Leeds United
       abbreviation: LEE
     references: {}
   - type: Campaign
@@ -550,8 +540,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-LIV
     attributes:
-      territory: Liverpool
-      mascot:
+      mascot: Liverpool
       abbreviation: LIV
     references: {}
   - type: Campaign
@@ -599,8 +588,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-MCI
     attributes:
-      territory: Manchester
-      mascot: City
+      mascot: Manchester City
       abbreviation: MCI
     references: {}
   - type: Campaign
@@ -648,8 +636,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-MUN
     attributes:
-      territory: Manchester
-      mascot: United
+      mascot: Manchester United
       abbreviation: MUN
     references: {}
   - type: Campaign
@@ -697,8 +684,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-NEW
     attributes:
-      territory: Newcastle
-      mascot: United
+      mascot: Newcastle United
       abbreviation: NEW
     references: {}
   - type: Campaign
@@ -746,8 +732,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-NFO
     attributes:
-      territory: Nottingham
-      mascot: Forest
+      mascot: Nottingham Forest
       abbreviation: NFO
     references: {}
   - type: Campaign
@@ -795,8 +780,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-SUN
     attributes:
-      territory: Sunderland
-      mascot:
+      mascot: Sunderland
       abbreviation: SUN
     references: {}
   - type: Campaign
@@ -844,8 +828,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-TOT
     attributes:
-      territory: Tottenham
-      mascot: Hotspur
+      mascot: Tottenham Hotspur
       abbreviation: TOT
     references: {}
   - type: Campaign
@@ -893,8 +876,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-WHU
     attributes:
-      territory: West Ham
-      mascot: United
+      mascot: West Ham United
       abbreviation: WHU
     references: {}
   - type: Campaign
@@ -942,8 +924,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-WOL
     attributes:
-      territory: Wolverhampton
-      mascot: Wanderers
+      mascot: Wolverhampton Wanderers
       abbreviation: WOL
     references: {}
   - type: Campaign

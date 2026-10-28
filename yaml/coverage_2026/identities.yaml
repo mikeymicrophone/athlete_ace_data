@@ -47831,7 +47831,7 @@ records:
 - type: Team
   code: BSB-MLB-TEAM-LAA
   attributes:
-    territory: Anaheim
+    territory: Los Angeles
     mascot: Angels
     abbreviation: LAA
   references:
@@ -48762,8 +48762,8 @@ records:
 - type: Team
   code: BSB-MLB-TEAM-AZ
   attributes:
-    territory: Phoenix
-    mascot: D-backs
+    territory: Arizona
+    mascot: Diamondbacks
     abbreviation: AZ
   references:
     league: BSB-LEAGUE-MLB
@@ -53838,7 +53838,7 @@ records:
 - type: Team
   code: BSB-MLB-TEAM-COL
   attributes:
-    territory: Denver
+    territory: Colorado
     mascot: Rockies
     abbreviation: COL
   references:
@@ -58764,7 +58764,7 @@ records:
 - type: Team
   code: BSB-MLB-TEAM-NYM
   attributes:
-    territory: Flushing
+    territory: New York
     mascot: Mets
     abbreviation: NYM
   references:
@@ -59605,7 +59605,7 @@ records:
 - type: Team
   code: BSB-MLB-TEAM-ATH
   attributes:
-    territory: Sacramento
+    territory: Oakland
     mascot: Athletics
     abbreviation: ATH
   references:
@@ -64186,7 +64186,7 @@ records:
 - type: Team
   code: BSB-MLB-TEAM-TB
   attributes:
-    territory: St. Petersburg
+    territory: Tampa Bay
     mascot: Rays
     abbreviation: TB
   references:
@@ -64847,7 +64847,7 @@ records:
 - type: Team
   code: BSB-MLB-TEAM-TEX
   attributes:
-    territory: Arlington
+    territory: Texas
     mascot: Rangers
     abbreviation: TEX
   references:
@@ -66334,7 +66334,7 @@ records:
 - type: Team
   code: BSB-MLB-TEAM-MIN
   attributes:
-    territory: Minneapolis
+    territory: Minnesota
     mascot: Twins
     abbreviation: MIN
   references:
@@ -69594,7 +69594,7 @@ records:
 - type: Team
   code: BSB-MLB-TEAM-NYY
   attributes:
-    territory: Bronx
+    territory: New York
     mascot: Yankees
     abbreviation: NYY
   references:
@@ -72213,7 +72213,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-CHI
   attributes:
-    territory: Chicago Fire FC
     mascot: Chicago Fire FC
     abbreviation: CHI
   references:
@@ -72713,7 +72712,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-CLB
   attributes:
-    territory: Columbus Crew
     mascot: Columbus Crew
     abbreviation: CLB
   references:
@@ -73260,7 +73258,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-COL
   attributes:
-    territory: Colorado Rapids
     mascot: Colorado Rapids
     abbreviation: COL
   references:
@@ -73805,7 +73802,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-DAL
   attributes:
-    territory: FC Dallas
     mascot: FC Dallas
     abbreviation: DAL
   references:
@@ -74380,7 +74376,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-SKC
   attributes:
-    territory: Sporting Kansas City
     mascot: Sporting Kansas City
     abbreviation: SKC
   references:
@@ -74909,7 +74904,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-LA
   attributes:
-    territory: LA Galaxy
     mascot: LA Galaxy
     abbreviation: LA
   references:
@@ -75459,7 +75453,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-NE
   attributes:
-    territory: New England Revolution
     mascot: New England Revolution
     abbreviation: NE
   references:
@@ -76100,7 +76093,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-RBNY
   attributes:
-    territory: Red Bull New York
     mascot: Red Bull New York
     abbreviation: RBNY
   references:
@@ -76640,7 +76632,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-SJ
   attributes:
-    territory: San Jose Earthquakes
     mascot: San Jose Earthquakes
     abbreviation: SJ
   references:
@@ -77194,7 +77185,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-DC
   attributes:
-    territory: D.C. United
     mascot: D.C. United
     abbreviation: DC
   references:
@@ -77632,7 +77622,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-RSL
   attributes:
-    territory: Real Salt Lake
     mascot: Real Salt Lake
     abbreviation: RSL
   references:
@@ -78294,7 +78283,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-HOU
   attributes:
-    territory: Houston Dynamo FC
     mascot: Houston Dynamo FC
     abbreviation: HOU
   references:
@@ -78746,7 +78734,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-TOR
   attributes:
-    territory: Toronto FC
     mascot: Toronto FC
     abbreviation: TOR
   references:
@@ -79350,7 +79337,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-MTL
   attributes:
-    territory: CF Montréal
     mascot: CF Montréal
     abbreviation: MTL
   references:
@@ -79838,7 +79824,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-POR
   attributes:
-    territory: Portland Timbers
     mascot: Portland Timbers
     abbreviation: POR
   references:
@@ -80332,7 +80317,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-SEA
   attributes:
-    territory: Seattle Sounders FC
     mascot: Seattle Sounders FC
     abbreviation: SEA
   references:
@@ -80890,7 +80874,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-VAN
   attributes:
-    territory: Vancouver Whitecaps
     mascot: Vancouver Whitecaps
     abbreviation: VAN
   references:
@@ -81433,7 +81416,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-PHI
   attributes:
-    territory: Philadelphia Union
     mascot: Philadelphia Union
     abbreviation: PHI
   references:
@@ -81923,7 +81905,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-ORL
   attributes:
-    territory: Orlando City SC
     mascot: Orlando City SC
     abbreviation: ORL
   references:
@@ -82436,7 +82417,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-MIN
   attributes:
-    territory: Minnesota United FC
     mascot: Minnesota United FC
     abbreviation: MIN
   references:
@@ -82939,7 +82919,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-NYC
   attributes:
-    territory: New York City FC
     mascot: New York City FC
     abbreviation: NYC
   references:
@@ -83537,7 +83516,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-CIN
   attributes:
-    territory: FC Cincinnati
     mascot: FC Cincinnati
     abbreviation: CIN
   references:
@@ -84046,7 +84024,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-ATL
   attributes:
-    territory: Atlanta United FC
     mascot: Atlanta United FC
     abbreviation: ATL
   references:
@@ -84563,7 +84540,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-LAFC
   attributes:
-    territory: LAFC
     mascot: LAFC
     abbreviation: LAFC
   references:
@@ -85098,7 +85074,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-NSH
   attributes:
-    territory: Nashville SC
     mascot: Nashville SC
     abbreviation: NSH
   references:
@@ -85608,7 +85583,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-MIA
   attributes:
-    territory: Inter Miami CF
     mascot: Inter Miami CF
     abbreviation: MIA
   references:
@@ -86161,7 +86135,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-ATX
   attributes:
-    territory: Austin FC
     mascot: Austin FC
     abbreviation: ATX
   references:
@@ -86616,7 +86589,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-CLT
   attributes:
-    territory: Charlotte FC
     mascot: Charlotte FC
     abbreviation: CLT
   references:
@@ -87131,7 +87103,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-STL
   attributes:
-    territory: St. Louis CITY SC
     mascot: St. Louis CITY SC
     abbreviation: STL
   references:
@@ -87715,7 +87686,6 @@ records:
 - type: Team
   code: SOC-MLS-TEAM-SD
   attributes:
-    territory: San Diego FC
     mascot: San Diego FC
     abbreviation: SD
   references:
@@ -88218,7 +88188,6 @@ records:
 - type: Team
   code: SOC-EPL-TEAM-HUL
   attributes:
-    territory: Hull City
     mascot: Hull City
     abbreviation: HUL
   references:
@@ -95296,7 +95265,6 @@ records:
 - type: Team
   code: SOC-EPL-TEAM-IPS
   attributes:
-    territory: Ipswich Town
     mascot: Ipswich Town
     abbreviation: IPS
   references:
@@ -96703,7 +96671,6 @@ records:
 - type: Team
   code: SOC-EPL-TEAM-COV
   attributes:
-    territory: Coventry City
     mascot: Coventry City
     abbreviation: COV
   references:
@@ -97558,7 +97525,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_83
   attributes:
-    territory: Barcelona
     mascot: Barcelona
     abbreviation: BAR
   references:
@@ -98069,7 +98035,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_86
   attributes:
-    territory: Real Madrid
     mascot: Real Madrid
     abbreviation: RMA
   references:
@@ -98641,7 +98606,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_102
   attributes:
-    territory: Villarreal
     mascot: Villarreal
     abbreviation: VIL
   references:
@@ -99098,7 +99062,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_104
   attributes:
-    territory: AS Roma
     mascot: AS Roma
     abbreviation: ROMA
   references:
@@ -99552,7 +99515,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_110
   attributes:
-    territory: Internazionale
     mascot: Internazionale
     abbreviation: INT
   references:
@@ -100048,7 +100010,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_114
   attributes:
-    territory: Napoli
     mascot: Napoli
     abbreviation: NAP
   references:
@@ -100503,7 +100464,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_124
   attributes:
-    territory: Borussia Dortmund
     mascot: Borussia Dortmund
     abbreviation: DOR
   references:
@@ -101015,7 +100975,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_132
   attributes:
-    territory: Bayern Munich
     mascot: Bayern Munich
     abbreviation: MUN
   references:
@@ -101483,7 +101442,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_134
   attributes:
-    territory: VfB Stuttgart
     mascot: VfB Stuttgart
     abbreviation: VFB
   references:
@@ -102377,7 +102335,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_142
   attributes:
-    territory: Feyenoord Rotterdam
     mascot: Feyenoord Rotterdam
     abbreviation: FEY
   references:
@@ -102944,7 +102901,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_148
   attributes:
-    territory: PSV Eindhoven
     mascot: PSV Eindhoven
     abbreviation: PSV
   references:
@@ -103478,7 +103434,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_160
   attributes:
-    territory: Paris Saint-Germain
     mascot: Paris Saint-Germain
     abbreviation: PSG
   references:
@@ -103898,7 +103853,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_166
   attributes:
-    territory: Lille
     mascot: Lille
     abbreviation: LILL
   references:
@@ -104351,7 +104305,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_175
   attributes:
-    territory: Lens
     mascot: Lens
     abbreviation: RCL
   references:
@@ -104832,7 +104785,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_244
   attributes:
-    territory: Real Betis
     mascot: Real Betis
     abbreviation: BET
   references:
@@ -105377,7 +105329,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_432
   attributes:
-    territory: Galatasaray
     mascot: Galatasaray
     abbreviation: GAL
   references:
@@ -105918,7 +105869,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_436
   attributes:
-    territory: Fenerbahce
     mascot: Fenerbahce
     abbreviation: FEN
   references:
@@ -106370,7 +106320,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_437
   attributes:
-    territory: FC Porto
     mascot: FC Porto
     abbreviation: FCP
   references:
@@ -106916,7 +106865,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_493
   attributes:
-    territory: Shakhtar Donetsk
     mascot: Shakhtar Donetsk
     abbreviation: SHK
   references:
@@ -107444,7 +107392,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_494
   attributes:
-    territory: Slavia Prague
     mascot: Slavia Prague
     abbreviation: SLP
   references:
@@ -108026,7 +107973,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_510
   attributes:
-    territory: Viking FK
     mascot: Viking FK
     abbreviation: VFK
   references:
@@ -108647,7 +108593,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_521
   attributes:
-    territory: Slovan Bratislava
     mascot: Slovan Bratislava
     abbreviation: SLB
   references:
@@ -109215,7 +109160,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_570
   attributes:
-    territory: Club Brugge
     mascot: Club Brugge
     abbreviation: BRU
   references:
@@ -109727,7 +109671,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_887
   attributes:
-    territory: AEK Athens
     mascot: AEK Athens
     abbreviation: AEK
   references:
@@ -110239,7 +110182,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_1068
   attributes:
-    territory: Atlético Madrid
     mascot: Atlético Madrid
     abbreviation: ATM
   references:
@@ -110709,7 +110651,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_2250
   attributes:
-    territory: Sporting CP
     mascot: Sporting CP
     abbreviation: SCP
   references:
@@ -111205,7 +111146,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_2572
   attributes:
-    territory: Como
     mascot: Como
     abbreviation: COMO
   references:
@@ -111657,7 +111597,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_2980
   attributes:
-    territory: Bodo/Glimt
     mascot: Bodo/Glimt
     abbreviation: BODO
   references:
@@ -112220,7 +112159,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_4411
   attributes:
-    territory: LASK Linz
     mascot: LASK Linz
     abbreviation: LAS
   references:
@@ -112693,7 +112631,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_11420
   attributes:
-    territory: RB Leipzig
     mascot: RB Leipzig
     abbreviation: RBL
   references:
@@ -113161,7 +113098,6 @@ records:
 - type: Team
   code: SOC-CLUB-ESPN_21922
   attributes:
-    territory: Sabah FK
     mascot: Sabah FK
     abbreviation: SAB
   references:

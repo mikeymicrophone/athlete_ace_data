@@ -106,8 +106,7 @@ groups:
   - type: Team
     code: SOC-EPL-TEAM-FUL
     attributes:
-      territory: Fulham
-      mascot: FC
+      mascot: Fulham
       abbreviation: FUL
     references: {}
     source:

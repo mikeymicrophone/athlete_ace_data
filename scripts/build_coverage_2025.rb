@@ -16,6 +16,8 @@ class Coverage2025
     "NHL" => { sport: "HCK", season: "2025_2026", count: 32, full: "STL" },
     "EPL" => { sport: "SOC", season: "2025_2026", count: 20, full: nil }
   }.freeze
+  # The NHL source's place name for the two New York clubs is "NY <club>".
+  NHL_PLACES = { "NYI" => "New York", "NYR" => "New York" }.freeze
   EPL_ABBREVIATIONS = {
     "AFC Bournemouth" => "BOU", "Arsenal" => "ARS", "Aston Villa" => "AVL",
     "Brentford" => "BRE", "Brighton & Hove Albion" => "BHA", "Burnley" => "BUR",
@@ -209,8 +211,12 @@ class Coverage2025
           if league == "NBA" && abbreviation == "POR"
             territory, mascot = "Portland", "Trail Blazers"
           end
+          territory = league == "NHL" ? NHL_PLACES.fetch(abbreviation, team.fetch("territory")) : team.fetch("territory", territory)
+          mascot = team.fetch("mascot", mascot)
+          # Clubs are known by their full name, without a separate place.
+          territory, mascot = nil, team.fetch("name") if league == "EPL"
           records << { "type" => "Team", "code" => team_code,
-            "attributes" => { "territory" => team.fetch("territory", territory), "mascot" => team.fetch("mascot", mascot), "abbreviation" => abbreviation }, "references" => {} }
+            "attributes" => { "territory" => territory, "mascot" => mascot, "abbreviation" => abbreviation }.compact, "references" => {} }
           known[team_code] = team_code
         end
         records << { "type" => "Campaign", "code" => campaign_code,

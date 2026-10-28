@@ -841,7 +841,7 @@ groups:
   - type: Team
     code: HCK-NHL-TEAM-NYI
     attributes:
-      territory: NY Islanders
+      territory: New York
       mascot: Islanders
       abbreviation: NYI
     references: {}
@@ -891,7 +891,7 @@ groups:
   - type: Team
     code: HCK-NHL-TEAM-NYR
     attributes:
-      territory: NY Rangers
+      territory: New York
       mascot: Rangers
       abbreviation: NYR
     references: {}
